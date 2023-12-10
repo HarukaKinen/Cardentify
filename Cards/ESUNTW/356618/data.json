@@ -10,7 +10,7 @@
             "country": "TW"
         },
         "card": {
-            "face": "0.svg",
+            "image": "0.svg",
             "type": "Credit",
             "brand": "JCB",
             "country": "TW"

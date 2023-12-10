@@ -10,7 +10,7 @@
             "country": "TW"
         },
         "card": {
-            "face": "0.jpg",
+            "image": "0.jpg",
             "type": "Debit",
             "brand": "VISA",
             "level": "Classic",

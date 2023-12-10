@@ -7,7 +7,7 @@
             "country": "US"
         },
         "card": {
-            "face": "0.jpg",
+            "image": "0.jpg",
             "type": "Debit",
             "brand": "VISA",
             "country": "US"
