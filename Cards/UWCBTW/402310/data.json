@@ -1,0 +1,21 @@
+[
+    {
+        "description": "國泰世華CUBE卡 (原KOKO卡)",
+        "bin": [
+            402310
+        ],
+        "issuer": {
+            "name": "國泰世華銀行 - Cathay United Bank",
+            "code": "UWCBTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.jpg",
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]

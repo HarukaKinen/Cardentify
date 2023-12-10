@@ -12,6 +12,12 @@
         "url": "https://www.firstbank.com.tw"
     },
     {
+        "name": "國泰世華銀行 - Cathay United Bank",
+        "code": "UWCBTW",
+        "country": "TW",
+        "url": "https://www.cathaybk.com.tw"
+    },
+    {
         "name": "Green Dot",
         "code": "GDOTUS",
         "country": "US",
