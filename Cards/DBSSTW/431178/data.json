@@ -10,9 +10,9 @@
             "country": "TW"
         },
         "card": {
-            "image": "0.PNG",
+            "image": "0.png",
             "type": "Credit",
-            "brand": "visa",
+            "brand": "VISA",
             "level": "Infinite",
             "country": "TW"
         },
