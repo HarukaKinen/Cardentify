@@ -14,7 +14,7 @@
             "type": "Credit",
             "brand": "VISA",
             "level": "Signature",
-            "mark": "Commercial",
+            "category": "Commercial",
             "country": "TW"
         },
         "source": "Apple Pay"
