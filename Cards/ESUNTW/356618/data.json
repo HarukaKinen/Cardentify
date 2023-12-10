@@ -13,6 +13,7 @@
             "image": "0.svg",
             "type": "Credit",
             "brand": "JCB",
+            "category": "Precious",
             "country": "TW"
         },
         "source": "Apple Pay"
