@@ -1,0 +1,21 @@
+[
+    {
+        "description": "星展饗樂生活白金悠遊卡",
+        "bin": [
+            463670
+        ],
+        "issuer": {
+            "name": "星展銀行 (台灣) - DBS BANK (TAIWAN)",
+            "code": "DBSSTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]
