@@ -34,4 +34,4 @@ jobs:
                   author_email: Kotoki1337@gmail.com
                   new_branch: data
                   message: "Update data"
-                  push: "--force"
+                  push: "--force origin data"
