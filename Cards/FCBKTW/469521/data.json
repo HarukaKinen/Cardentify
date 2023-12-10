@@ -15,6 +15,7 @@
             "brand": "VISA",
             "level": "Classic",
             "country": "TW"
-        }
+        },
+        "source": "Apple Pay"
     }
 ]
