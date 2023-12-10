@@ -34,7 +34,7 @@ for files in repos:
                             l.update({"image": image, "url": path})
                             cards.append(l)
 
-cards = cards.sort(key=lambda x: x['description'])
+cards = sorted(cards, key=lambda x: x['issuer']['code'])
 
 with open("data.json", "w") as f:
     json.dump(cards, f, indent=4)
