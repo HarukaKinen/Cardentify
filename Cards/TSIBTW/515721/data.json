@@ -1,0 +1,22 @@
+[
+    {
+        "description": "台新Flygo卡",
+        "bin": [
+            414763
+        ],
+        "issuer": {
+            "name": "台新銀行 - TAISHIN INTERNATIONAL BANK",
+            "code": "TSIBTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "MASTERCARD",
+            "level": "Titanium",
+            "category": "Commercial",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]
