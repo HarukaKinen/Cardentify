@@ -20,6 +20,8 @@ jobs:
               with:
                   python-version: "3.9.12" # Version range or exact version of a Python version to use, using SemVer's version range syntax
                   architecture: "x64"
+            - name: pip install
+              run: pip install requests
             - name: Run Python
               run: python main.py
               env:
