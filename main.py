@@ -15,6 +15,7 @@ for files in repos:
     if files["name"] == "bank.json":
         r = requests.get(files["download_url"])
         bank_data = r.json()
+        bank_data = sorted(bank_data, key=lambda x: x['code'])
     if files["type"] == "dir":
         r = requests.get(files["url"])
         cards_data = r.json()
@@ -32,6 +33,8 @@ for files in repos:
                             path = i["html_url"].replace("data.json", l["card"]["image"])
                             l.update({"image": image, "url": path})
                             cards.append(l)
+
+cards = cards.sort(key=lambda x: x['description'])
 
 with open("data.json", "w") as f:
     json.dump(cards, f, indent=4)
