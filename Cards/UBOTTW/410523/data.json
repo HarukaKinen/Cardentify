@@ -1,0 +1,22 @@
+[
+    {
+        "description": "聯邦賴點商務御璽卡",
+        "bin": [
+            410523
+        ],
+        "issuer": {
+            "name": "聯邦銀行 - UNION BANK OF TAIWAN",
+            "code": "UBOTTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "mark": "Commercial",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]
