@@ -1,0 +1,21 @@
+[
+    {
+        "description": "宇宙明星BT21信用卡",
+        "bin": [
+            412698
+        ],
+        "issuer": {
+            "name": "兆豐銀行 - MEGA INTERNATIONAL COMMERCIAL BANK",
+            "code": "ICBCTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]
