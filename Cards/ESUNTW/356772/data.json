@@ -1,0 +1,21 @@
+[
+    {
+        "description": "玉山熊本熊卡-熊熊友好",
+        "bin": [
+            356772
+        ],
+        "issuer": {
+            "name": "玉山銀行 - E.SUN COMMERCIAL BANK",
+            "code": "ESUNTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.svg",
+            "type": "Credit",
+            "brand": "JCB",
+            "level": "Precious",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]
