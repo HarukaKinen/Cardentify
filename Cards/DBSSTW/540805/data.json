@@ -12,7 +12,7 @@
         "card": {
             "image": "0.png",
             "type": "Credit",
-            "brand": "VISA",
+            "brand": "MASTERCARD",
             "level": "Infinite",
             "country": "TW"
         },
