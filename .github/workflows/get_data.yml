@@ -5,7 +5,7 @@ name: Python application
 
 on:
     push:
-        branches: ["data"]
+        branches: ["main"]
     pull_request:
         branches: ["main"]
 
@@ -32,5 +32,5 @@ jobs:
                   add: '["bank.json", "data.json"]'
                   author_name: Moe Kotoki
                   author_email: Kotoki1337@gmail.com
-                  branch: data
+                  new_branch: data
                   message: "Update data"
