@@ -28,8 +28,9 @@ for files in repos:
                         r = requests.get(i["download_url"])
                         data = r.json()
                         for l in data:
-                            path = i["download_url"].replace("data.json", l["card"]["image"])
-                            l.update({"image": path})
+                            image = i["download_url"].replace("data.json", l["card"]["image"])
+                            path = i["html_url"].replace("data.json", l["card"]["image"])
+                            l.update({"image": image, "url": path})
                             cards.append(l)
 
 with open("data.json", "w") as f:
