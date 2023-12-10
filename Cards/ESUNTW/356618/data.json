@@ -17,5 +17,24 @@
             "country": "TW"
         },
         "source": "Apple Pay"
+    },
+    {
+        "description": "玉山JCB晶緻卡",
+        "bin": [
+            356618
+        ],
+        "issuer": {
+            "name": "玉山銀行 - E.SUN COMMERCIAL BANK",
+            "code": "ESUNTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "1.svg",
+            "type": "Credit",
+            "brand": "JCB",
+            "level": "Precious",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
     }
 ]
