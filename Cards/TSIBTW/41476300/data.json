@@ -1,0 +1,21 @@
+[
+    {
+        "description": "台新太陽/玫瑰御璽卡",
+        "bin": [
+            41476300
+        ],
+        "issuer": {
+            "name": "台新銀行 - TAISHIN INTERNATIONAL BANK",
+            "code": "TSIBTW",
+            "country": "TW"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]

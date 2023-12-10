@@ -24,10 +24,16 @@
         "url": "https://www.megabank.com.tw"
     },
     {
+        "name": "台新銀行 - TAISHIN INTERNATIONAL BANK",
+        "code": "TSIBTW",
+        "country": "TW",
+        "url": "https://www.taishinbank.com.tw"
+    },
+    {
         "name": "聯邦銀行 - UNION BANK OF TAIWAN",
         "code": "UBOTTW",
         "country": "TW",
-        "url": "https://www.ubot.com.tw/"
+        "url": "https://www.ubot.com.tw"
     },
     {
         "name": "Green Dot",
