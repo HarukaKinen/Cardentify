@@ -18,7 +18,7 @@ jobs:
             - name: Setup-python
               uses: actions/setup-python@v2
               with:
-                  python-version: "3.9.2" # Version range or exact version of a Python version to use, using SemVer's version range syntax
+                  python-version: "3.9.12" # Version range or exact version of a Python version to use, using SemVer's version range syntax
                   architecture: "x64"
             - name: Run Python
               run: python main.py
