@@ -1,0 +1,20 @@
+[
+    {
+        "name": "玉山銀行 - E.SUN COMMERCIAL BANK",
+        "code": "ESUNTW",
+        "country": "TW",
+        "url": "https://www.esunbank.com.tw"
+    },
+    {
+        "name": "第一銀行 - FIRST COMMERCIAL BANK",
+        "code": "FCBKTW",
+        "country": "TW",
+        "url": "https://www.firstbank.com.tw"
+    },
+    {
+        "name": "Green Dot",
+        "code": "GDOTUS",
+        "country": "US",
+        "url": "https://www.greendot.com"
+    }
+]

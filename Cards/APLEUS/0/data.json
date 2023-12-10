@@ -1,0 +1,16 @@
+[
+    {
+        "description": "Apple Cash",
+        "issuer": {
+            "name": "Green Dot",
+            "code": "GDOTUS",
+            "country": "US"
+        },
+        "card": {
+            "face": "0.jpg",
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "US"
+        }
+    }
+]

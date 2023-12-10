@@ -1,0 +1,20 @@
+[
+    {
+        "description": "VISA金融卡",
+        "bin": [
+            469521
+        ],
+        "issuer": {
+            "name": "第一銀行 - FIRST COMMERCIAL BANK",
+            "code": "FCBKTW",
+            "country": "TW"
+        },
+        "card": {
+            "face": "0.jpg",
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Classic",
+            "country": "TW"
+        }
+    }
+]

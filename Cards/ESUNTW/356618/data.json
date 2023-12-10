@@ -1,0 +1,19 @@
+[
+    {
+        "description": "ETC悠遊聯名卡",
+        "bin": [
+            356618
+        ],
+        "issuer": {
+            "name": "玉山銀行 - E.SUN COMMERCIAL BANK",
+            "code": "ESUNTW",
+            "country": "TW"
+        },
+        "card": {
+            "face": "0.svg",
+            "type": "Credit",
+            "brand": "JCB",
+            "country": "TW"
+        }
+    }
+]
