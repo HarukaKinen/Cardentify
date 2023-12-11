@@ -5,9 +5,10 @@
             469521
         ],
         "issuer": {
-            "name": "第一銀行 - FIRST COMMERCIAL BANK",
-            "code": "FCBKTW",
-            "country": "TW"
+            "native_name": "第一銀行",
+            "english_name": "FIRST COMMERCIAL BANK",
+            "country": "TW",
+            "url": "https://www.firstbank.com.tw"
         },
         "card": {
             "image": "0.jpg",

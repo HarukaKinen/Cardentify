@@ -5,9 +5,10 @@
             463670
         ],
         "issuer": {
-            "name": "星展銀行 (台灣) - DBS BANK (TAIWAN)",
-            "code": "DBSSTW",
-            "country": "TW"
+            "native_name": "星展銀行 (台灣)",
+            "english_name": "DBS BANK (TAIWAN)",
+            "country": "TW",
+            "url": "https://www.dbs.com.tw"
         },
         "card": {
             "image": "0.png",

@@ -1,0 +1,24 @@
+[
+    {
+        "description": "Apple Cash",
+        "issuer": {
+            "native_name": "Apple",
+            "english_name": "Apple",
+            "country": "US",
+            "url": "https://card.apple.com"
+        },
+        "manager": {
+            "native_name": "Green Dot",
+            "english_name": "Green Dot",
+            "country": "US",
+            "url": "https://www.greendot.com"
+        },
+        "card": {
+            "image": "0.jpg",
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "US"
+        },
+        "source": "Apple Pay"
+    }
+]

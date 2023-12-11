@@ -1,50 +1,62 @@
 [
     {
-        "name": "玉山銀行 - E.SUN COMMERCIAL BANK",
-        "code": "ESUNTW",
+        "native_name": "玉山銀行",
+        "english_name": "E.SUN COMMERCIAL BANK",
         "country": "TW",
         "url": "https://www.esunbank.com.tw"
     },
     {
-        "name": "第一銀行 - FIRST COMMERCIAL BANK",
-        "code": "FCBKTW",
+        "native_name": "第一銀行",
+        "english_name": "FIRST COMMERCIAL BANK",
         "country": "TW",
         "url": "https://www.firstbank.com.tw"
     },
     {
-        "name": "國泰世華銀行 - CATHAY UNITED BANK",
-        "code": "UWCBTW",
+        "native_name": "國泰世華銀行",
+        "english_name": "CATHAY UNITED BANK",
         "country": "TW",
         "url": "https://www.cathaybk.com.tw"
     },
     {
-        "name": "兆豐銀行 - MEGA INTERNATIONAL COMMERCIAL BANK",
-        "code": "ICBCTW",
+        "native_name": "兆豐銀行",
+        "english_name": "MEGA INTERNATIONAL COMMERCIAL BANK",
         "country": "TW",
         "url": "https://www.megabank.com.tw"
     },
     {
-        "name": "台新銀行 - TAISHIN INTERNATIONAL BANK",
-        "code": "TSIBTW",
+        "native_name": "台新銀行",
+        "english_name": "TAISHIN INTERNATIONAL BANK",
         "country": "TW",
         "url": "https://www.taishinbank.com.tw"
     },
     {
-        "name": "聯邦銀行 - UNION BANK OF TAIWAN",
-        "code": "UBOTTW",
+        "native_name": "聯邦銀行",
+        "english_name": "UNION BANK OF TAIWAN",
         "country": "TW",
         "url": "https://www.ubot.com.tw"
     },
     {
-        "name": "星展銀行 (台灣) - DBS BANK (TAIWAN)",
-        "code": "DBSSTW",
+        "native_name": "星展銀行 (台灣)",
+        "english_name": "DBS BANK (TAIWAN)",
         "country": "TW",
         "url": "https://www.dbs.com.tw"
     },
     {
-        "name": "Green Dot",
-        "code": "GDOTUS",
+        "native_name": "花旗銀行 (台灣)",
+        "english_name": "CITIBANK (TAIWAN)",
+        "country": "TW",
+        "url": "https://www.citibank.com.tw"
+    },
+    {
+        "native_name": "Green Dot",
+        "english_name": "Green Dot",
         "country": "US",
         "url": "https://www.greendot.com"
+    },
+    {
+        "native_name": "Apple",
+        "english_name": "Apple",
+        "country": "US",
+        "url": "https://card.apple.com"
     }
 ]

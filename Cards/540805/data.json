@@ -1,0 +1,28 @@
+[
+    {
+        "description": "原花旗超級紅利回饋鈦金卡",
+        "bin": [
+            540805
+        ],
+        "issuer": {
+            "native_name": "花旗銀行 (台灣)",
+            "english_name": "CITIBANK (TAIWAN)",
+            "country": "TW",
+            "url": "https://www.citibank.com.tw"
+        },
+        "manager": {
+            "native_name": "星展銀行 (台灣)",
+            "english_name": "DBS BANK (TAIWAN)",
+            "country": "TW",
+            "url": "https://www.dbs.com.tw"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "MASTERCARD",
+            "level": "Infinite",
+            "country": "TW"
+        },
+        "source": "Apple Pay"
+    }
+]

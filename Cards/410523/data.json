@@ -1,19 +1,21 @@
 [
     {
-        "description": "宇宙明星BT21信用卡",
+        "description": "聯邦賴點商務御璽卡",
         "bin": [
-            412698
+            410523
         ],
         "issuer": {
-            "name": "兆豐銀行 - MEGA INTERNATIONAL COMMERCIAL BANK",
-            "code": "ICBCTW",
-            "country": "TW"
+            "native_name": "聯邦銀行",
+            "english_name": "UNION BANK OF TAIWAN",
+            "country": "TW",
+            "url": "https://www.ubot.com.tw"
         },
         "card": {
             "image": "0.png",
             "type": "Credit",
             "brand": "VISA",
             "level": "Signature",
+            "category": "Commercial",
             "country": "TW"
         },
         "source": "Apple Pay"

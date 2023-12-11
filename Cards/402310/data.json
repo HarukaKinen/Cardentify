@@ -5,9 +5,10 @@
             402310
         ],
         "issuer": {
-            "name": "國泰世華銀行 - Cathay United Bank",
-            "code": "UWCBTW",
-            "country": "TW"
+            "native_name": "國泰世華銀行",
+            "english_name": "CATHAY UNITED BANK",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
         },
         "card": {
             "image": "0.jpg",

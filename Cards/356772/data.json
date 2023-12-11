@@ -5,9 +5,10 @@
             356772
         ],
         "issuer": {
-            "name": "玉山銀行 - E.SUN COMMERCIAL BANK",
-            "code": "ESUNTW",
-            "country": "TW"
+            "native_name": "玉山銀行",
+            "english_name": "E.SUN COMMERCIAL BANK",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
         },
         "card": {
             "image": "0.svg",

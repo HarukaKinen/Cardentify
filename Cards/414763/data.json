@@ -1,20 +1,20 @@
 [
     {
-        "description": "聯邦賴點商務御璽卡",
+        "description": "台新太陽/玫瑰御璽卡",
         "bin": [
-            410523
+            414763
         ],
         "issuer": {
-            "name": "聯邦銀行 - UNION BANK OF TAIWAN",
-            "code": "UBOTTW",
-            "country": "TW"
+            "native_name": "台新銀行",
+            "english_name": "TAISHIN INTERNATIONAL BANK",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
         },
         "card": {
             "image": "0.png",
             "type": "Credit",
             "brand": "VISA",
             "level": "Signature",
-            "category": "Commercial",
             "country": "TW"
         },
         "source": "Apple Pay"

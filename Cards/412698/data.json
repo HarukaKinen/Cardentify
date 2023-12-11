@@ -1,13 +1,14 @@
 [
     {
-        "description": "台新太陽/玫瑰御璽卡",
+        "description": "宇宙明星BT21信用卡",
         "bin": [
-            414763
+            412698
         ],
         "issuer": {
-            "name": "台新銀行 - TAISHIN INTERNATIONAL BANK",
-            "code": "TSIBTW",
-            "country": "TW"
+            "native_name": "兆豐銀行",
+            "english_name": "MEGA INTERNATIONAL COMMERCIAL BANK",
+            "country": "TW",
+            "url": "https://www.megabank.com.tw"
         },
         "card": {
             "image": "0.png",
