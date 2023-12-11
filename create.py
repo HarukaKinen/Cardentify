@@ -135,7 +135,8 @@ print(f"Type: {card_type}")
 print(f"Country: {card_country}")
 print(f"Source: {source}")
 print(f"Issuer Bank: {issuer['native_name']}")
-print(f"Manager Bank: {manager['native_name']}")
+if manager != "":
+    print(f"Manager Bank: {manager['native_name']}")
 print("Is this your Card info? (y/n): ", end="")
 check = input("")
 if check == "y":
@@ -154,7 +155,7 @@ if check == "y":
     if card_bin != "":
         data[0]["bin"] = [int(card_bin)]
 
-    if manager_name != "":
+    if manager != "":
         data[0]["manager"] = manager
 
     if level != "":
