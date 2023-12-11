@@ -54,6 +54,12 @@
         "url": "https://www.ctbcbank.com"
     },
     {
+        "native_name": "永豐銀行",
+        "english_name": "BANK SINOPAC",
+        "country": "TW",
+        "url": "https://bank.sinopac.com"
+    },
+    {
         "native_name": "クレディセゾン",
         "english_name": "CREDIT SAISON",
         "country": "JP",
