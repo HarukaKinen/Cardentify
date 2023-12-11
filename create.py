@@ -146,7 +146,7 @@ if check == "y":
         "description": description,
         "issuer": issuer,
         "card": {
-            "image": "0.png",
+            "image": img,
             "type": card_type,
             "brand": brands[card_brand],
             "country": card_country
