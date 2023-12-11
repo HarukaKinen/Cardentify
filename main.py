@@ -34,6 +34,7 @@ for bins in repos:
                     cards.append(l)
 
 cards = sorted(cards, key=lambda x: x["issuer"]["english_name"])
+cards = sorted(cards, key=lambda x: x["card"]["country"])
 
 with open("data.json", "w") as f:
     json.dump(cards, f, indent=4)
