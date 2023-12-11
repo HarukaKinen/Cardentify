@@ -82,5 +82,11 @@
         "english_name": "Apple",
         "country": "US",
         "url": "https://card.apple.com"
+    },
+    {
+        "native_name": "GOLDMAN SACHS BANK",
+        "english_name": "GOLDMAN SACHS BANK",
+        "country": "US",
+        "url": "https://www.goldmansachs.com"
     }
 ]
