@@ -63,6 +63,8 @@ card_type = input("Type: ")
 
 level = input("Level: ")
 
+category = input("Category: ")
+
 card_country = input("Country: ")
 
 source = input("Source (Enter if Apple Pay): ")
@@ -152,6 +154,9 @@ if check == "y":
         "source": source
     })
 
+    if category != "":
+        data[0]["card"]["category"] = category
+
     if int(card_bin) != 0:
         data[0]["bin"] = [int(card_bin)]
 
@@ -178,10 +183,9 @@ for dirs in os.listdir("Cards"):
         with open(f"Cards/{card_bin}/data.json", "w", encoding="UTF-8") as f:
             json.dump(old_data, f, indent=4, ensure_ascii=False)
         exit()
-    else:
-        os.mkdir(f"Cards/{card_bin}")
 
-        # save data as data.json in bin folder
-        with open(f"Cards/{card_bin}/data.json", "w", encoding="UTF-8") as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-        exit()
+os.mkdir(f"Cards/{card_bin}")
+
+# save data as data.json in bin folder
+with open(f"Cards/{card_bin}/data.json", "w", encoding="UTF-8") as f:
+    json.dump(data, f, indent=4, ensure_ascii=False)
