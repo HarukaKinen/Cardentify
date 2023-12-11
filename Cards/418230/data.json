@@ -18,5 +18,25 @@
             "level": "Signature"
         },
         "source": "Apple Pay"
+    },
+    {
+        "description": "中信漢神百貨御璽卡",
+        "bin": [
+            418230
+        ],
+        "issuer": {
+            "native_name": "中國信託銀行",
+            "english_name": "CTBC BANK",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature"
+        },
+        "source": "Apple Pay"
     }
 ]
