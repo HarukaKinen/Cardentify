@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Mastercard Prepaid",
+        "bin": [
+            521431
+        ],
+        "issuer": {
+            "native_name": "S1LK PAY",
+            "english_name": "S1LK PAY",
+            "country": "KZ",
+            "url": "https://s1lkpay.com"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Debit",
+            "brand": "MASTERCARD",
+            "country": "KZ",
+            "level": "Prepaid"
+        },
+        "source": "Apple Pay"
+    }
+]

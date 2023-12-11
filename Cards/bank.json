@@ -94,5 +94,11 @@
         "english_name": "GOLDMAN SACHS BANK",
         "country": "US",
         "url": "https://www.goldmansachs.com"
+    },
+    {
+        "native_name": "S1LK PAY",
+        "english_name": "S1LK PAY",
+        "country": "KZ",
+        "url": "https://s1lkpay.com"
     }
 ]
