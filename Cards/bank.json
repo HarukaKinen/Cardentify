@@ -48,6 +48,12 @@
         "url": "https://www.citibank.com.tw"
     },
     {
+        "native_name": "中國信託銀行",
+        "english_name": "CTBC BANK",
+        "country": "TW",
+        "url": "https://www.ctbcbank.com"
+    },
+    {
         "native_name": "クレディセゾン",
         "english_name": "CREDIT SAISON",
         "country": "JP",
