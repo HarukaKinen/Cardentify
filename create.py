@@ -152,7 +152,7 @@ if check == "y":
         "source": source
     })
 
-    if card_bin != "":
+    if int(card_bin) != 0:
         data[0]["bin"] = [int(card_bin)]
 
     if manager != "":

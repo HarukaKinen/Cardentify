@@ -23,9 +23,6 @@
     },
     {
         "description": "Apple Card",
-        "bin": [
-            0
-        ],
         "issuer": {
             "native_name": "Apple",
             "english_name": "Apple",
