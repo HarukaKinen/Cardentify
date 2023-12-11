@@ -1,0 +1,22 @@
+[
+    {
+        "description": "玉山星宇航空世界卡",
+        "bin": [
+            519480
+        ],
+        "issuer": {
+            "native_name": "玉山銀行",
+            "english_name": "E.SUN COMMERCIAL BANK",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "MASTERCARD",
+            "country": "TW",
+            "level": "World"
+        },
+        "source": "Apple Pay"
+    }
+]
