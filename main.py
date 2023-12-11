@@ -18,7 +18,7 @@ for bins in repos:
     if bins["name"] == "bank.json":
         r = requests.get(bins["download_url"])
         bank_data = r.json()
-        bank_data = sorted(bank_data, key=lambda x: x["code"])
+        bank_data = sorted(bank_data, key=lambda x: x["english_name"])
     if bins["type"] == "dir":
         path = bins["path"]
         r = requests.get(bins["url"])
@@ -33,7 +33,7 @@ for bins in repos:
                     l.update({"image": image, "url": path})
                     cards.append(l)
 
-cards = sorted(cards, key=lambda x: x["issuer"]["code"])
+cards = sorted(cards, key=lambda x: x["issuer"]["english_name"])
 
 with open("data.json", "w") as f:
     json.dump(cards, f, indent=4)
