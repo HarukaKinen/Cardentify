@@ -48,6 +48,30 @@
         "url": "https://www.citibank.com.tw"
     },
     {
+        "native_name": "クレディセゾン",
+        "english_name": "CREDIT SAISON",
+        "country": "JP",
+        "url": "https://www.saisoncard.co.jp"
+    },
+    {
+        "native_name": "UC CARD",
+        "english_name": "UC CARD",
+        "country": "JP",
+        "url": "https://www2.uccard.co.jp"
+    },
+    {
+        "native_name": "みずほ銀行",
+        "english_name": "MIZUHO BANK",
+        "country": "JP",
+        "url": "https://www.mizuhobank.co.jp"
+    },
+    {
+        "native_name": "JCB カード",
+        "english_name": "JCB CARD",
+        "country": "JP",
+        "url": "https://www.jcb.co.jp"
+    },
+    {
         "native_name": "Green Dot",
         "english_name": "Green Dot",
         "country": "US",
