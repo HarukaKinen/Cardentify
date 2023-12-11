@@ -1,0 +1,23 @@
+[
+    {
+        "description": "玫瑰Giving悠遊商務御璽卡",
+        "bin": [
+            416205
+        ],
+        "issuer": {
+            "native_name": "台新銀行",
+            "english_name": "TAISHIN INTERNATIONAL BANK",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature",
+            "category": "Business"
+        },
+        "source": "Apple Pay"
+    }
+]
