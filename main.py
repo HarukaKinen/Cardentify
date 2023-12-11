@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+from collections import Counter
 
 TOKEN = os.environ.get("TOKEN")
 
@@ -32,8 +33,9 @@ for bins in repos:
                     l.update({"image": image, "url": path})
                     cards.append(l)
 
-bank_data = sorted(bank_data, key=lambda x: x["english_name"])
-bank_data = sorted(bank_data, key=lambda x: x["country"])
+country_counts = Counter([bank['country'] for bank in bank_data])
+bank_data = sorted(bank_data, key=lambda x: x['english_name'])
+bank_data = sorted(bank_data, key=lambda x: (-country_counts[x['country']], x['country']))
 
 if bank_data:
     with open("bank.json", "w") as f:
