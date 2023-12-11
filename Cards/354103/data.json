@@ -1,0 +1,22 @@
+[
+    {
+        "description": "JCB GOLD (ORIGINAL SERIES)",
+        "bin": [
+            354103
+        ],
+        "issuer": {
+            "native_name": "JCB カード",
+            "english_name": "JCB CARD",
+            "country": "JP",
+            "url": "https://www.jcb.co.jp"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "JCB",
+            "country": "JP",
+            "level": "Gold"
+        },
+        "source": "Apple Pay"
+    }
+]
