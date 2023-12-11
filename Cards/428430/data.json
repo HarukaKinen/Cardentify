@@ -1,0 +1,22 @@
+[
+    {
+        "description": "國泰世華CUBE卡",
+        "bin": [
+            428430
+        ],
+        "issuer": {
+            "native_name": "國泰世華銀行",
+            "english_name": "CATHAY UNITED BANK",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature"
+        },
+        "source": "Apple Pay"
+    }
+]
