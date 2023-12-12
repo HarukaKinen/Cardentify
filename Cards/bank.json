@@ -6,6 +6,12 @@
         "url": "https://www.esunbank.com.tw"
     },
     {
+        "native_name": "台北富邦銀行",
+        "english_name": "Taipei Fubon Bank",
+        "country": "TW",
+        "url": "https://www.fubon.com"
+    },
+    {
         "native_name": "第一銀行",
         "english_name": "First Bank",
         "country": "TW",
