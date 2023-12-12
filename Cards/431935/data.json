@@ -1,0 +1,22 @@
+[
+    {
+        "description": "PTSB Debit Card",
+        "bin": [
+            431935
+        ],
+        "issuer": {
+            "native_name": "PERMANENT TSB",
+            "english_name": "PERMANENT TSB",
+            "country": "IE",
+            "url": "https://permanenttsb.ie"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "IE",
+            "level": "Classic"
+        },
+        "source": "Apple Pay"
+    }
+]
