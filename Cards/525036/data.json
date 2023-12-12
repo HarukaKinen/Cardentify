@@ -6,13 +6,13 @@
         ],
         "issuer": {
             "native_name": "みずほ銀行",
-            "english_name": "MIZUHO BANK",
+            "english_name": "Mizuho Bank",
             "country": "JP",
             "url": "https://www.mizuhobank.co.jp"
         },
         "manager": {
-            "native_name": "UC CARD",
-            "english_name": "UC CARD",
+            "native_name": "UCカード",
+            "english_name": "UC Card",
             "country": "JP",
             "url": "https://www2.uccard.co.jp"
         },

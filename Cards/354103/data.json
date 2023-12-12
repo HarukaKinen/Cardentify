@@ -5,8 +5,8 @@
             354103
         ],
         "issuer": {
-            "native_name": "JCB カード",
-            "english_name": "JCB CARD",
+            "native_name": "JCBカード",
+            "english_name": "JCB Card",
             "country": "JP",
             "url": "https://www.jcb.co.jp"
         },
