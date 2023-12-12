@@ -84,7 +84,7 @@ issuer = ""
 # print bank in bank list
 for bank in banks:
     # if bank name in bank list, 模糊查找
-    if bank_name.upper() in bank["english_name"] or bank_name in bank["native_name"]:
+    if bank_name.lower() in bank["english_name"].lower() or bank_name in bank["native_name"]:
         print("Check your issuer bank: ")
         if bank["native_name"] == bank["english_name"]:
             print(f"- {bank['native_name']}")
@@ -110,7 +110,7 @@ manager = ""
 
 if manager_name != "":
     for bank in banks:
-        if manager_name.upper() in bank["english_name"] or manager_name in bank["native_name"]:
+        if manager_name.lower() in bank["english_name"].lower() or manager_name in bank["native_name"]:
             print("Check your manager bank: ")
             if bank["native_name"] == bank["english_name"]:
                 print(f"- {bank['native_name']}")
