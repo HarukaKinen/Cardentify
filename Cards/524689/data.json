@@ -1,0 +1,23 @@
+[
+    {
+        "description": "中國信託商旅鈦金卡",
+        "bin": [
+            524689
+        ],
+        "issuer": {
+            "native_name": "中國信託銀行",
+            "english_name": "CTBC BANK",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "MASTERCARD",
+            "country": "TW",
+            "category": "Commercial",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay"
+    }
+]
