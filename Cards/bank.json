@@ -96,6 +96,12 @@
         "url": "https://www.greendot.com"
     },
     {
+        "native_name": "Bank of America",
+        "english_name": "Bank of America",
+        "country": "US",
+        "url": "https://www.bankofamerica.com"
+    },
+    {
         "native_name": "Apple",
         "english_name": "Apple",
         "country": "US",
