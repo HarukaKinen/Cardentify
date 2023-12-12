@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Ｔカード プラス",
+        "bin": [
+            358277
+        ],
+        "issuer": {
+            "native_name": "アプラス",
+            "english_name": "APLUS",
+            "country": "JP",
+            "url": "https://www.aplus.co.jp"
+        },
+        "card": {
+            "image": "0.svg",
+            "type": "Credit",
+            "brand": "JCB",
+            "country": "JP",
+            "level": "Standard"
+        },
+        "source": "Apple Pay"
+    }
+]
