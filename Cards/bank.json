@@ -1,79 +1,79 @@
 [
     {
         "native_name": "玉山銀行",
-        "english_name": "E.SUN COMMERCIAL BANK",
+        "english_name": "E.SUN Commercial Bank",
         "country": "TW",
         "url": "https://www.esunbank.com.tw"
     },
     {
         "native_name": "第一銀行",
-        "english_name": "FIRST COMMERCIAL BANK",
+        "english_name": "First Bank",
         "country": "TW",
         "url": "https://www.firstbank.com.tw"
     },
     {
         "native_name": "國泰世華銀行",
-        "english_name": "CATHAY UNITED BANK",
+        "english_name": "Cathay United Bank",
         "country": "TW",
         "url": "https://www.cathaybk.com.tw"
     },
     {
         "native_name": "兆豐銀行",
-        "english_name": "MEGA INTERNATIONAL COMMERCIAL BANK",
+        "english_name": "Mega International Commercial Bank",
         "country": "TW",
         "url": "https://www.megabank.com.tw"
     },
     {
         "native_name": "台新銀行",
-        "english_name": "TAISHIN INTERNATIONAL BANK",
+        "english_name": "Taishin International Bank",
         "country": "TW",
         "url": "https://www.taishinbank.com.tw"
     },
     {
         "native_name": "聯邦銀行",
-        "english_name": "UNION BANK OF TAIWAN",
+        "english_name": "Union Bank Of Taiwan",
         "country": "TW",
         "url": "https://www.ubot.com.tw"
     },
     {
         "native_name": "星展銀行 (台灣)",
-        "english_name": "DBS BANK (TAIWAN)",
+        "english_name": "DBS Bank (Taiwan)",
         "country": "TW",
         "url": "https://www.dbs.com.tw"
     },
     {
         "native_name": "花旗銀行 (台灣)",
-        "english_name": "CITIBANK (TAIWAN)",
+        "english_name": "Citibank (TAIWAN)",
         "country": "TW",
         "url": "https://www.citibank.com.tw"
     },
     {
         "native_name": "中國信託銀行",
-        "english_name": "CTBC BANK",
+        "english_name": "CTBC Bank",
         "country": "TW",
         "url": "https://www.ctbcbank.com"
     },
     {
         "native_name": "永豐銀行",
-        "english_name": "BANK SINOPAC",
+        "english_name": "Bank SinoPac",
         "country": "TW",
         "url": "https://bank.sinopac.com"
     },
     {
         "native_name": "クレディセゾン",
-        "english_name": "CREDIT SAISON",
+        "english_name": "Credit Saison",
         "country": "JP",
         "url": "https://www.saisoncard.co.jp"
     },
     {
-        "native_name": "UC CARD",
-        "english_name": "UC CARD",
+        "native_name": "UCカード",
+        "english_name": "UC Card",
         "country": "JP",
         "url": "https://www2.uccard.co.jp"
     },
     {
         "native_name": "みずほ銀行",
-        "english_name": "MIZUHO BANK",
+        "english_name": "Mizuho Bank",
         "country": "JP",
         "url": "https://www.mizuhobank.co.jp"
     },
@@ -84,8 +84,8 @@
         "url": "https://www.aplus.co.jp"
     },
     {
-        "native_name": "JCB カード",
-        "english_name": "JCB CARD",
+        "native_name": "JCBカード",
+        "english_name": "JCB Card",
         "country": "JP",
         "url": "https://www.jcb.co.jp"
     },
@@ -108,20 +108,32 @@
         "url": "https://card.apple.com"
     },
     {
-        "native_name": "GOLDMAN SACHS BANK",
-        "english_name": "GOLDMAN SACHS BANK",
+        "native_name": "Goldman Sachs",
+        "english_name": "Goldman Sachs",
         "country": "US",
         "url": "https://www.goldmansachs.com"
     },
     {
-        "native_name": "S1LK PAY",
-        "english_name": "S1LK PAY",
+        "native_name": "DasherDirect",
+        "english_name": "DasherDirect",
+        "country": "US",
+        "url": "https://dasher.doordash.com/en-us/about/dasherdirect"
+    },
+    {
+        "native_name": "Stride Bank",
+        "english_name": "Stride Bank",
+        "country": "US",
+        "url": "https://stridebank.com"
+    },
+    {
+        "native_name": "S1lkpay",
+        "english_name": "S1lkpay",
         "country": "KZ",
         "url": "https://s1lkpay.com"
     },
     {
-        "native_name": "PERMANENT TSB",
-        "english_name": "PERMANENT TSB",
+        "native_name": "Permanent TSB",
+        "english_name": "Permanent TSB",
         "country": "IE",
         "url": "https://permanenttsb.ie"
     }
