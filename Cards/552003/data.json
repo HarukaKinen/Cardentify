@@ -1,0 +1,22 @@
+[
+    {
+        "description": "台新新光三越鈦金卡",
+        "bin": [
+            552003
+        ],
+        "issuer": {
+            "native_name": "台新銀行",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        },
+        "card": {
+            "image": "0.png",
+            "type": "Credit",
+            "brand": "MASTERCARD",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay"
+    }
+]
