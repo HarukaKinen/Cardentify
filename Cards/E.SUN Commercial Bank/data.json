@@ -66,7 +66,7 @@
         {
             "description": "公務人員國民旅遊卡",
             "bin": [
-                519480
+                523976
             ],
             "card": {
                 "type": "Credit",
