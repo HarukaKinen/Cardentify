@@ -7,7 +7,7 @@
     },
     "cards": [
         {
-            "description": "VISA白金CUBE卡",
+            "description": "國泰世華VISA白金CUBE卡",
             "bin": [
                 402310
             ],
@@ -21,7 +21,7 @@
             "ext": "jpg"
         },
         {
-            "description": "VISA御璽CUBE卡",
+            "description": "國泰世華VISA御璽CUBE卡",
             "bin": [
                 428430
             ],
@@ -35,7 +35,7 @@
             "ext": "png"
         },
         {
-            "description": "MasterCard白金CUBE卡",
+            "description": "國泰世華MasterCard白金CUBE卡",
             "bin": [
                 514869
             ],
@@ -49,7 +49,7 @@
             "ext": "png"
         },
         {
-            "description": "MasterCard鈦金CUBE卡",
+            "description": "國泰世華MasterCard鈦金CUBE卡",
             "bin": [
                 524106
             ],
@@ -63,7 +63,7 @@
             "ext": "png"
         },
         {
-            "description": "MasterCard鈦商CUBE卡",
+            "description": "國泰世華MasterCard鈦商CUBE卡",
             "bin": [
                 524106
             ],
