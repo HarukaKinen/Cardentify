@@ -29,8 +29,8 @@ for bank in repos:
                 data = r.json()
                 for l in data["cards"]:
                     issuer = data["bank"]
-                    image = i["download_url"].replace("data.json", l["description"]) + l["ext"]
-                    path = i["html_url"].replace("data.json", l["description"]) + l["ext"]
+                    image = f'{i["download_url"].replace("data.json", l["description"])}.{l["ext"]}'
+                    path = f'{i["html_url"].replace("data.json", l["description"])}.{l["ext"]}'
                     l.update({"image": image, "url": path, "issuer": issuer})
                     cards.append(l)
                     banks.append(issuer)
