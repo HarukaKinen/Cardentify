@@ -15,31 +15,33 @@ repos = r.json()
 
 cards = []
 
-for bins in repos:
-    if bins["name"] == "bank.json":
-        r = requests.get(bins["download_url"])
-        bank_data = r.json()
-    if bins["type"] == "dir":
-        path = bins["path"]
-        r = requests.get(bins["url"])
+banks = []
+
+for bank in repos:
+    if bank["type"] == "dir":
+        path = bank["path"]
+        name = bank["name"]
+        r = requests.get(bank["url"])
         card_data = r.json()
         for i in card_data:
             if i["name"] == "data.json":
                 r = requests.get(i["download_url"])
                 data = r.json()
-                for l in data:
-                    image = i["download_url"].replace("data.json", l["card"]["image"])
-                    path = i["html_url"].replace("data.json", l["card"]["image"])
-                    l.update({"image": image, "url": path})
+                for l in data["cards"]:
+                    issuer = data["bank"]
+                    image = i["download_url"].replace("data.json", l["card"]["description"], l["card"]["ext"])
+                    path = i["html_url"].replace("data.json", l["card"]["description"], l["card"]["ext"])
+                    l.update({"image": image, "url": path, "issuer": issuer})
                     cards.append(l)
+                    banks.append(issuer)
 
-country_counts = Counter([bank['country'] for bank in bank_data])
-bank_data = sorted(bank_data, key=lambda x: x['english_name'])
-bank_data = sorted(bank_data, key=lambda x: (-country_counts[x['country']], x['country']))
+country_counts = Counter([bank['country'] for bank in banks])
+banks = sorted(banks, key=lambda x: x['english_name'])
+banks = sorted(banks, key=lambda x: (-country_counts[x['country']], x['country']))
 
-if bank_data:
+if banks:
     with open("bank.json", "w") as f:
-        json.dump(bank_data, f, indent=4)
+        json.dump(banks, f, indent=4)
 
 cards = sorted(cards, key=lambda x: x["issuer"]["english_name"])
 
