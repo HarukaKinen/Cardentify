@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "香港上海滙豐銀行",
+        "english_name": "The Hongkong and Shanghai Banking Corporation",
+        "country": "HK",
+        "url": "https://www.hsbc.com.hk"
+    },
+    "cards": [
+        {
+            "description": "HSBC Mastercard Debit 滙豐萬事達卡扣脹卡",
+            "bin": [
+                541375
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "MasterCard",
+                "country": "HK",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
