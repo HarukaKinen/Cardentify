@@ -48,6 +48,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "me Combo卡",
+            "bin": [
+                524189
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
