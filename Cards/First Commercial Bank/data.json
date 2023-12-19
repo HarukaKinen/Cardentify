@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "第一銀行",
+        "english_name": "First Commercial BankBank",
+        "country": "TW",
+        "url": "https://www.firstbank.com.tw"
+    },
+    "cards": [
+        {
+            "description": "VISA金融卡",
+            "bin": [
+                469521
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Classic",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
+        }
+    ]
+}

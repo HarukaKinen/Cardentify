@@ -1,0 +1,66 @@
+{
+    "bank": {
+        "native_name": "玉山銀行",
+        "english_name": "E.SUN Commercial Bank",
+        "country": "TW",
+        "url": "https://www.esunbank.com.tw"
+    },
+    "cards": [
+        {
+            "description": "ETC悠遊聯名卡",
+            "bin": [
+                356618
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Precious",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山JCB晶緻卡",
+            "bin": [
+                356618
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Precious",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山熊本熊卡-熊熊友好",
+            "bin": [
+                356772
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Precious",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山星宇航空世界卡",
+            "bin": [
+                519480
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

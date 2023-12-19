@@ -1,0 +1,51 @@
+{
+    "bank": {
+        "native_name": "花旗銀行 (台灣)",
+        "english_name": "Citibank (TAIWAN)",
+        "country": "TW",
+        "url": "https://www.citibank.com.tw"
+    },
+    "cards": [
+        {
+            "description": "原花旗現金回饋卡",
+            "bin": [
+                431178
+            ],
+            "manager": {
+                "native_name": "星展銀行 (台灣)",
+                "english_name": "DBS Bank (Taiwan)",
+                "country": "TW",
+                "url": "https://www.dbs.com.tw"
+            },
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "原花旗超級紅利回饋鈦金卡",
+            "bin": [
+                540805
+            ],
+            "manager": {
+                "native_name": "星展銀行 (台灣)",
+                "english_name": "DBS Bank (Taiwan)",
+                "country": "TW",
+                "url": "https://www.dbs.com.tw"
+            },
+            "card": {
+
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "level": "Titanium",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

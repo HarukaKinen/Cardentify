@@ -1,0 +1,95 @@
+{
+    "bank": {
+        "native_name": "中國信託銀行",
+        "english_name": "CTBC Bank",
+        "country": "TW",
+        "url": "https://www.ctbcbank.com"
+    },
+    "cards": [
+        {
+            "description": "中國信託紅利御璽卡",
+            "bin": [
+                418230
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中信漢神百貨御璽卡",
+            "bin": [
+                418230
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託LINE Pay Debit卡",
+            "bin": [
+                447757
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Classic"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託紅利普卡",
+            "bin": [
+                456301
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Classic"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託商旅鈦金卡",
+            "bin": [
+                524689
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "category": "Commercial",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託紅利白金卡",
+            "bin": [
+                552049
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

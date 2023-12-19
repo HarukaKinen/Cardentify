@@ -1,0 +1,83 @@
+{
+    "bank": {
+        "native_name": "台新銀行",
+        "english_name": "Taishin International Bank",
+        "country": "TW",
+        "url": "https://www.taishinbank.com.tw"
+    },
+    "cards": [
+        {
+            "description": "台新太陽/玫瑰御璽卡",
+            "bin": [
+                414763
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "玫瑰Giving悠遊商務御璽卡",
+            "bin": [
+                416205
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Signature",
+                "category": "Business"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Gogoro Rewards商務御璽卡",
+            "bin": [
+                416205
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "category": "Business",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "台新Flygo卡",
+            "bin": [
+                414763
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "level": "Titanium",
+                "category": "Commercial",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "台新新光三越鈦金卡",
+            "bin": [
+                552003
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "bank": {
+        "native_name": "永豐銀行",
+        "english_name": "Bank SinoPac",
+        "country": "TW",
+        "url": "https://bank.sinopac.com"
+    },
+    "cards": [
+        {
+            "description": "夢行鈦商悠遊卡",
+            "bin": [
+                519923
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "category": "Commercial",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "鈦豐卡",
+            "bin": [
+                524196
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "鈦豐Combo卡",
+            "bin": [
+                524196
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

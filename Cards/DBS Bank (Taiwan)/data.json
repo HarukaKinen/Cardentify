@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "星展銀行 (台灣)",
+        "english_name": "DBS Bank (Taiwan)",
+        "country": "TW",
+        "url": "https://www.dbs.com.tw"
+    },
+    "cards": [
+        {
+            "description": "星展饗樂生活白金悠遊卡",
+            "bin": [
+                463670
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

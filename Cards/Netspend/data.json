@@ -1,0 +1,30 @@
+{
+    "bank":{
+        "native_name": "Netspend",
+        "english_name": "Netspend",
+        "country": "US",
+        "url": "https://www.netspend.com"
+    },
+    "cards": [
+        {
+            "description": "Netspend Prepaid Card",
+            "bin": [
+                529062
+            ],
+            "manager": {
+                "native_name": "Pathward",
+                "english_name": "Pathward",
+                "country": "US",
+                "url": "https://www.pathward.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "MASTERCARD",
+                "country": "US",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

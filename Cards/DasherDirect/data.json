@@ -1,0 +1,31 @@
+{
+    "bank": {
+        "native_name": "DasherDirect",
+        "english_name": "DasherDirect",
+        "country": "US",
+        "url": "https://dasher.doordash.com/en-us/about/dasherdirect"
+    },
+    "cards": [
+        {
+            "description": "DasherDirect Prepaid Card",
+            "bin": [
+                444607
+            ],
+            "manager": {
+                "native_name": "Stride Bank",
+                "english_name": "Stride Bank",
+                "country": "US",
+                "url": "https://stridebank.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US",
+                "category": "Business",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

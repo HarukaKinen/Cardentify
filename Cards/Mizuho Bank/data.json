@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "みずほ銀行",
+        "english_name": "Mizuho Bank",
+        "country": "JP",
+        "url": "https://www.mizuhobank.co.jp"
+    },
+    "cards": [
+        {
+            "description": "みずほマイレージクラブ MasterCard",
+            "bin": [
+                525036
+            ],
+            "manager": {
+                "native_name": "UCカード",
+                "english_name": "UC Card",
+                "country": "JP",
+                "url": "https://www2.uccard.co.jp"
+            },
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

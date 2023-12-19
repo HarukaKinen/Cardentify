@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "台北富邦銀行",
+        "english_name": "Taipei Fubon Commercial Bank",
+        "country": "TW",
+        "url": "https://www.fubon.com"
+    },
+    "cards": [
+        {
+            "description": "富邦悍將Debit卡",
+            "bin": [
+                550915
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "bank": {
+        "native_name": "Apple",
+        "english_name": "Apple",
+        "country": "US",
+        "url": "https://card.apple.com"
+    },
+    "cards": [
+        {
+            "description": "Apple Cash",
+            "manager": {
+                "native_name": "Green Dot",
+                "english_name": "Green Dot",
+                "country": "US",
+                "url": "https://www.greendot.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
+        },
+        {
+            "description": "Apple Card",
+            "manager": {
+                "native_name": "Goldman Sachs",
+                "english_name": "Goldman Sachs",
+                "country": "US",
+                "url": "https://www.goldmansachs.com"
+            },
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "兆豐銀行",
+        "english_name": "Mega International Commercial Bank",
+        "country": "TW",
+        "url": "https://www.megabank.com.tw"
+    },
+    "cards": [
+        {
+            "description": "宇宙明星BT21信用卡",
+            "bin": [
+                412698
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

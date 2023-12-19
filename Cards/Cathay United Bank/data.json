@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "國泰世華銀行",
+        "english_name": "Cathay United Bank",
+        "country": "TW",
+        "url": "https://www.cathaybk.com.tw"
+    },
+    "cards": [
+        {
+            "description": "國泰世華CUBE卡 (原KOKO卡)",
+            "bin": [
+                402310
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
+        },
+        {
+            "description": "國泰世華CUBE卡",
+            "bin": [
+                428430
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
