@@ -77,7 +77,21 @@
             "ext": "png"
         },
         {
-            "description": "Pi拍錢包信用卡",
+            "description": "Pi拍錢包信用卡 (烏漆嘛黑)",
+            "bin": [
+                524255
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Pi拍錢包信用卡 (少女粉粉)",
             "bin": [
                 524255
             ],
