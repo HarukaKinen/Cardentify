@@ -7,7 +7,7 @@
     },
     "cards": [
         {
-            "description": "國泰世華CUBE卡 (原KOKO卡)",
+            "description": "VISA白金CUBE卡",
             "bin": [
                 402310
             ],
@@ -21,7 +21,7 @@
             "ext": "jpg"
         },
         {
-            "description": "國泰世華CUBE卡",
+            "description": "VISA御璽CUBE卡",
             "bin": [
                 428430
             ],
@@ -35,7 +35,7 @@
             "ext": "png"
         },
         {
-            "description": "國泰世華CUBE COMBO卡 (原KOKO卡)",
+            "description": "MasterCard白金CUBE卡",
             "bin": [
                 514869
             ],
@@ -49,7 +49,7 @@
             "ext": "png"
         },
         {
-            "description": "國泰世華CUBE卡 (原享購鈦金卡)",
+            "description": "MasterCard鈦金CUBE卡",
             "bin": [
                 524106
             ],
@@ -57,6 +57,21 @@
                 "type": "Credit",
                 "brand": "MASTERCARD",
                 "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "MasterCard鈦商CUBE卡",
+            "bin": [
+                524106
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "category": "Commercial",
                 "level": "Titanium"
             },
             "source": "Apple Pay",
