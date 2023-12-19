@@ -18,5 +18,25 @@
             "level": "Titanium"
         },
         "source": "Apple Pay"
+    },
+    {
+        "description": "鈦豐Combo卡",
+        "bin": [
+            524196
+        ],
+        "issuer": {
+            "native_name": "永豐銀行",
+            "english_name": "Bank SinoPac",
+            "country": "TW",
+            "url": "https://bank.sinopac.com"
+        },
+        "card": {
+            "image": "1.png",
+            "type": "Credit",
+            "brand": "MASTERCARD",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay"
     }
 ]
