@@ -61,12 +61,25 @@
             },
             "source": "Apple Pay",
             "ext": "png"
-        }
-        ,
+        },
         {
             "description": "公務人員國民旅遊卡",
             "bin": [
                 523976
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Pi拍錢包信用卡",
+            "bin": [
+                524255
             ],
             "card": {
                 "type": "Credit",
