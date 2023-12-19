@@ -20,6 +20,21 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "聯邦幸福M悠遊鈦商卡",
+            "bin": [
+                515709
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MASTERCARD",
+                "level": "Titanium",
+                "category": "Commercial",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
