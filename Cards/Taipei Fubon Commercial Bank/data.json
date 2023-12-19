@@ -13,7 +13,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "MASTERCARD",
+                "brand": "MasterCard",
                 "country": "TW",
                 "level": "Standard"
             },
@@ -27,7 +27,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MASTERCARD",
+                "brand": "MasterCard",
                 "country": "TW",
                 "level": "Titanium"
             },

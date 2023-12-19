@@ -32,7 +32,7 @@
             },
             "card": {
                 "type": "Credit",
-                "brand": "MASTERCARD",
+                "brand": "MasterCard",
                 "country": "US",
                 "level": "Standard"
             },

@@ -28,7 +28,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MASTERCARD",
+                "brand": "MasterCard",
                 "level": "Titanium",
                 "category": "Commercial",
                 "country": "TW"

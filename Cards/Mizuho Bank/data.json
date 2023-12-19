@@ -19,7 +19,7 @@
             },
             "card": {
                 "type": "Credit",
-                "brand": "MASTERCARD",
+                "brand": "MasterCard",
                 "country": "JP",
                 "level": "Standard"
             },
