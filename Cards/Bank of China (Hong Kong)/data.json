@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "中國銀行 (香港)",
+        "english_name": "Bank of China (Hong Kong)",
+        "country": "HK",
+        "url": "https://www.bochk.com"
+    },
+    "cards": [
+        {
+            "description": "中銀卡",
+            "bin": [
+                612741
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Standard"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        }
+    ]
+}
