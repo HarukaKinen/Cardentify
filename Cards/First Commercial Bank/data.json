@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "jpg"
+        },
+        {
+            "description": "第一銀行悠遊聯名白金卡",
+            "bin": [
+                468828
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
