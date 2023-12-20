@@ -49,7 +49,7 @@
             "ext": "png"
         },
         {
-            "description": "中國信託紅利普卡",
+            "description": "中國信託紅利普卡 (VISA)",
             "bin": [
                 456301
             ],
@@ -78,13 +78,27 @@
             "ext": "png"
         },
         {
-            "description": "中國信託紅利白金卡",
+            "description": "中國信託紅利白金卡 (MasterCard)",
             "bin": [
                 552049
             ],
             "card": {
                 "type": "Credit",
                 "brand": "MasterCard",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託紅利白金卡 (VISA)",
+            "bin": [
+                431195
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
                 "country": "TW",
                 "level": "Platinum"
             },
