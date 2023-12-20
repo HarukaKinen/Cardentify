@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "UCSカード",
+        "english_name": "UCS Card",
+        "country": "JP",
+        "url": "https://www.ucscard.co.jp"
+    },
+    "cards": [
+        {
+            "description": "UCSカード",
+            "bin": [
+                520856
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MasterCard",
+                "level": "Standard",
+                "country": "JP"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        }
+    ]
+}
