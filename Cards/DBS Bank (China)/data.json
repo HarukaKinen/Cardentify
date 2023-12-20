@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "星展银行 (中国)",
+        "english_name": "DBS Bank (China)",
+        "country": "CN",
+        "url": "https://www.dbs.com.cn"
+    },
+    "cards": [
+        {
+            "description": "星展卡",
+            "bin": [
+                623187
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "星展丰盛理财借记卡",
+            "bin": [
+                623187
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
