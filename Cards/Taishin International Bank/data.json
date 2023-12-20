@@ -78,6 +78,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "台新新光三越白金卡",
+            "bin": [
+                552003
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MasterCard",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
