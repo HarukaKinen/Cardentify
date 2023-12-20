@@ -90,6 +90,21 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "中國信託LINE Pay商務御璽卡",
+            "bin": [
+                430451
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "category": "Business",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
