@@ -105,6 +105,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "中信無印良品白金卡",
+            "bin": [
+                431195
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
