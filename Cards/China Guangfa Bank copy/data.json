@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "兴业银行",
+        "english_name": "China Industrial Bank",
+        "country": "CN",
+        "url": "https://www.cib.com.cn"
+    },
+    "cards": [
+        {
+            "description": "兴业银行美国运通安愉借记卡",
+            "bin": [
+                370330
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Select"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
