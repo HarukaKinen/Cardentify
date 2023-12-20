@@ -35,6 +35,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "聯邦全國一卡通御璽卡",
+            "bin": [
+                463781
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
