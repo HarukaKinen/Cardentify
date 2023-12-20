@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "中信银行",
+        "english_name": "China Citic Bank",
+        "country": "CN",
+        "url": "https://www.citicbank.com"
+    },
+    "cards": [
+        {
+            "description": "美国运通金卡借记卡",
+            "bin": [
+                377138
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
