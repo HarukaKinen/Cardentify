@@ -2,7 +2,7 @@
     "bank": {
         "native_name": "Santander UK",
         "english_name": "Santander UK",
-        "country": "UK",
+        "country": "GB",
         "url": "https://www.santander.co.uk"
     },
     "cards": [
@@ -14,7 +14,7 @@
             "card": {
                 "type": "Debit",
                 "brand": "MasterCard",
-                "country": "UK",
+                "country": "GB",
                 "level": "Standard"
             },
             "source": "Apple Pay",
