@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Santander UK",
+        "english_name": "Santander UK",
+        "country": "UK",
+        "url": "https://www.santander.co.uk"
+    },
+    "cards": [
+        {
+            "description": "Santander Debit Card",
+            "bin": [
+                535666
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "MasterCard",
+                "country": "UK",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
