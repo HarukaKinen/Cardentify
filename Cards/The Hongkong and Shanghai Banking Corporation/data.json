@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "HSBC One ATM Card 滙豐One自動櫃員機卡",
+            "bin": [
+                621443
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
