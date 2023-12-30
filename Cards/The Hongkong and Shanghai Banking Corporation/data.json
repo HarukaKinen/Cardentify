@@ -19,7 +19,8 @@
             },
             "source": "Apple Pay",
             "ext": "png"
-        },{
+        },
+        {
             "description": "HSBC Mastercard Debit 滙豐萬事達卡扣脹卡附屬卡",
             "bin": [
                 541375
