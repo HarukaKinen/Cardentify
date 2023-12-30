@@ -33,6 +33,61 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "招商银行招财卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "大卫贝肯IC联名卡-运动贝肯",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "大卫贝肯IC联名卡-嘻哈贝肯",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "大卫贝肯IC联名卡-文艺贝肯",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "大卫贝肯IC联名卡-呆萌贝肯",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }
