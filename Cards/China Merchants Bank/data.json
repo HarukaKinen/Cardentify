@@ -7,6 +7,20 @@
     },
     "cards": [
         {
+            "description": "腾讯价值认同金葵花卡",
+            "bin": [
+                612483
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "财富绽放金葵花卡",
             "bin": [
                 612483
