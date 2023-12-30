@@ -261,6 +261,17 @@
             "ext": "png"
         },
         {
+            "description": "必胜客联名借记卡 (星球版)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "超级飞侠IC联名卡-乐迪",
             "card": {
                 "type": "Debit",
