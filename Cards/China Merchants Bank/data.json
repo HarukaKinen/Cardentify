@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "招商银行",
+        "english_name": "China Merchants Bank",
+        "country": "CN",
+        "url": "https://www.cmbchina.com"
+    },
+    "cards": [
+        {
+            "description": "财富绽放金葵花卡",
+            "bin": [
+                612483
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "哔哩哔哩联名借记卡",
+            "bin": [
+                612483
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
