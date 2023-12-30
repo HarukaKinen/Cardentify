@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "理慧銀行",
+        "english_name": "livi Bank",
+        "country": "HK",
+        "url": "https://www.livibank.com"
+    },
+    "cards": [
+        {
+            "description": "livi Debit Mastercard",
+            "bin": [
+                519018
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "HK",
+                "level": "Standard"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
