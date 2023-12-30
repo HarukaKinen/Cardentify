@@ -151,6 +151,17 @@
             "ext": "png"
         },
         {
+            "description": "航海王联名卡 (20周年)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "招行拥军优抚一卡通",
             "card": {
                 "type": "Debit",
@@ -184,7 +195,29 @@
             "ext": "png"
         },
         {
+            "description": "HelloKitty联名借记卡 (樱花好运款)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "HelloKitty联名借记卡 (樱花好运粉)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "HelloKitty联名借记卡 (黑色-横版)",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
@@ -239,7 +272,40 @@
             "ext": "png"
         },
         {
+            "description": "超级飞侠IC联名卡-小爱",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "招商银行房贷主题卡普卡 (窗户蓝色版)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "北京航空航天大学联名卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "江南百景图联名普卡 (严大人)",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
