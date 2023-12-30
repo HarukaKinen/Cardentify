@@ -1,0 +1,122 @@
+{
+    "bank": {
+        "native_name": "富邦华一银行",
+        "english_name": "Fubon Bank (China)",
+        "country": "CN",
+        "url": "http://www.fsbankonline.com"
+    },
+    "cards": [
+        {
+            "description": "富邦标准借记卡金卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Gold",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "富邦标准借记卡白金卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "富邦标准借记卡钻石卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Diamond",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "富邦数位卡绿卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Gold",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "富邦数位卡粉卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Gold",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "富邦小微企业卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "富邦邦邦留学生借记卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "富邦菁英留学生借记卡",
+            "bin": [
+                623565
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
