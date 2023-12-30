@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "中国银行",
+        "english_name": "Bank of China",
+        "country": "CN",
+        "url": "http://www.boc.cn"
+    },
+    "cards": [
+        {
+            "description": "长城洛天依联名借记卡",
+            "bin": [
+                612790
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
