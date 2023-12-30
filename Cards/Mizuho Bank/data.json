@@ -7,7 +7,7 @@
     },
     "cards": [
         {
-            "description": "みずほマイレージクラブ MasterCard",
+            "description": "みずほマイレージクラブ Mastercard",
             "bin": [
                 525036
             ],
@@ -19,7 +19,7 @@
             },
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "JP",
                 "level": "Standard"
             },

@@ -35,13 +35,13 @@
             "ext": "png"
         },
         {
-            "description": "國泰世華MasterCard白金CUBE卡",
+            "description": "國泰世華Mastercard白金CUBE卡",
             "bin": [
                 514869
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "level": "Platinum"
             },
@@ -49,13 +49,13 @@
             "ext": "png"
         },
         {
-            "description": "國泰世華MasterCard鈦金CUBE卡",
+            "description": "國泰世華Mastercard鈦金CUBE卡",
             "bin": [
                 524106
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "level": "Titanium"
             },
@@ -63,13 +63,13 @@
             "ext": "png"
         },
         {
-            "description": "國泰世華MasterCard鈦商CUBE卡",
+            "description": "國泰世華Mastercard鈦商CUBE卡",
             "bin": [
                 524106
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "category": "Commercial",
                 "level": "Titanium"

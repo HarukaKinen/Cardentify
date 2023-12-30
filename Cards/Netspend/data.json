@@ -19,7 +19,7 @@
             },
             "card": {
                 "type": "Debit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "US",
                 "level": "Prepaid"
             },

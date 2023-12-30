@@ -13,7 +13,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "HK",
                 "level": "World"
             },
@@ -27,7 +27,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "HK",
                 "level": "World"
             },

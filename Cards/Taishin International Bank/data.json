@@ -57,7 +57,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "level": "Titanium",
                 "category": "Commercial",
                 "country": "TW"
@@ -72,7 +72,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "level": "Titanium"
             },
@@ -86,7 +86,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "level": "Platinum"
             },

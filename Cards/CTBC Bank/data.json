@@ -69,7 +69,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "category": "Commercial",
                 "level": "Titanium"
@@ -78,13 +78,13 @@
             "ext": "png"
         },
         {
-            "description": "中國信託紅利白金卡 (MasterCard)",
+            "description": "中國信託紅利白金卡 (Mastercard)",
             "bin": [
                 552049
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "country": "TW",
                 "level": "Platinum"
             },
