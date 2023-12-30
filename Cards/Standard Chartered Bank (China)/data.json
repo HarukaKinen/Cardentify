@@ -1,0 +1,95 @@
+{
+    "bank": {
+        "native_name": "渣打银行 (中国)",
+        "english_name": "Standard Chartered Bank (China)",
+        "country": "CN",
+        "url": "https://www.sc.com/cn"
+    },
+    "cards": [
+        {
+            "description": "智通借记卡",
+            "bin": [
+                622942,
+                622994
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "优逸理财借记卡",
+            "bin": [
+                622994
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "优先理财白金借记卡",
+            "bin": [
+                622994
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "优先私人理财钻石借记卡",
+            "bin": [
+                622994
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Diamond",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "携程优逸理财借记卡",
+            "bin": [
+                622994
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "携程优先理财白金借记卡",
+            "bin": [
+                622994
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
