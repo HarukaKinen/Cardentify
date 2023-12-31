@@ -1,0 +1,54 @@
+{
+    "bank": {
+        "native_name": "花旗银行 (中国)",
+        "english_name": "Citibank (China)",
+        "country": "CN",
+        "url": "https://www.citibank.com.cn"
+    },
+    "cards": [
+        {
+            "description": "花旗银行礼享卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "花旗银行礼程卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "花旗银行轻享卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "花旗银行至享卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "level": "Diamond",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
