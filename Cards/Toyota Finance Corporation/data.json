@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "トヨタファイナンス",
+        "english_name": "Toyota Finance Corporation",
+        "country": "JP",
+        "url": "https://tscubic.com"
+    },
+    "cards": [
+        {
+            "description": "TS3カードレギュラー",
+            "bin": [
+                358746
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        }
+    ]
+}
