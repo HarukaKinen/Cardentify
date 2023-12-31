@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "浦发银行",
+        "english_name": "Shanghai Pudong Development Bank",
+        "country": "CN",
+        "url": "https://www.spdb.com.cn"
+    },
+    "cards": [
+        {
+            "description": "浦发bilibili主题信用卡",
+            "bin": [
+                622228
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
