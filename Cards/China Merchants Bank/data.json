@@ -504,6 +504,17 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "原神联名卡甘雨款",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }
