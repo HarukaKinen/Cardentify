@@ -35,6 +35,28 @@
             "ext": "png"
         },
         {
+            "description": "梵高星夜金葵花卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "一卡通 (私人银行卡)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Diamond"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "HelloKitty联名金葵花卡",
             "bin": [
                 612483
@@ -55,6 +77,20 @@
             ],
             "card": {
                 "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "招商银行哔哩哔哩信用卡",
+            "bin": [
+                622575
+            ],
+            "card": {
+                "type": "Credit",
                 "brand": "UnionPay",
                 "country": "CN",
                 "level": "Standard"
@@ -129,6 +165,17 @@
             "ext": "png"
         },
         {
+            "description": "招商银行普卡 (一卡通)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "航海王联名卡 (草帽一伙团体卡)",
             "card": {
                 "type": "Debit",
@@ -184,7 +231,7 @@
             "ext": "png"
         },
         {
-            "description": "HelloKitty联名借记卡 (银色)",
+            "description": "HelloKitty联名小金卡 (月光银)",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
@@ -195,7 +242,7 @@
             "ext": "png"
         },
         {
-            "description": "HelloKitty联名借记卡 (樱花好运款)",
+            "description": "HelloKitty联名借记卡 (樱花好运系列-心愿达成款)",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
@@ -206,7 +253,7 @@
             "ext": "png"
         },
         {
-            "description": "HelloKitty联名借记卡 (樱花好运粉)",
+            "description": "HelloKitty联名借记卡 (樱花好运系列-招财纳福款)",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
@@ -217,7 +264,7 @@
             "ext": "png"
         },
         {
-            "description": "HelloKitty联名借记卡 (黑色-横版)",
+            "description": "HelloKitty联名小金卡 (耀夜黑)",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
@@ -319,6 +366,138 @@
             "description": "江南百景图联名普卡 (严大人)",
             "card": {
                 "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "奇虎360联名借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "滴滴联名借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "招行香港一卡通",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "腾讯视频联名借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "工作细胞联名借记卡 (红细胞卡)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "工作细胞联名借记卡 (手绘Q版卡)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "明日方舟联名储蓄卡 (白色报童阿米娅)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "明日方舟联名储蓄卡 (黑色罗德岛)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "宝可梦联名借记卡 (皮卡丘)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "QQ钱包联名卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "招商银行京东联名信用卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "原神联名卡LOGO款",
+            "card": {
+                "type": "Credit",
                 "brand": "UnionPay",
                 "country": "CN",
                 "level": "Standard"
