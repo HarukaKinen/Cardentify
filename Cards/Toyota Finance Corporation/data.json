@@ -7,13 +7,27 @@
     },
     "cards": [
         {
-            "description": "TS3カードレギュラー",
+            "description": "TS3カードレギュラー (JCB)",
             "bin": [
                 358746
             ],
             "card": {
                 "type": "Credit",
                 "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "TS3カードレギュラー (Mastercard)",
+            "bin": [
+                557850
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
                 "country": "JP",
                 "level": "Standard"
             },
