@@ -7,6 +7,17 @@
     },
     "cards": [
         {
+            "description": "花旗银行轻享卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "level": "Platinum",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "花旗银行礼享卡",
             "card": {
                 "type": "Credit",
@@ -19,17 +30,6 @@
         },
         {
             "description": "花旗银行礼程卡",
-            "card": {
-                "type": "Credit",
-                "brand": "UnionPay",
-                "level": "Platinum",
-                "country": "CN"
-            },
-            "source": "云闪付",
-            "ext": "png"
-        },
-        {
-            "description": "花旗银行轻享卡",
             "card": {
                 "type": "Credit",
                 "brand": "UnionPay",
