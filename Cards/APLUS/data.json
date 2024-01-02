@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "svg"
+        },
+        {
+            "description": "アプラスカード (Mastercard)",
+            "bin": [
+                521498
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
