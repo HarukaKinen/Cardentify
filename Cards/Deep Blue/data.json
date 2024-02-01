@@ -1,0 +1,29 @@
+{
+    "bank": {
+        "native_name": "Deep Blue",
+        "english_name": "Deep Blue",
+        "country": "US",
+        "url": "https://www.deepbluedebit.com"
+    },
+    "cards": [
+        {
+            "description": "Deep Blue Debit",
+            "bin": [
+                524708
+            ],
+            "manager": {
+                "native_name": "Republic Bank",
+                "english_name": "Republic Bank",
+                "country": "US",
+                "url": "https://www.republicbank.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
