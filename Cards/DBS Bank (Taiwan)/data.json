@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "星展飛行鈦金卡",
+            "bin": [
+                545278
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "Titanium",
+                "country": "TW"
+            },
+            "source": "Samsung Pay",
+            "ext": "webp"
         }
     ]
 }
