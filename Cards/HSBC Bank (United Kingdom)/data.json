@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "HSBC Bank (United Kingdom)",
+        "english_name": "HSBC Bank (United Kingdom)",
+        "country": "GB",
+        "url": "https://www.hsbc.co.uk"
+    },
+    "cards": [
+        {
+            "description": "HSBC UK - Global Money",
+            "bin": [
+                459681
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Classic",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        },
+        {
+            "description": "HSBC UK Visa Debit Card",
+            "bin": [
+                465943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Classic",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        }
+    ]
+}
