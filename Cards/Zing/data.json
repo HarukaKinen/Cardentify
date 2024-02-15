@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "Zing",
+        "english_name": "Zing",
+        "country": "GB",
+        "url": "https://zing.me"
+    },
+    "cards": [
+        {
+            "description": "Zing VISA Debit Card",
+            "bin": [
+                446257
+            ],
+            "manager": {
+                "native_name": "MP Payments UK",
+                "english_name": "MP Payments UK",
+                "country": "GB",
+                "url": "https://www.hsbc.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        }
+    ]
+}
