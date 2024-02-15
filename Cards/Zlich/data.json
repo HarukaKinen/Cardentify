@@ -10,7 +10,7 @@
             "description": "Zilch MasterCard",
             "card": {
                 "type": "Debit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "level": "World",
                 "category": "Commercial",
                 "country": "GB"

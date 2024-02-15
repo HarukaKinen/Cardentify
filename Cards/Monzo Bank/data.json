@@ -13,7 +13,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "level": "World Elite",
                 "country": "GB"
             },
@@ -27,7 +27,7 @@
             ],
             "card": {
                 "type": "Credit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "level": "Platinum",
                 "country": "GB"
             },

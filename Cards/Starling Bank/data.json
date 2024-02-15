@@ -11,7 +11,7 @@
 
             "card": {
                 "type": "Debit",
-                "brand": "MasterCard",
+                "brand": "Mastercard",
                 "level": "World",
                 "country": "GB"
             },
