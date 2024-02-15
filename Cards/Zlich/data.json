@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "native_name": "Zilch",
+        "english_name": "Zilch",
+        "country": "GB",
+        "url": "https://www.zilch.com"
+    },
+    "cards": [
+        {
+            "description": "Zilch MasterCard",
+            "card": {
+                "type": "Debit",
+                "brand": "MasterCard",
+                "level": "World",
+                "category": "Commercial",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        }
+    ]
+}
