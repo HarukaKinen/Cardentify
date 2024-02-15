@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "Monzo Bank",
+        "english_name": "Monzo Bank",
+        "country": "GB",
+        "url": "https://monzo.com"
+    },
+    "cards": [
+        {
+            "description": "Monzo Metal MasterCard",
+            "bin": [
+                535778
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "MasterCard",
+                "level": "World Elite",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        },
+        {
+            "description": "Monzo Flex (Virtual)",
+            "bin": [
+                543121
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "MasterCard",
+                "level": "Platinum",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        }
+    ]
+}
