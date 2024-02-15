@@ -1,0 +1,50 @@
+{
+    "bank": {
+        "native_name": "Wise",
+        "english_name": "Wise",
+        "country": "GB",
+        "url": "https://wise.com"
+    },
+    "cards": [
+        {
+            "description": "Wise Malaysia Debit Card",
+            "bin": [
+                418596
+            ],
+            "manager": {
+                "native_name": "Wise Payments Malaysia",
+                "english_name": "Wise Payments Malaysia",
+                "country": "MY",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "MY"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Wise Malaysia Debit Card (Virtual)",
+            "bin": [
+                418596
+            ],
+            "manager": {
+                "native_name": "Wise Payments Malaysia",
+                "english_name": "Wise Payments Malaysia",
+                "country": "MY",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "MY"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
