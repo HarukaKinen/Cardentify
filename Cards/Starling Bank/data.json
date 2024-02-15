@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "native_name": "Starling Bank",
+        "english_name": "Starling Bank",
+        "country": "GB",
+        "url": "https://www.starlingbank.com"
+    },
+    "cards": [
+        {
+            "description": "Starling Bank Debit Card",
+
+            "card": {
+                "type": "Debit",
+                "brand": "MasterCard",
+                "level": "World",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
+        }
+    ]
+}
