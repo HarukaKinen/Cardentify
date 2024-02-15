@@ -12,7 +12,7 @@
                 516767
             ],
             "card": {
-                "type": "Credit",
+                "type": "Debit",
                 "brand": "Mastercard",
                 "level": "World Elite",
                 "country": "GB"
