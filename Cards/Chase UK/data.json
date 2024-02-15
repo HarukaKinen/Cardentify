@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Chase UK",
+        "english_name": "Chase UK",
+        "country": "GB",
+        "url": "https://www.chase.co.uk"
+    },
+    "cards": [
+        {
+            "description": "Chase Debit Card",
+            "bin": [
+                516767
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "World Elite",
+                "country": "GB"
+            },
+            "source": "Google Pay",
+            "ext": "png"
+        }
+    ]
+}
