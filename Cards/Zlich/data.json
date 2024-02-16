@@ -8,6 +8,15 @@
     "cards": [
         {
             "description": "Zilch MasterCard",
+            "bin" : [
+                516940
+            ],
+            "manager": {
+                "native_name": "Monavate",
+                "english_name": "Monavate",
+                "country": "GB",
+                "url": "https://www.monavate.com"
+            },
             "card": {
                 "type": "Debit",
                 "brand": "Mastercard",
