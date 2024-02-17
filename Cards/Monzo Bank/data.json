@@ -33,6 +33,20 @@
             },
             "source": "Samsung Pay",
             "ext": "jpg"
+        },
+        {
+            "description": "Monzo Flex",
+            "bin": [
+                555060
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "Platinum",
+                "country": "GB"
+            },
+            "source": "Samsung Pay",
+            "ext": "jpg"
         }
     ]
 }
