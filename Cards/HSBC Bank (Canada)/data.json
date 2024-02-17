@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "HSBC Bank (Canada)",
+        "english_name": "HSBC Bank (Canada)",
+        "country": "CA",
+        "url": "https://www.hsbc.ca"
+    },
+    "cards": [
+        {
+            "description": "HSBC Canada World Elite Mastercard",
+            "bin": [
+                529918
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "World Elite",
+                "country": "CA"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
