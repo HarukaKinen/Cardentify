@@ -94,14 +94,14 @@
             "manager": {
                 "native_name": "Wise Payments Canada",
                 "english_name": "Wise Payments Canada",
-                "country": "ca",
+                "country": "CA",
                 "url": "https://wise.com"
             },
             "card": {
                 "type": "Debit",
                 "brand": "VISA",
                 "level": "Platinum",
-                "country": "ca"
+                "country": "CA"
             },
             "source": "PayPal",
             "filename": "Wise Platinum Card (Virtual).png"
