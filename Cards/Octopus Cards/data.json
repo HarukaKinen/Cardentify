@@ -12,10 +12,10 @@
                 529006
             ],
             "card": {
-                "type": "Prepaid",
+                "type": "Debit",
                 "brand": "Mastercard",
                 "country": "HK",
-                "level": "Platinum"
+                "level": "Prepaid Platinum"
             },
             "source": "Apple Pay",
             "ext": "png"
