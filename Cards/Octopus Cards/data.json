@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "八達通卡",
+        "english_name": "Octopus Cards",
+        "country": "HK",
+        "url": "https://www.octopus.com.hk"
+    },
+    "cards": [
+        {
+            "description": "Octopus Mastercard",
+            "bin": [
+                529006
+            ],
+            "card": {
+                "type": "Prepaid",
+                "brand": "Mastercard",
+                "country": "HK",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
