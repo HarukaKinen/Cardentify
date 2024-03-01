@@ -67,6 +67,66 @@
             "filename": "Wise Platinum Card (Virtual).png"
         },
         {
+            "description": "Wise Card Australia (New)",
+            "bin": [
+                459693
+            ],
+            "manager": {
+                "native_name": "Wise Australia",
+                "english_name": "Wise Australia",
+                "country": "AU",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "AU"
+            },
+            "source": "PayPal",
+            "filename": "Wise Platinum Card (New).png"
+        },
+        {
+            "description": "Wise Card Canada (Virtual)",
+            "bin": [
+                439700
+            ],
+            "manager": {
+                "native_name": "Wise Payments Canada",
+                "english_name": "Wise Payments Canada",
+                "country": "ca",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "ca"
+            },
+            "source": "PayPal",
+            "filename": "Wise Platinum Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card Canada (New)",
+            "bin": [
+                439700
+            ],
+            "manager": {
+                "native_name": "Wise Payments Canada",
+                "english_name": "Wise Payments Canada",
+                "country": "CA",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "CA"
+            },
+            "source": "PayPal",
+            "filename": "Wise Platinum Card (New).png"
+        },
+        {
             "description": "Wise Card (Virtual)",
             "bin": [
                 459661
@@ -104,6 +164,126 @@
                 "brand": "VISA",
                 "level": "Infinite",
                 "country": "GB"
+            },
+            "source": "PayPal",
+            "filename": "Wise Eco Card.png"
+        },
+        {
+            "description": "Wise Card EEA (Virtual)",
+            "bin": [
+                456933
+            ],
+            "manager": {
+                "native_name": "Wise Europe SA",
+                "english_name": "Wise Europe SA",
+                "country": "BE",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "DE"
+            },
+            "source": "PayPal",
+            "filename": "Wise Infinite Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card EEA (Old)",
+            "bin": [
+                456933
+            ],
+            "manager": {
+                "native_name": "Wise Europe SA",
+                "english_name": "Wise Europe SA",
+                "country": "BE",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "DE"
+            },
+            "source": "PayPal",
+            "filename": "Wise Card (Old).png"
+        },
+        {
+            "description": "Wise Eco Card EEA",
+            "bin": [
+                456933
+            ],
+            "manager": {
+                "native_name": "Wise Europe SA",
+                "english_name": "Wise Europe SA",
+                "country": "BE",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "DE"
+            },
+            "source": "PayPal",
+            "filename": "Wise Eco Card.png"
+        },
+        {
+            "description": "Wise Card EEA (Virtual)",
+            "bin": [
+                456933
+            ],
+            "manager": {
+                "native_name": "Wise Europe AS",
+                "english_name": "Wise Europe AS",
+                "country": "EE",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "EE"
+            },
+            "source": "PayPal",
+            "filename": "Wise Infinite Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card EEA (Old)",
+            "bin": [
+                456933
+            ],
+            "manager": {
+                "native_name": "Wise Europe AS",
+                "english_name": "Wise Europe AS",
+                "country": "EE",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "EE"
+            },
+            "source": "PayPal",
+            "filename": "Wise Card (Old).png"
+        },
+        {
+            "description": "Wise Eco Card EEA",
+            "bin": [
+                456933
+            ],
+            "manager": {
+                "native_name": "Wise Europe AS",
+                "english_name": "Wise Europe AS",
+                "country": "EE",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "EE"
             },
             "source": "PayPal",
             "filename": "Wise Eco Card.png"
