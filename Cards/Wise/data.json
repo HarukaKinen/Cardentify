@@ -7,6 +7,26 @@
     },
     "cards": [
         {
+            "description": "Wise Card Malaysia (Old)",
+            "bin": [
+                418596
+            ],
+            "manager": {
+                "native_name": "Wise Payments Malaysia",
+                "english_name": "Wise Payments Malaysia",
+                "country": "MY",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "MY"
+            },
+            "source": "PayPal",
+            "filename": "Wise Card (Old).png"
+        },
+        {
             "description": "Wise Card Malaysia (New)",
             "bin": [
                 418596
@@ -67,6 +87,26 @@
             "filename": "Wise Platinum Card (Virtual).png"
         },
         {
+            "description": "Wise Card Australia (Old)",
+            "bin": [
+                459693
+            ],
+            "manager": {
+                "native_name": "Wise Australia",
+                "english_name": "Wise Australia",
+                "country": "AU",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "AU"
+            },
+            "source": "PayPal",
+            "filename": "Wise Card (Old).png"
+        },
+        {
             "description": "Wise Card Australia (New)",
             "bin": [
                 459693
@@ -107,6 +147,26 @@
             "filename": "Wise Platinum Card (Virtual).png"
         },
         {
+            "description": "Wise Card Canada (Old)",
+            "bin": [
+                439700
+            ],
+            "manager": {
+                "native_name": "Wise Payments Canada",
+                "english_name": "Wise Payments Canada",
+                "country": "CA",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "CA"
+            },
+            "source": "PayPal",
+            "filename": "Wise Card (Old).png"
+        },
+        {
             "description": "Wise Card Canada (New)",
             "bin": [
                 439700
@@ -143,7 +203,7 @@
         {
             "description": "Wise Card (Old)",
             "bin": [
-                459661
+                459661, 491232
             ],
             "card": {
                 "type": "Debit",
