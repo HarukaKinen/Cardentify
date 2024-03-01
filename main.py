@@ -21,6 +21,7 @@ for bank in repos:
     if bank["type"] == "dir":
         path = bank["path"]
         name = bank["name"]
+        print(f"Processing {name}")
         r = requests.get(bank["url"])
         card_data = r.json()
         for i in card_data:
@@ -29,10 +30,11 @@ for bank in repos:
                 data = r.json()
                 for l in data["cards"]:
                     issuer = data["bank"]
-                    image = f'{i["download_url"].replace("data.json", l["description"])}.{l["ext"]}'
                     if l.get("filename") is None:
+                        image = f'{i["download_url"].replace("data.json", l["description"])}.{l["ext"]}'
                         path = f'{i["html_url"].replace("data.json", l["description"])}.{l["ext"]}'
                     else:
+                        image = f'{i["download_url"].replace("data.json", l["filename"])}'
                         path = f'{i["html_url"].replace("data.json", l["filename"])}'
                     l.update({"image": image, "url": path, "issuer": issuer})
                     cards.append(l)
