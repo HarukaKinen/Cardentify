@@ -30,7 +30,10 @@ for bank in repos:
                 for l in data["cards"]:
                     issuer = data["bank"]
                     image = f'{i["download_url"].replace("data.json", l["description"])}.{l["ext"]}'
-                    path = f'{i["html_url"].replace("data.json", l["description"])}.{l["ext"]}'
+                    if l.get("filename") is None:
+                        path = f'{i["html_url"].replace("data.json", l["description"])}.{l["ext"]}'
+                    else:
+                        path = f'{i["html_url"].replace("data.json", l["filename"])}'
                     l.update({"image": image, "url": path, "issuer": issuer})
                     cards.append(l)
                     banks.append(issuer)

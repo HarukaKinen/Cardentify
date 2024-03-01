@@ -7,7 +7,7 @@
     },
     "cards": [
         {
-            "description": "Wise Malaysia Debit Card",
+            "description": "Wise Card Malaysia (New)",
             "bin": [
                 418596
             ],
@@ -24,10 +24,10 @@
                 "country": "MY"
             },
             "source": "PayPal",
-            "ext": "png"
+            "filename": "Wise Platinum Card (New).png"
         },
         {
-            "description": "Wise Malaysia Debit Card (Virtual)",
+            "description": "Wise Card Malaysia (Virtual)",
             "bin": [
                 418596
             ],
@@ -44,7 +44,69 @@
                 "country": "MY"
             },
             "source": "PayPal",
-            "ext": "png"
+            "filename": "Wise Platinum Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card Australia (Virtual)",
+            "bin": [
+                459693
+            ],
+            "manager": {
+                "native_name": "Wise Australia",
+                "english_name": "Wise Australia",
+                "country": "AU",
+                "url": "https://wise.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "AU"
+            },
+            "source": "PayPal",
+            "filename": "Wise Platinum Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card (Virtual)",
+            "bin": [
+                459661
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "GB"
+            },
+            "source": "PayPal",
+            "filename": "Wise Infinite Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card (Old)",
+            "bin": [
+                459661
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "GB"
+            },
+            "source": "PayPal",
+            "filename": "Wise Card (Old).png"
+        },
+        {
+            "description": "Wise Eco Card",
+            "bin": [
+                459661
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "GB"
+            },
+            "source": "PayPal",
+            "filename": "Wise Eco Card.png"
         }
     ]
 }

@@ -32,7 +32,7 @@
     },
     "cards": [
         {
-            "description": "Random Debit Card", // "pass.json" 中的卡名称，提供的图片文件必须与该变量一致
+            "description": "Random Debit Card", // "pass.json" 中的卡名称
             "bin": [
                 400000 // 卡潜在 BIN 头（六位）
             ],
@@ -49,7 +49,8 @@
                 "level": "Platnium" // 卡等
             },
             "source": "Apple Pay", // 图片来源
-            "ext": "png" // 图片格式
+            "ext": "png", // 图片格式，如果需要的图片文件名与 description 字段相同，在此处填写其图片后缀即可，否则忽略该字段，填写下方的 filename 字段
+            "filename": "Random Debit Card File Name.png" // 引用的图片文件名，包含其后缀。此字段和 ext 字段只能保留一个
         },
         {
             ...
