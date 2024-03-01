@@ -48,6 +48,7 @@ if banks:
     with open("bank.json", "w") as f:
         json.dump(banks, f, indent=4)
 
+cards = sorted(cards, key=lambda x: x["description"])
 cards = sorted(cards, key=lambda x: x["issuer"]["english_name"])
 cards = sorted(cards, key=lambda x: x["card"]["country"])
 
