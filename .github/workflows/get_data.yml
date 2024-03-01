@@ -25,7 +25,7 @@ jobs:
             - name: Run Python
               run: python main.py
               env:
-                  TOKEN: ${{ secrets.TOKEN }}
+                  TOKEN: ${{ secrets.GITHUB_TOKEN }}
             - name: Git Push
               uses: EndBug/add-and-commit@v9
               with:
