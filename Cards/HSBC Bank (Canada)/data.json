@@ -19,6 +19,20 @@
             },
             "source": "PayPal",
             "ext": "png"
+        },
+        {
+            "description": "HSBC Canada World Elite Mastercard (Old)",
+            "bin": [
+                529918
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "World Elite",
+                "country": "CA"
+            },
+            "source": "PayPal",
+            "ext": "jpg"
         }
     ]
 }
