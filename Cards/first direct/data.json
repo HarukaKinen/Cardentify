@@ -9,7 +9,7 @@
         {
             "description": "First Direct Debit",
             "bin": [
-                529918
+                557483
             ],
             "manager": {
                 "native_name": "HSBC Bank (United Kingdom)",
