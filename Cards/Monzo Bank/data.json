@@ -45,8 +45,8 @@
                 "level": "Platinum",
                 "country": "GB"
             },
-            "source": "Samsung Pay",
-            "ext": "jpg"
+            "source": "PayPal",
+            "ext": "png"
         }
     ]
 }
