@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "first direct bank",
+        "english_name": "first direct bank",
+        "country": "GB",
+        "url": "https://www.firstdirect.com"
+    },
+    "cards": [
+        {
+            "description": "First Direct Debit",
+            "bin": [
+                529918
+            ],
+            "manager": {
+                "native_name": "HSBC Bank (United Kingdom)",
+                "english_name": "HSBC Bank (United Kingdom)",
+                "country": "GB",
+                "url": "https://www.hsbc.co.uk"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "Platinum",
+                "country": "GB"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
