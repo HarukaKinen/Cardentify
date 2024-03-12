@@ -1,5 +1,7 @@
 # Cardentify 卡面库
 
+该 Repo 仅用于保存并同步卡面数据，网页前端请前往 [Cardentify-Frontend](https://github.com/HarukaKinen/Cardentify-frontend)
+
 ## 文件结构
 
 所有数据文件均存放在 `Cards` 文件夹中，`main.py` 负责让 [Github Actions](https://github.com/HarukaKinen/Cardentify/actions) 处理并生成前端所需要的数据并 Force Push 到 `data` 分支。
