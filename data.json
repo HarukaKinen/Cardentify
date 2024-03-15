@@ -1,0 +1,3938 @@
+[
+    {
+        "description": "Wise Card Australia (New)",
+        "bin": [
+            459693
+        ],
+        "manager": {
+            "native_name": "Wise Australia",
+            "english_name": "Wise Australia",
+            "country": "AU",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "AU"
+        },
+        "source": "PayPal",
+        "filename": "Wise Platinum Card (New).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Platinum Card (New).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Platinum Card (New).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card Australia (Old)",
+        "bin": [
+            459693
+        ],
+        "manager": {
+            "native_name": "Wise Australia",
+            "english_name": "Wise Australia",
+            "country": "AU",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "AU"
+        },
+        "source": "PayPal",
+        "filename": "Wise Card (Old).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Card (Old).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Card (Old).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card Australia (Virtual)",
+        "bin": [
+            459693
+        ],
+        "manager": {
+            "native_name": "Wise Australia",
+            "english_name": "Wise Australia",
+            "country": "AU",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "AU"
+        },
+        "source": "PayPal",
+        "filename": "Wise Platinum Card (Virtual).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Platinum Card (Virtual).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Platinum Card (Virtual).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "HSBC Canada World Elite Mastercard",
+        "bin": [
+            529918
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "World Elite",
+            "country": "CA"
+        },
+        "source": "PayPal",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(Canada)/HSBC Canada World Elite Mastercard.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(Canada)/HSBC Canada World Elite Mastercard.png",
+        "issuer": {
+            "native_name": "HSBC Bank (Canada)",
+            "english_name": "HSBC Bank (Canada)",
+            "country": "CA",
+            "url": "https://www.hsbc.ca"
+        }
+    },
+    {
+        "description": "HSBC Canada World Elite Mastercard (Old)",
+        "bin": [
+            529918
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "World Elite",
+            "country": "CA"
+        },
+        "source": "PayPal",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(Canada)/HSBC Canada World Elite Mastercard (Old).jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(Canada)/HSBC Canada World Elite Mastercard (Old).jpg",
+        "issuer": {
+            "native_name": "HSBC Bank (Canada)",
+            "english_name": "HSBC Bank (Canada)",
+            "country": "CA",
+            "url": "https://www.hsbc.ca"
+        }
+    },
+    {
+        "description": "Wise Card Canada (New)",
+        "bin": [
+            439700
+        ],
+        "manager": {
+            "native_name": "Wise Payments Canada",
+            "english_name": "Wise Payments Canada",
+            "country": "CA",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "CA"
+        },
+        "source": "PayPal",
+        "filename": "Wise Platinum Card (New).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Platinum Card (New).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Platinum Card (New).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card Canada (Old)",
+        "bin": [
+            439700
+        ],
+        "manager": {
+            "native_name": "Wise Payments Canada",
+            "english_name": "Wise Payments Canada",
+            "country": "CA",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "CA"
+        },
+        "source": "PayPal",
+        "filename": "Wise Card (Old).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Card (Old).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Card (Old).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card Canada (Virtual)",
+        "bin": [
+            439700
+        ],
+        "manager": {
+            "native_name": "Wise Payments Canada",
+            "english_name": "Wise Payments Canada",
+            "country": "CA",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "CA"
+        },
+        "source": "PayPal",
+        "filename": "Wise Platinum Card (Virtual).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Platinum Card (Virtual).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Platinum Card (Virtual).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "\u4e0a\u6d77\u54d4\u54e9\u54d4\u54e9\u8054\u540d\u501f\u8bb0\u5361",
+        "bin": [
+            612790
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20of%20China/\u4e0a\u6d77\u54d4\u54e9\u54d4\u54e9\u8054\u540d\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20of%20China/\u4e0a\u6d77\u54d4\u54e9\u54d4\u54e9\u8054\u540d\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u56fd\u94f6\u884c",
+            "english_name": "Bank of China",
+            "country": "CN",
+            "url": "http://www.boc.cn"
+        }
+    },
+    {
+        "description": "\u4e2d\u94f6\u65e0\u754c\u6570\u5b57\u767d\u91d1\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20of%20China/\u4e2d\u94f6\u65e0\u754c\u6570\u5b57\u767d\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20of%20China/\u4e2d\u94f6\u65e0\u754c\u6570\u5b57\u767d\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u56fd\u94f6\u884c",
+            "english_name": "Bank of China",
+            "country": "CN",
+            "url": "http://www.boc.cn"
+        }
+    },
+    {
+        "description": "\u957f\u57ce\u501f\u8bb0\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20of%20China/\u957f\u57ce\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20of%20China/\u957f\u57ce\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u56fd\u94f6\u884c",
+            "english_name": "Bank of China",
+            "country": "CN",
+            "url": "http://www.boc.cn"
+        }
+    },
+    {
+        "description": "\u957f\u57ce\u6d1b\u5929\u4f9d\u8054\u540d\u501f\u8bb0\u5361",
+        "bin": [
+            612790
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20of%20China/\u957f\u57ce\u6d1b\u5929\u4f9d\u8054\u540d\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20of%20China/\u957f\u57ce\u6d1b\u5929\u4f9d\u8054\u540d\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u56fd\u94f6\u884c",
+            "english_name": "Bank of China",
+            "country": "CN",
+            "url": "http://www.boc.cn"
+        }
+    },
+    {
+        "description": "\u7f8e\u56fd\u8fd0\u901a\u91d1\u5361\u501f\u8bb0\u5361",
+        "bin": [
+            377138
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "AMEX",
+            "country": "CN",
+            "level": "Gold"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Citic%20Bank/\u7f8e\u56fd\u8fd0\u901a\u91d1\u5361\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Citic%20Bank/\u7f8e\u56fd\u8fd0\u901a\u91d1\u5361\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u4fe1\u94f6\u884c",
+            "english_name": "China Citic Bank",
+            "country": "CN",
+            "url": "https://www.citicbank.com"
+        }
+    },
+    {
+        "description": "\u5e7f\u53d1\u94f6\u884c\u7f8e\u56fd\u8fd0\u901a\u501f\u8bb0\u5361",
+        "bin": [
+            370330
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "AMEX",
+            "country": "CN",
+            "level": "Member"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Guangfa%20Bank/\u5e7f\u53d1\u94f6\u884c\u7f8e\u56fd\u8fd0\u901a\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Guangfa%20Bank/\u5e7f\u53d1\u94f6\u884c\u7f8e\u56fd\u8fd0\u901a\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u5e7f\u53d1\u94f6\u884c",
+            "english_name": "China Guangfa Bank",
+            "country": "CN",
+            "url": "https://www.cgbchina.com.cn"
+        }
+    },
+    {
+        "description": "\u5174\u4e1a\u94f6\u884c\u7f8e\u56fd\u8fd0\u901a\u5b89\u6109\u501f\u8bb0\u5361",
+        "bin": [
+            370508
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "AMEX",
+            "country": "CN",
+            "level": "Select"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Industrial%20Bank/\u5174\u4e1a\u94f6\u884c\u7f8e\u56fd\u8fd0\u901a\u5b89\u6109\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Industrial%20Bank/\u5174\u4e1a\u94f6\u884c\u7f8e\u56fd\u8fd0\u901a\u5b89\u6109\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u5174\u4e1a\u94f6\u884c",
+            "english_name": "China Industrial Bank",
+            "country": "CN",
+            "url": "https://www.cib.com.cn"
+        }
+    },
+    {
+        "description": "HelloKitty\u8054\u540d\u501f\u8bb0\u5361 (\u6a31\u82b1\u597d\u8fd0\u7cfb\u5217-\u5fc3\u613f\u8fbe\u6210\u6b3e)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u501f\u8bb0\u5361 (\u6a31\u82b1\u597d\u8fd0\u7cfb\u5217-\u5fc3\u613f\u8fbe\u6210\u6b3e).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u501f\u8bb0\u5361 (\u6a31\u82b1\u597d\u8fd0\u7cfb\u5217-\u5fc3\u613f\u8fbe\u6210\u6b3e).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "HelloKitty\u8054\u540d\u501f\u8bb0\u5361 (\u6a31\u82b1\u597d\u8fd0\u7cfb\u5217-\u62db\u8d22\u7eb3\u798f\u6b3e)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u501f\u8bb0\u5361 (\u6a31\u82b1\u597d\u8fd0\u7cfb\u5217-\u62db\u8d22\u7eb3\u798f\u6b3e).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u501f\u8bb0\u5361 (\u6a31\u82b1\u597d\u8fd0\u7cfb\u5217-\u62db\u8d22\u7eb3\u798f\u6b3e).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "HelloKitty\u8054\u540d\u5c0f\u91d1\u5361 (\u6708\u5149\u94f6)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u5c0f\u91d1\u5361 (\u6708\u5149\u94f6).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u5c0f\u91d1\u5361 (\u6708\u5149\u94f6).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "HelloKitty\u8054\u540d\u5c0f\u91d1\u5361 (\u8000\u591c\u9ed1)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u5c0f\u91d1\u5361 (\u8000\u591c\u9ed1).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u5c0f\u91d1\u5361 (\u8000\u591c\u9ed1).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "HelloKitty\u8054\u540d\u91d1\u8475\u82b1\u5361",
+        "bin": [
+            612483
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u91d1\u8475\u82b1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/HelloKitty\u8054\u540d\u91d1\u8475\u82b1\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "QQ\u94b1\u5305\u8054\u540d\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/QQ\u94b1\u5305\u8054\u540d\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/QQ\u94b1\u5305\u8054\u540d\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u4e00\u5361\u901a (\u79c1\u4eba\u94f6\u884c\u5361)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Diamond"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u4e00\u5361\u901a (\u79c1\u4eba\u94f6\u884c\u5361).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u4e00\u5361\u901a (\u79c1\u4eba\u94f6\u884c\u5361).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u8054\u540d\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u8054\u540d\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u8054\u540d\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u539f\u795e\u8054\u540d\u5361LOGO\u6b3e",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u539f\u795e\u8054\u540d\u5361LOGO\u6b3e.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u539f\u795e\u8054\u540d\u5361LOGO\u6b3e.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u539f\u795e\u8054\u540d\u5361\u7518\u96e8\u6b3e",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u539f\u795e\u8054\u540d\u5361\u7518\u96e8\u6b3e.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u539f\u795e\u8054\u540d\u5361\u7518\u96e8\u6b3e.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u54d4\u54e9\u54d4\u54e9\u8054\u540d\u501f\u8bb0\u5361",
+        "bin": [
+            612483
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u54d4\u54e9\u54d4\u54e9\u8054\u540d\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u54d4\u54e9\u54d4\u54e9\u8054\u540d\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u5446\u840c\u8d1d\u80af",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u5446\u840c\u8d1d\u80af.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u5446\u840c\u8d1d\u80af.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u563b\u54c8\u8d1d\u80af",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u563b\u54c8\u8d1d\u80af.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u563b\u54c8\u8d1d\u80af.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u6587\u827a\u8d1d\u80af",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u6587\u827a\u8d1d\u80af.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u6587\u827a\u8d1d\u80af.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u8fd0\u52a8\u8d1d\u80af",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u8fd0\u52a8\u8d1d\u80af.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5927\u536b\u8d1d\u80afIC\u8054\u540d\u5361-\u8fd0\u52a8\u8d1d\u80af.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5947\u864e360\u8054\u540d\u501f\u8bb0\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5947\u864e360\u8054\u540d\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5947\u864e360\u8054\u540d\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5b9d\u53ef\u68a6\u8054\u540d\u501f\u8bb0\u5361 (\u76ae\u5361\u4e18)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5b9d\u53ef\u68a6\u8054\u540d\u501f\u8bb0\u5361 (\u76ae\u5361\u4e18).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5b9d\u53ef\u68a6\u8054\u540d\u501f\u8bb0\u5361 (\u76ae\u5361\u4e18).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5de5\u4f5c\u7ec6\u80de\u8054\u540d\u501f\u8bb0\u5361 (\u624b\u7ed8Q\u7248\u5361)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5de5\u4f5c\u7ec6\u80de\u8054\u540d\u501f\u8bb0\u5361 (\u624b\u7ed8Q\u7248\u5361).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5de5\u4f5c\u7ec6\u80de\u8054\u540d\u501f\u8bb0\u5361 (\u624b\u7ed8Q\u7248\u5361).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5de5\u4f5c\u7ec6\u80de\u8054\u540d\u501f\u8bb0\u5361 (\u7ea2\u7ec6\u80de\u5361)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5de5\u4f5c\u7ec6\u80de\u8054\u540d\u501f\u8bb0\u5361 (\u7ea2\u7ec6\u80de\u5361).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5de5\u4f5c\u7ec6\u80de\u8054\u540d\u501f\u8bb0\u5361 (\u7ea2\u7ec6\u80de\u5361).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5fc5\u80dc\u5ba2\u8054\u540d\u501f\u8bb0\u5361 (\u661f\u7403\u7248)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5fc5\u80dc\u5ba2\u8054\u540d\u501f\u8bb0\u5361 (\u661f\u7403\u7248).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5fc5\u80dc\u5ba2\u8054\u540d\u501f\u8bb0\u5361 (\u661f\u7403\u7248).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u5fc5\u80dc\u5ba2\u8054\u540d\u501f\u8bb0\u5361 (\u9ed1\u94f6\u7248)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u5fc5\u80dc\u5ba2\u8054\u540d\u501f\u8bb0\u5361 (\u9ed1\u94f6\u7248).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u5fc5\u80dc\u5ba2\u8054\u540d\u501f\u8bb0\u5361 (\u9ed1\u94f6\u7248).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u6124\u6012\u7684\u5c0f\u9e1f\u840c\u840c\u54d2\u7cfb\u5217\u8054\u540d\u5361 (\u7ea2\u5e95\u767d\u9e1f)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u6124\u6012\u7684\u5c0f\u9e1f\u840c\u840c\u54d2\u7cfb\u5217\u8054\u540d\u5361 (\u7ea2\u5e95\u767d\u9e1f).jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u6124\u6012\u7684\u5c0f\u9e1f\u840c\u840c\u54d2\u7cfb\u5217\u8054\u540d\u5361 (\u7ea2\u5e95\u767d\u9e1f).jpg",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u5546\u94f6\u884c\u4eac\u4e1c\u8054\u540d\u4fe1\u7528\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u4eac\u4e1c\u8054\u540d\u4fe1\u7528\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u4eac\u4e1c\u8054\u540d\u4fe1\u7528\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u5546\u94f6\u884c\u54d4\u54e9\u54d4\u54e9\u4fe1\u7528\u5361",
+        "bin": [
+            622575
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u54d4\u54e9\u54d4\u54e9\u4fe1\u7528\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u54d4\u54e9\u54d4\u54e9\u4fe1\u7528\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u5546\u94f6\u884c\u623f\u8d37\u4e3b\u9898\u5361\u666e\u5361 (\u7a97\u6237\u84dd\u8272\u7248)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u623f\u8d37\u4e3b\u9898\u5361\u666e\u5361 (\u7a97\u6237\u84dd\u8272\u7248).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u623f\u8d37\u4e3b\u9898\u5361\u666e\u5361 (\u7a97\u6237\u84dd\u8272\u7248).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u5546\u94f6\u884c\u62db\u8d22\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u62db\u8d22\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u62db\u8d22\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u5546\u94f6\u884c\u666e\u5361 (\u4e00\u5361\u901a)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u666e\u5361 (\u4e00\u5361\u901a).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u5546\u94f6\u884c\u666e\u5361 (\u4e00\u5361\u901a).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u884c\u4e00\u5361\u901a",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u884c\u4e00\u5361\u901a.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u884c\u4e00\u5361\u901a.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u884c\u62e5\u519b\u4f18\u629a\u4e00\u5361\u901a",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u884c\u62e5\u519b\u4f18\u629a\u4e00\u5361\u901a.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u884c\u62e5\u519b\u4f18\u629a\u4e00\u5361\u901a.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u62db\u884c\u9999\u6e2f\u4e00\u5361\u901a",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u62db\u884c\u9999\u6e2f\u4e00\u5361\u901a.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u62db\u884c\u9999\u6e2f\u4e00\u5361\u901a.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u660e\u65e5\u65b9\u821f\u8054\u540d\u50a8\u84c4\u5361 (\u767d\u8272\u62a5\u7ae5\u963f\u7c73\u5a05)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u660e\u65e5\u65b9\u821f\u8054\u540d\u50a8\u84c4\u5361 (\u767d\u8272\u62a5\u7ae5\u963f\u7c73\u5a05).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u660e\u65e5\u65b9\u821f\u8054\u540d\u50a8\u84c4\u5361 (\u767d\u8272\u62a5\u7ae5\u963f\u7c73\u5a05).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u660e\u65e5\u65b9\u821f\u8054\u540d\u50a8\u84c4\u5361 (\u9ed1\u8272\u7f57\u5fb7\u5c9b)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u660e\u65e5\u65b9\u821f\u8054\u540d\u50a8\u84c4\u5361 (\u9ed1\u8272\u7f57\u5fb7\u5c9b).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u660e\u65e5\u65b9\u821f\u8054\u540d\u50a8\u84c4\u5361 (\u9ed1\u8272\u7f57\u5fb7\u5c9b).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u68b5\u9ad8\u661f\u591c\u91d1\u8475\u82b1\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u68b5\u9ad8\u661f\u591c\u91d1\u8475\u82b1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u68b5\u9ad8\u661f\u591c\u91d1\u8475\u82b1\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u6c5f\u5357\u767e\u666f\u56fe\u8054\u540d\u666e\u5361 (\u4e25\u5927\u4eba)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u6c5f\u5357\u767e\u666f\u56fe\u8054\u540d\u666e\u5361 (\u4e25\u5927\u4eba).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u6c5f\u5357\u767e\u666f\u56fe\u8054\u540d\u666e\u5361 (\u4e25\u5927\u4eba).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u6ef4\u6ef4\u8054\u540d\u501f\u8bb0\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u6ef4\u6ef4\u8054\u540d\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u6ef4\u6ef4\u8054\u540d\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u738b\u8005\u8363\u8000\u8054\u540d\u5361LOGO\u7248",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u738b\u8005\u8363\u8000\u8054\u540d\u5361LOGO\u7248.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u738b\u8005\u8363\u8000\u8054\u540d\u5361LOGO\u7248.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u817e\u8baf\u4ef7\u503c\u8ba4\u540c\u91d1\u8475\u82b1\u5361",
+        "bin": [
+            612483
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Platinum"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u817e\u8baf\u4ef7\u503c\u8ba4\u540c\u91d1\u8475\u82b1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u817e\u8baf\u4ef7\u503c\u8ba4\u540c\u91d1\u8475\u82b1\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u817e\u8baf\u89c6\u9891\u8054\u540d\u501f\u8bb0\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u817e\u8baf\u89c6\u9891\u8054\u540d\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u817e\u8baf\u89c6\u9891\u8054\u540d\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u822a\u6d77\u738b\u8054\u540d\u5361 (20\u5468\u5e74)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u822a\u6d77\u738b\u8054\u540d\u5361 (20\u5468\u5e74).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u822a\u6d77\u738b\u8054\u540d\u5361 (20\u5468\u5e74).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u822a\u6d77\u738b\u8054\u540d\u5361 (\u4e54\u5df4\u7c89\u8272)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u822a\u6d77\u738b\u8054\u540d\u5361 (\u4e54\u5df4\u7c89\u8272).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u822a\u6d77\u738b\u8054\u540d\u5361 (\u4e54\u5df4\u7c89\u8272).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u822a\u6d77\u738b\u8054\u540d\u5361 (\u8349\u5e3d\u4e00\u4f19\u56e2\u4f53\u5361)",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u822a\u6d77\u738b\u8054\u540d\u5361 (\u8349\u5e3d\u4e00\u4f19\u56e2\u4f53\u5361).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u822a\u6d77\u738b\u8054\u540d\u5361 (\u8349\u5e3d\u4e00\u4f19\u56e2\u4f53\u5361).png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u8354\u679dFM IC\u8054\u540d\u5361",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u8354\u679dFM IC\u8054\u540d\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u8354\u679dFM IC\u8054\u540d\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u8d22\u5bcc\u7efd\u653e\u91d1\u8475\u82b1\u5361",
+        "bin": [
+            612483
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u8d22\u5bcc\u7efd\u653e\u91d1\u8475\u82b1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u8d22\u5bcc\u7efd\u653e\u91d1\u8475\u82b1\u5361.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u8d85\u7ea7\u98de\u4fa0IC\u8054\u540d\u5361-\u4e50\u8fea",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u8d85\u7ea7\u98de\u4fa0IC\u8054\u540d\u5361-\u4e50\u8fea.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u8d85\u7ea7\u98de\u4fa0IC\u8054\u540d\u5361-\u4e50\u8fea.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u8d85\u7ea7\u98de\u4fa0IC\u8054\u540d\u5361-\u5c0f\u7231",
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Standard"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/China%20Merchants%20Bank/\u8d85\u7ea7\u98de\u4fa0IC\u8054\u540d\u5361-\u5c0f\u7231.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/China%20Merchants%20Bank/\u8d85\u7ea7\u98de\u4fa0IC\u8054\u540d\u5361-\u5c0f\u7231.png",
+        "issuer": {
+            "native_name": "\u62db\u5546\u94f6\u884c",
+            "english_name": "China Merchants Bank",
+            "country": "CN",
+            "url": "https://www.cmbchina.com"
+        }
+    },
+    {
+        "description": "\u82b1\u65d7\u94f6\u884c\u793c\u4eab\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u793c\u4eab\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u793c\u4eab\u5361.png",
+        "issuer": {
+            "native_name": "\u82b1\u65d7\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Citibank (China)",
+            "country": "CN",
+            "url": "https://www.citibank.com.cn"
+        }
+    },
+    {
+        "description": "\u82b1\u65d7\u94f6\u884c\u793c\u7a0b\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u793c\u7a0b\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u793c\u7a0b\u5361.png",
+        "issuer": {
+            "native_name": "\u82b1\u65d7\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Citibank (China)",
+            "country": "CN",
+            "url": "https://www.citibank.com.cn"
+        }
+    },
+    {
+        "description": "\u82b1\u65d7\u94f6\u884c\u81f3\u4eab\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "level": "Diamond",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u81f3\u4eab\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u81f3\u4eab\u5361.png",
+        "issuer": {
+            "native_name": "\u82b1\u65d7\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Citibank (China)",
+            "country": "CN",
+            "url": "https://www.citibank.com.cn"
+        }
+    },
+    {
+        "description": "\u82b1\u65d7\u94f6\u884c\u8f7b\u4eab\u5361",
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u8f7b\u4eab\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Citibank%20(China)/\u82b1\u65d7\u94f6\u884c\u8f7b\u4eab\u5361.png",
+        "issuer": {
+            "native_name": "\u82b1\u65d7\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Citibank (China)",
+            "country": "CN",
+            "url": "https://www.citibank.com.cn"
+        }
+    },
+    {
+        "description": "\u661f\u5c55\u4e30\u76db\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361",
+        "bin": [
+            623187
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/DBS%20Bank%20(China)/\u661f\u5c55\u4e30\u76db\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/DBS%20Bank%20(China)/\u661f\u5c55\u4e30\u76db\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u661f\u5c55\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "DBS Bank (China)",
+            "country": "CN",
+            "url": "https://www.dbs.com.cn"
+        }
+    },
+    {
+        "description": "\u661f\u5c55\u5361",
+        "bin": [
+            623187
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/DBS%20Bank%20(China)/\u661f\u5c55\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/DBS%20Bank%20(China)/\u661f\u5c55\u5361.png",
+        "issuer": {
+            "native_name": "\u661f\u5c55\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "DBS Bank (China)",
+            "country": "CN",
+            "url": "https://www.dbs.com.cn"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u5c0f\u5fae\u4f01\u4e1a\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u5c0f\u5fae\u4f01\u4e1a\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u5c0f\u5fae\u4f01\u4e1a\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u6570\u4f4d\u5361\u7c89\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Gold",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6570\u4f4d\u5361\u7c89\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6570\u4f4d\u5361\u7c89\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u6570\u4f4d\u5361\u7eff\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Gold",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6570\u4f4d\u5361\u7eff\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6570\u4f4d\u5361\u7eff\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u767d\u91d1\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u767d\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u767d\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u91d1\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Gold",
+            "country": "CN"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u94bb\u77f3\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Diamond",
+            "country": "CN"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u94bb\u77f3\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u6807\u51c6\u501f\u8bb0\u5361\u94bb\u77f3\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u83c1\u82f1\u7559\u5b66\u751f\u501f\u8bb0\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u83c1\u82f1\u7559\u5b66\u751f\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u83c1\u82f1\u7559\u5b66\u751f\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u90a6\u90a6\u7559\u5b66\u751f\u501f\u8bb0\u5361",
+        "bin": [
+            623565
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u90a6\u90a6\u7559\u5b66\u751f\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Fubon%20Bank%20(China)/\u5bcc\u90a6\u90a6\u90a6\u7559\u5b66\u751f\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u5bcc\u90a6\u534e\u4e00\u94f6\u884c",
+            "english_name": "Fubon Bank (China)",
+            "country": "CN",
+            "url": "http://www.fsbankonline.com"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u4e2d\u56fd\u4e2a\u4eba\u7efc\u5408\u8d26\u6237\u501f\u8bb0\u5361",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u4e2a\u4eba\u7efc\u5408\u8d26\u6237\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u4e2a\u4eba\u7efc\u5408\u8d26\u6237\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u4e2d\u56fd\u5353\u8d8a\u7406\u8d22\u501f\u8bb0\u5361",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u5353\u8d8a\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u5353\u8d8a\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u4e2d\u56fd\u5353\u8d8a\u7406\u8d22\u501f\u8bb0\u5361 (\u65e7\u7248)",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u5353\u8d8a\u7406\u8d22\u501f\u8bb0\u5361 (\u65e7\u7248).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u5353\u8d8a\u7406\u8d22\u501f\u8bb0\u5361 (\u65e7\u7248).png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u4e2d\u56fd\u5c1a\u7389\u501f\u8bb0\u5361",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u5c1a\u7389\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u5c1a\u7389\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u4e2d\u56fd\u8fd0\u7b79\u7406\u8d22\u501f\u8bb0\u5361",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u8fd0\u7b79\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u8fd0\u7b79\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u4e2d\u56fd\u8fd0\u7b79\u7406\u8d22\u501f\u8bb0\u5361 (\u65e7\u7248)",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u8fd0\u7b79\u7406\u8d22\u501f\u8bb0\u5361 (\u65e7\u7248).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u4e2d\u56fd\u8fd0\u7b79\u7406\u8d22\u501f\u8bb0\u5361 (\u65e7\u7248).png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6c47\u4e30\u73af\u7403\u79c1\u4eba\u94f6\u884c\u501f\u8bb0\u5361",
+        "bin": [
+            622946
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u73af\u7403\u79c1\u4eba\u94f6\u884c\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(China)/\u6c47\u4e30\u73af\u7403\u79c1\u4eba\u94f6\u884c\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6c47\u4e30\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "HSBC Bank (China)",
+            "country": "CN",
+            "url": "https://www.hsbc.com.cn"
+        }
+    },
+    {
+        "description": "\u6d66\u53d1bilibili\u4e3b\u9898\u4fe1\u7528\u5361",
+        "bin": [
+            622228
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "UnionPay",
+            "country": "CN",
+            "level": "Platinum"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Shanghai%20Pudong%20Development%20Bank/\u6d66\u53d1bilibili\u4e3b\u9898\u4fe1\u7528\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Shanghai%20Pudong%20Development%20Bank/\u6d66\u53d1bilibili\u4e3b\u9898\u4fe1\u7528\u5361.png",
+        "issuer": {
+            "native_name": "\u6d66\u53d1\u94f6\u884c",
+            "english_name": "Shanghai Pudong Development Bank",
+            "country": "CN",
+            "url": "https://www.spdb.com.cn"
+        }
+    },
+    {
+        "description": "\u4f18\u5148\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361",
+        "bin": [
+            622994
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Standard%20Chartered%20Bank%20(China)/\u4f18\u5148\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Standard%20Chartered%20Bank%20(China)/\u4f18\u5148\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6e23\u6253\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Standard Chartered Bank (China)",
+            "country": "CN",
+            "url": "https://www.sc.com/cn"
+        }
+    },
+    {
+        "description": "\u4f18\u5148\u79c1\u4eba\u7406\u8d22\u94bb\u77f3\u501f\u8bb0\u5361",
+        "bin": [
+            622994
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Diamond",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Standard%20Chartered%20Bank%20(China)/\u4f18\u5148\u79c1\u4eba\u7406\u8d22\u94bb\u77f3\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Standard%20Chartered%20Bank%20(China)/\u4f18\u5148\u79c1\u4eba\u7406\u8d22\u94bb\u77f3\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6e23\u6253\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Standard Chartered Bank (China)",
+            "country": "CN",
+            "url": "https://www.sc.com/cn"
+        }
+    },
+    {
+        "description": "\u4f18\u9038\u7406\u8d22\u501f\u8bb0\u5361",
+        "bin": [
+            622994
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Standard%20Chartered%20Bank%20(China)/\u4f18\u9038\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Standard%20Chartered%20Bank%20(China)/\u4f18\u9038\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6e23\u6253\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Standard Chartered Bank (China)",
+            "country": "CN",
+            "url": "https://www.sc.com/cn"
+        }
+    },
+    {
+        "description": "\u643a\u7a0b\u4f18\u5148\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361",
+        "bin": [
+            622994
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Platinum",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Standard%20Chartered%20Bank%20(China)/\u643a\u7a0b\u4f18\u5148\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Standard%20Chartered%20Bank%20(China)/\u643a\u7a0b\u4f18\u5148\u7406\u8d22\u767d\u91d1\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6e23\u6253\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Standard Chartered Bank (China)",
+            "country": "CN",
+            "url": "https://www.sc.com/cn"
+        }
+    },
+    {
+        "description": "\u643a\u7a0b\u4f18\u9038\u7406\u8d22\u501f\u8bb0\u5361",
+        "bin": [
+            622994
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Standard%20Chartered%20Bank%20(China)/\u643a\u7a0b\u4f18\u9038\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Standard%20Chartered%20Bank%20(China)/\u643a\u7a0b\u4f18\u9038\u7406\u8d22\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6e23\u6253\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Standard Chartered Bank (China)",
+            "country": "CN",
+            "url": "https://www.sc.com/cn"
+        }
+    },
+    {
+        "description": "\u667a\u901a\u501f\u8bb0\u5361",
+        "bin": [
+            622942,
+            622994
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "level": "Standard",
+            "country": "CN"
+        },
+        "source": "\u4e91\u95ea\u4ed8",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Standard%20Chartered%20Bank%20(China)/\u667a\u901a\u501f\u8bb0\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Standard%20Chartered%20Bank%20(China)/\u667a\u901a\u501f\u8bb0\u5361.png",
+        "issuer": {
+            "native_name": "\u6e23\u6253\u94f6\u884c (\u4e2d\u56fd)",
+            "english_name": "Standard Chartered Bank (China)",
+            "country": "CN",
+            "url": "https://www.sc.com/cn"
+        }
+    },
+    {
+        "description": "Wise Card EEA (Old)",
+        "bin": [
+            456933
+        ],
+        "manager": {
+            "native_name": "Wise Europe SA",
+            "english_name": "Wise Europe SA",
+            "country": "BE",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "DE"
+        },
+        "source": "PayPal",
+        "filename": "Wise Card (Old).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Card (Old).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Card (Old).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card EEA (Virtual)",
+        "bin": [
+            456933
+        ],
+        "manager": {
+            "native_name": "Wise Europe SA",
+            "english_name": "Wise Europe SA",
+            "country": "BE",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "DE"
+        },
+        "source": "PayPal",
+        "filename": "Wise Infinite Card (Virtual).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Infinite Card (Virtual).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Infinite Card (Virtual).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Eco Card EEA",
+        "bin": [
+            456933
+        ],
+        "manager": {
+            "native_name": "Wise Europe SA",
+            "english_name": "Wise Europe SA",
+            "country": "BE",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "DE"
+        },
+        "source": "PayPal",
+        "filename": "Wise Eco Card.png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Eco Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Eco Card.png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card EEA (Old)",
+        "bin": [
+            456933
+        ],
+        "manager": {
+            "native_name": "Wise Europe AS",
+            "english_name": "Wise Europe AS",
+            "country": "EE",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "EE"
+        },
+        "source": "PayPal",
+        "filename": "Wise Card (Old).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Card (Old).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Card (Old).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card EEA (Virtual)",
+        "bin": [
+            456933
+        ],
+        "manager": {
+            "native_name": "Wise Europe AS",
+            "english_name": "Wise Europe AS",
+            "country": "EE",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "EE"
+        },
+        "source": "PayPal",
+        "filename": "Wise Infinite Card (Virtual).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Infinite Card (Virtual).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Infinite Card (Virtual).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Eco Card EEA",
+        "bin": [
+            456933
+        ],
+        "manager": {
+            "native_name": "Wise Europe AS",
+            "english_name": "Wise Europe AS",
+            "country": "EE",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "EE"
+        },
+        "source": "PayPal",
+        "filename": "Wise Eco Card.png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Eco Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Eco Card.png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Chase Debit Card",
+        "bin": [
+            516767
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "level": "World Elite",
+            "country": "GB"
+        },
+        "source": "Google Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Chase%20UK/Chase Debit Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Chase%20UK/Chase Debit Card.png",
+        "issuer": {
+            "native_name": "Chase UK",
+            "english_name": "Chase UK",
+            "country": "GB",
+            "url": "https://www.chase.co.uk"
+        }
+    },
+    {
+        "description": "HSBC UK - Global Money",
+        "bin": [
+            459681
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Classic",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(United%20Kingdom)/HSBC UK - Global Money.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(United%20Kingdom)/HSBC UK - Global Money.jpg",
+        "issuer": {
+            "native_name": "HSBC Bank (United Kingdom)",
+            "english_name": "HSBC Bank (United Kingdom)",
+            "country": "GB",
+            "url": "https://www.hsbc.co.uk"
+        }
+    },
+    {
+        "description": "HSBC UK Visa Debit Card",
+        "bin": [
+            465943
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Classic",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/HSBC%20Bank%20(United%20Kingdom)/HSBC UK Visa Debit Card.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/HSBC%20Bank%20(United%20Kingdom)/HSBC UK Visa Debit Card.jpg",
+        "issuer": {
+            "native_name": "HSBC Bank (United Kingdom)",
+            "english_name": "HSBC Bank (United Kingdom)",
+            "country": "GB",
+            "url": "https://www.hsbc.co.uk"
+        }
+    },
+    {
+        "description": "Monzo Flex",
+        "bin": [
+            555060
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Platinum",
+            "country": "GB"
+        },
+        "source": "PayPal",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Monzo%20Bank/Monzo Flex.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Monzo%20Bank/Monzo Flex.png",
+        "issuer": {
+            "native_name": "Monzo Bank",
+            "english_name": "Monzo Bank",
+            "country": "GB",
+            "url": "https://monzo.com"
+        }
+    },
+    {
+        "description": "Monzo Flex (Virtual)",
+        "bin": [
+            543121
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Platinum",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Monzo%20Bank/Monzo Flex (Virtual).jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Monzo%20Bank/Monzo Flex (Virtual).jpg",
+        "issuer": {
+            "native_name": "Monzo Bank",
+            "english_name": "Monzo Bank",
+            "country": "GB",
+            "url": "https://monzo.com"
+        }
+    },
+    {
+        "description": "Monzo Metal MasterCard",
+        "bin": [
+            535778
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "level": "World Elite",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Monzo%20Bank/Monzo Metal MasterCard.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Monzo%20Bank/Monzo Metal MasterCard.jpg",
+        "issuer": {
+            "native_name": "Monzo Bank",
+            "english_name": "Monzo Bank",
+            "country": "GB",
+            "url": "https://monzo.com"
+        }
+    },
+    {
+        "description": "Santander Debit Card",
+        "bin": [
+            535666
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "GB",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Santander%20UK/Santander Debit Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Santander%20UK/Santander Debit Card.png",
+        "issuer": {
+            "native_name": "Santander UK",
+            "english_name": "Santander UK",
+            "country": "GB",
+            "url": "https://www.santander.co.uk"
+        }
+    },
+    {
+        "description": "Starling Bank Debit Card",
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "level": "World",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Starling%20Bank/Starling Bank Debit Card.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Starling%20Bank/Starling Bank Debit Card.jpg",
+        "issuer": {
+            "native_name": "Starling Bank",
+            "english_name": "Starling Bank",
+            "country": "GB",
+            "url": "https://www.starlingbank.com"
+        }
+    },
+    {
+        "description": "Wise Card (Old)",
+        "bin": [
+            459661,
+            491232
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "GB"
+        },
+        "source": "PayPal",
+        "filename": "Wise Card (Old).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Card (Old).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Card (Old).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card (Virtual)",
+        "bin": [
+            459661
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "GB"
+        },
+        "source": "PayPal",
+        "filename": "Wise Infinite Card (Virtual).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Infinite Card (Virtual).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Infinite Card (Virtual).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Eco Card",
+        "bin": [
+            459661
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "GB"
+        },
+        "source": "PayPal",
+        "filename": "Wise Eco Card.png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Eco Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Eco Card.png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Zilch MasterCard",
+        "bin": [
+            516940
+        ],
+        "manager": {
+            "native_name": "Monavate",
+            "english_name": "Monavate",
+            "country": "GB",
+            "url": "https://www.monavate.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "level": "World",
+            "category": "Commercial",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Zlich/Zilch MasterCard.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Zlich/Zilch MasterCard.jpg",
+        "issuer": {
+            "native_name": "Zilch",
+            "english_name": "Zilch",
+            "country": "GB",
+            "url": "https://www.zilch.com"
+        }
+    },
+    {
+        "description": "Zing VISA Debit Card",
+        "bin": [
+            446257
+        ],
+        "manager": {
+            "native_name": "MP Payments UK",
+            "english_name": "MP Payments UK",
+            "country": "GB",
+            "url": "https://www.hsbc.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "GB"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Zing/Zing VISA Debit Card.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Zing/Zing VISA Debit Card.jpg",
+        "issuer": {
+            "native_name": "Zing",
+            "english_name": "Zing",
+            "country": "GB",
+            "url": "https://zing.me"
+        }
+    },
+    {
+        "description": "First Direct Debit",
+        "bin": [
+            557483
+        ],
+        "manager": {
+            "native_name": "HSBC Bank (United Kingdom)",
+            "english_name": "HSBC Bank (United Kingdom)",
+            "country": "GB",
+            "url": "https://www.hsbc.co.uk"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "level": "Platinum",
+            "country": "GB"
+        },
+        "source": "PayPal",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/first%20direct/First Direct Debit.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/first%20direct/First Direct Debit.png",
+        "issuer": {
+            "native_name": "first direct bank",
+            "english_name": "first direct bank",
+            "country": "GB",
+            "url": "https://www.firstdirect.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u9280\u5361",
+        "bin": [
+            612741
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "HK",
+            "level": "Standard"
+        },
+        "source": "Samsung Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20of%20China%20(Hong%20Kong)/\u4e2d\u9280\u5361.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20of%20China%20(Hong%20Kong)/\u4e2d\u9280\u5361.jpg",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u9280\u884c (\u9999\u6e2f)",
+            "english_name": "Bank of China (Hong Kong)",
+            "country": "HK",
+            "url": "https://www.bochk.com"
+        }
+    },
+    {
+        "description": "Octopus Mastercard",
+        "bin": [
+            529006
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "HK",
+            "level": "Prepaid Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Octopus%20Cards/Octopus Mastercard.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Octopus%20Cards/Octopus Mastercard.png",
+        "issuer": {
+            "native_name": "\u516b\u9054\u901a\u5361",
+            "english_name": "Octopus Cards",
+            "country": "HK",
+            "url": "https://www.octopus.com.hk"
+        }
+    },
+    {
+        "description": "HSBC Mastercard Debit \u6ed9\u8c50\u842c\u4e8b\u9054\u5361\u6263\u8139\u5361",
+        "bin": [
+            541375
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "HK",
+            "level": "World"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/The%20Hongkong%20and%20Shanghai%20Banking%20Corporation/HSBC Mastercard Debit \u6ed9\u8c50\u842c\u4e8b\u9054\u5361\u6263\u8139\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/The%20Hongkong%20and%20Shanghai%20Banking%20Corporation/HSBC Mastercard Debit \u6ed9\u8c50\u842c\u4e8b\u9054\u5361\u6263\u8139\u5361.png",
+        "issuer": {
+            "native_name": "\u9999\u6e2f\u4e0a\u6d77\u6ed9\u8c50\u9280\u884c",
+            "english_name": "The Hongkong and Shanghai Banking Corporation",
+            "country": "HK",
+            "url": "https://www.hsbc.com.hk"
+        }
+    },
+    {
+        "description": "HSBC Mastercard Debit \u6ed9\u8c50\u842c\u4e8b\u9054\u5361\u6263\u8139\u5361\u9644\u5c6c\u5361",
+        "bin": [
+            541375
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "HK",
+            "level": "World"
+        },
+        "source": "Samsung Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/The%20Hongkong%20and%20Shanghai%20Banking%20Corporation/HSBC Mastercard Debit \u6ed9\u8c50\u842c\u4e8b\u9054\u5361\u6263\u8139\u5361\u9644\u5c6c\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/The%20Hongkong%20and%20Shanghai%20Banking%20Corporation/HSBC Mastercard Debit \u6ed9\u8c50\u842c\u4e8b\u9054\u5361\u6263\u8139\u5361\u9644\u5c6c\u5361.png",
+        "issuer": {
+            "native_name": "\u9999\u6e2f\u4e0a\u6d77\u6ed9\u8c50\u9280\u884c",
+            "english_name": "The Hongkong and Shanghai Banking Corporation",
+            "country": "HK",
+            "url": "https://www.hsbc.com.hk"
+        }
+    },
+    {
+        "description": "HSBC One ATM Card \u6ed9\u8c50One\u81ea\u52d5\u6ac3\u54e1\u6a5f\u5361",
+        "bin": [
+            621443
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "UnionPay",
+            "country": "HK",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/The%20Hongkong%20and%20Shanghai%20Banking%20Corporation/HSBC One ATM Card \u6ed9\u8c50One\u81ea\u52d5\u6ac3\u54e1\u6a5f\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/The%20Hongkong%20and%20Shanghai%20Banking%20Corporation/HSBC One ATM Card \u6ed9\u8c50One\u81ea\u52d5\u6ac3\u54e1\u6a5f\u5361.png",
+        "issuer": {
+            "native_name": "\u9999\u6e2f\u4e0a\u6d77\u6ed9\u8c50\u9280\u884c",
+            "english_name": "The Hongkong and Shanghai Banking Corporation",
+            "country": "HK",
+            "url": "https://www.hsbc.com.hk"
+        }
+    },
+    {
+        "description": "ZA Card",
+        "bin": [
+            448060
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "HK",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/ZA%20Bank/ZA Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/ZA%20Bank/ZA Card.png",
+        "issuer": {
+            "native_name": "\u773e\u5b89\u9280\u884c",
+            "english_name": "ZA Bank",
+            "country": "HK",
+            "url": "https://bank.za.group"
+        }
+    },
+    {
+        "description": "livi Debit Mastercard",
+        "bin": [
+            519018
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "HK",
+            "level": "Standard"
+        },
+        "source": "PayPal",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/livi%20Bank/livi Debit Mastercard.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/livi%20Bank/livi Debit Mastercard.png",
+        "issuer": {
+            "native_name": "\u7406\u6167\u9280\u884c",
+            "english_name": "livi Bank",
+            "country": "HK",
+            "url": "https://www.livibank.com"
+        }
+    },
+    {
+        "description": "PTSB Debit Card",
+        "bin": [
+            431935
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "IE",
+            "level": "Classic"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Permanent%20TSB/PTSB Debit Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Permanent%20TSB/PTSB Debit Card.png",
+        "issuer": {
+            "native_name": "Permanent TSB",
+            "english_name": "Permanent TSB",
+            "country": "IE",
+            "url": "https://permanenttsb.ie"
+        }
+    },
+    {
+        "description": "\u30a2\u30d7\u30e9\u30b9\u30ab\u30fc\u30c9 (Mastercard)",
+        "bin": [
+            521498
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "JP",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/APLUS/\u30a2\u30d7\u30e9\u30b9\u30ab\u30fc\u30c9 (Mastercard).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/APLUS/\u30a2\u30d7\u30e9\u30b9\u30ab\u30fc\u30c9 (Mastercard).png",
+        "issuer": {
+            "native_name": "\u30a2\u30d7\u30e9\u30b9",
+            "english_name": "APLUS",
+            "country": "JP",
+            "url": "https://www.aplus.co.jp"
+        }
+    },
+    {
+        "description": "\uff34\u30ab\u30fc\u30c9 \u30d7\u30e9\u30b9",
+        "bin": [
+            358277
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "JCB",
+            "country": "JP",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/APLUS/\uff34\u30ab\u30fc\u30c9 \u30d7\u30e9\u30b9.svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/APLUS/\uff34\u30ab\u30fc\u30c9 \u30d7\u30e9\u30b9.svg",
+        "issuer": {
+            "native_name": "\u30a2\u30d7\u30e9\u30b9",
+            "english_name": "APLUS",
+            "country": "JP",
+            "url": "https://www.aplus.co.jp"
+        }
+    },
+    {
+        "description": "JCB GOLD (ORIGINAL SERIES)",
+        "bin": [
+            354103
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "JCB",
+            "country": "JP",
+            "level": "Gold"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/JCB%20Card/JCB GOLD (ORIGINAL SERIES).svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/JCB%20Card/JCB GOLD (ORIGINAL SERIES).svg",
+        "issuer": {
+            "native_name": "JCB\u30ab\u30fc\u30c9",
+            "english_name": "JCB Card",
+            "country": "JP",
+            "url": "https://www.jcb.co.jp"
+        }
+    },
+    {
+        "description": "\u307f\u305a\u307b\u30de\u30a4\u30ec\u30fc\u30b8\u30af\u30e9\u30d6 MasterCard",
+        "bin": [
+            525036
+        ],
+        "manager": {
+            "native_name": "UC\u30ab\u30fc\u30c9",
+            "english_name": "UC Card",
+            "country": "JP",
+            "url": "https://www2.uccard.co.jp"
+        },
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "JP",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Mizuho%20Bank/\u307f\u305a\u307b\u30de\u30a4\u30ec\u30fc\u30b8\u30af\u30e9\u30d6 MasterCard.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Mizuho%20Bank/\u307f\u305a\u307b\u30de\u30a4\u30ec\u30fc\u30b8\u30af\u30e9\u30d6 MasterCard.png",
+        "issuer": {
+            "native_name": "\u307f\u305a\u307b\u9280\u884c",
+            "english_name": "Mizuho Bank",
+            "country": "JP",
+            "url": "https://www.mizuhobank.co.jp"
+        }
+    },
+    {
+        "description": "TS3\u30ab\u30fc\u30c9\u30ec\u30ae\u30e5\u30e9\u30fc (JCB)",
+        "bin": [
+            358746
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "JCB",
+            "country": "JP",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Toyota%20Finance%20Corporation/TS3\u30ab\u30fc\u30c9\u30ec\u30ae\u30e5\u30e9\u30fc (JCB).svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Toyota%20Finance%20Corporation/TS3\u30ab\u30fc\u30c9\u30ec\u30ae\u30e5\u30e9\u30fc (JCB).svg",
+        "issuer": {
+            "native_name": "\u30c8\u30e8\u30bf\u30d5\u30a1\u30a4\u30ca\u30f3\u30b9",
+            "english_name": "Toyota Finance Corporation",
+            "country": "JP",
+            "url": "https://tscubic.com"
+        }
+    },
+    {
+        "description": "TS3\u30ab\u30fc\u30c9\u30ec\u30ae\u30e5\u30e9\u30fc (Mastercard)",
+        "bin": [
+            557850
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "JP",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Toyota%20Finance%20Corporation/TS3\u30ab\u30fc\u30c9\u30ec\u30ae\u30e5\u30e9\u30fc (Mastercard).svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Toyota%20Finance%20Corporation/TS3\u30ab\u30fc\u30c9\u30ec\u30ae\u30e5\u30e9\u30fc (Mastercard).svg",
+        "issuer": {
+            "native_name": "\u30c8\u30e8\u30bf\u30d5\u30a1\u30a4\u30ca\u30f3\u30b9",
+            "english_name": "Toyota Finance Corporation",
+            "country": "JP",
+            "url": "https://tscubic.com"
+        }
+    },
+    {
+        "description": "UCS\u30ab\u30fc\u30c9",
+        "bin": [
+            520856
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Standard",
+            "country": "JP"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/UCS%20Card/UCS\u30ab\u30fc\u30c9.svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/UCS%20Card/UCS\u30ab\u30fc\u30c9.svg",
+        "issuer": {
+            "native_name": "UCS\u30ab\u30fc\u30c9",
+            "english_name": "UCS Card",
+            "country": "JP",
+            "url": "https://www.ucscard.co.jp"
+        }
+    },
+    {
+        "description": "Mastercard Prepaid",
+        "bin": [
+            521431
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "KZ",
+            "level": "Prepaid"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/S1lkpay/Mastercard Prepaid.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/S1lkpay/Mastercard Prepaid.png",
+        "issuer": {
+            "native_name": "S1lkpay",
+            "english_name": "S1lkpay",
+            "country": "KZ",
+            "url": "https://s1lkpay.com"
+        }
+    },
+    {
+        "description": "Wise Card Malaysia (New)",
+        "bin": [
+            418596
+        ],
+        "manager": {
+            "native_name": "Wise Payments Malaysia",
+            "english_name": "Wise Payments Malaysia",
+            "country": "MY",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "MY"
+        },
+        "source": "PayPal",
+        "filename": "Wise Platinum Card (New).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Platinum Card (New).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Platinum Card (New).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card Malaysia (Old)",
+        "bin": [
+            418596
+        ],
+        "manager": {
+            "native_name": "Wise Payments Malaysia",
+            "english_name": "Wise Payments Malaysia",
+            "country": "MY",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "MY"
+        },
+        "source": "PayPal",
+        "filename": "Wise Card (Old).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Card (Old).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Card (Old).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "Wise Card Malaysia (Virtual)",
+        "bin": [
+            418596
+        ],
+        "manager": {
+            "native_name": "Wise Payments Malaysia",
+            "english_name": "Wise Payments Malaysia",
+            "country": "MY",
+            "url": "https://wise.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "MY"
+        },
+        "source": "PayPal",
+        "filename": "Wise Platinum Card (Virtual).png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Wise/Wise Platinum Card (Virtual).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Wise/Wise Platinum Card (Virtual).png",
+        "issuer": {
+            "native_name": "Wise",
+            "english_name": "Wise",
+            "country": "GB",
+            "url": "https://wise.com"
+        }
+    },
+    {
+        "description": "me Combo\u5361",
+        "bin": [
+            524189
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20SinoPac/me Combo\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20SinoPac/me Combo\u5361.png",
+        "issuer": {
+            "native_name": "\u6c38\u8c50\u9280\u884c",
+            "english_name": "Bank SinoPac",
+            "country": "TW",
+            "url": "https://bank.sinopac.com"
+        }
+    },
+    {
+        "description": "\u5922\u884c\u9226\u5546\u60a0\u904a\u5361",
+        "bin": [
+            519923
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "category": "Commercial",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20SinoPac/\u5922\u884c\u9226\u5546\u60a0\u904a\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20SinoPac/\u5922\u884c\u9226\u5546\u60a0\u904a\u5361.png",
+        "issuer": {
+            "native_name": "\u6c38\u8c50\u9280\u884c",
+            "english_name": "Bank SinoPac",
+            "country": "TW",
+            "url": "https://bank.sinopac.com"
+        }
+    },
+    {
+        "description": "\u9226\u8c50Combo\u5361",
+        "bin": [
+            524196
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20SinoPac/\u9226\u8c50Combo\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20SinoPac/\u9226\u8c50Combo\u5361.png",
+        "issuer": {
+            "native_name": "\u6c38\u8c50\u9280\u884c",
+            "english_name": "Bank SinoPac",
+            "country": "TW",
+            "url": "https://bank.sinopac.com"
+        }
+    },
+    {
+        "description": "\u9226\u8c50\u5361",
+        "bin": [
+            524196
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20SinoPac/\u9226\u8c50\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20SinoPac/\u9226\u8c50\u5361.png",
+        "issuer": {
+            "native_name": "\u6c38\u8c50\u9280\u884c",
+            "english_name": "Bank SinoPac",
+            "country": "TW",
+            "url": "https://bank.sinopac.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u4fe1\u6f22\u795e\u767e\u8ca8\u5fa1\u74bd\u5361",
+        "bin": [
+            418230
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u4fe1\u6f22\u795e\u767e\u8ca8\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u4fe1\u6f22\u795e\u767e\u8ca8\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u4fe1\u7121\u5370\u826f\u54c1\u767d\u91d1\u5361",
+        "bin": [
+            431195
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u4fe1\u7121\u5370\u826f\u54c1\u767d\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u4fe1\u7121\u5370\u826f\u54c1\u767d\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17LINE Pay Debit\u5361",
+        "bin": [
+            447757
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Classic"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17LINE Pay Debit\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17LINE Pay Debit\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17LINE Pay\u5546\u52d9\u5fa1\u74bd\u5361",
+        "bin": [
+            430451
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "category": "Business",
+            "level": "Signature"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17LINE Pay\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17LINE Pay\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17\u4e2d\u83ef\u96fb\u4fe1\u666e\u5361",
+        "bin": [
+            456301
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Classic"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u4e2d\u83ef\u96fb\u4fe1\u666e\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u4e2d\u83ef\u96fb\u4fe1\u666e\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17\u5546\u65c5\u9226\u91d1\u5361",
+        "bin": [
+            524689
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "category": "Commercial",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u5546\u65c5\u9226\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u5546\u65c5\u9226\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u5fa1\u74bd\u5361",
+        "bin": [
+            418230
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u666e\u5361 (VISA)",
+        "bin": [
+            456301
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Classic"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u666e\u5361 (VISA).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u666e\u5361 (VISA).png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u767d\u91d1\u5361 (Mastercard)",
+        "bin": [
+            552049
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u767d\u91d1\u5361 (Mastercard).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u767d\u91d1\u5361 (Mastercard).png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u767d\u91d1\u5361 (VISA)",
+        "bin": [
+            431195
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u767d\u91d1\u5361 (VISA).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/CTBC%20Bank/\u4e2d\u570b\u4fe1\u8a17\u7d05\u5229\u767d\u91d1\u5361 (VISA).png",
+        "issuer": {
+            "native_name": "\u4e2d\u570b\u4fe1\u8a17\u9280\u884c",
+            "english_name": "CTBC Bank",
+            "country": "TW",
+            "url": "https://www.ctbcbank.com"
+        }
+    },
+    {
+        "description": "\u570b\u6cf0\u4e16\u83efMastercard\u767d\u91d1CUBE\u5361",
+        "bin": [
+            514869
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efMastercard\u767d\u91d1CUBE\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efMastercard\u767d\u91d1CUBE\u5361.png",
+        "issuer": {
+            "native_name": "\u570b\u6cf0\u4e16\u83ef\u9280\u884c",
+            "english_name": "Cathay United Bank",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
+        }
+    },
+    {
+        "description": "\u570b\u6cf0\u4e16\u83efMastercard\u9226\u5546CUBE\u5361",
+        "bin": [
+            524106
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "category": "Commercial",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efMastercard\u9226\u5546CUBE\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efMastercard\u9226\u5546CUBE\u5361.png",
+        "issuer": {
+            "native_name": "\u570b\u6cf0\u4e16\u83ef\u9280\u884c",
+            "english_name": "Cathay United Bank",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
+        }
+    },
+    {
+        "description": "\u570b\u6cf0\u4e16\u83efMastercard\u9226\u91d1CUBE\u5361",
+        "bin": [
+            524106
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efMastercard\u9226\u91d1CUBE\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efMastercard\u9226\u91d1CUBE\u5361.png",
+        "issuer": {
+            "native_name": "\u570b\u6cf0\u4e16\u83ef\u9280\u884c",
+            "english_name": "Cathay United Bank",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
+        }
+    },
+    {
+        "description": "\u570b\u6cf0\u4e16\u83efVISA\u5fa1\u74bdCUBE\u5361",
+        "bin": [
+            428430
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efVISA\u5fa1\u74bdCUBE\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efVISA\u5fa1\u74bdCUBE\u5361.png",
+        "issuer": {
+            "native_name": "\u570b\u6cf0\u4e16\u83ef\u9280\u884c",
+            "english_name": "Cathay United Bank",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
+        }
+    },
+    {
+        "description": "\u570b\u6cf0\u4e16\u83efVISA\u767d\u91d1CUBE\u5361",
+        "bin": [
+            402310
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efVISA\u767d\u91d1CUBE\u5361.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Cathay%20United%20Bank/\u570b\u6cf0\u4e16\u83efVISA\u767d\u91d1CUBE\u5361.jpg",
+        "issuer": {
+            "native_name": "\u570b\u6cf0\u4e16\u83ef\u9280\u884c",
+            "english_name": "Cathay United Bank",
+            "country": "TW",
+            "url": "https://www.cathaybk.com.tw"
+        }
+    },
+    {
+        "description": "\u539f\u82b1\u65d7\u73fe\u91d1\u56de\u994b\u5361",
+        "bin": [
+            431178
+        ],
+        "manager": {
+            "native_name": "\u661f\u5c55\u9280\u884c (\u53f0\u7063)",
+            "english_name": "DBS Bank (Taiwan)",
+            "country": "TW",
+            "url": "https://www.dbs.com.tw"
+        },
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Infinite",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Citibank%20(Taiwan)/\u539f\u82b1\u65d7\u73fe\u91d1\u56de\u994b\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Citibank%20(Taiwan)/\u539f\u82b1\u65d7\u73fe\u91d1\u56de\u994b\u5361.png",
+        "issuer": {
+            "native_name": "\u82b1\u65d7\u9280\u884c (\u53f0\u7063)",
+            "english_name": "Citibank (TAIWAN)",
+            "country": "TW",
+            "url": "https://www.citibank.com.tw"
+        }
+    },
+    {
+        "description": "\u539f\u82b1\u65d7\u8d85\u7d1a\u7d05\u5229\u56de\u994b\u9226\u91d1\u5361",
+        "bin": [
+            540805
+        ],
+        "manager": {
+            "native_name": "\u661f\u5c55\u9280\u884c (\u53f0\u7063)",
+            "english_name": "DBS Bank (Taiwan)",
+            "country": "TW",
+            "url": "https://www.dbs.com.tw"
+        },
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Titanium",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Citibank%20(Taiwan)/\u539f\u82b1\u65d7\u8d85\u7d1a\u7d05\u5229\u56de\u994b\u9226\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Citibank%20(Taiwan)/\u539f\u82b1\u65d7\u8d85\u7d1a\u7d05\u5229\u56de\u994b\u9226\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u82b1\u65d7\u9280\u884c (\u53f0\u7063)",
+            "english_name": "Citibank (TAIWAN)",
+            "country": "TW",
+            "url": "https://www.citibank.com.tw"
+        }
+    },
+    {
+        "description": "\u661f\u5c55\u98db\u884c\u9226\u91d1\u5361",
+        "bin": [
+            545278
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Titanium",
+            "country": "TW"
+        },
+        "source": "Samsung Pay",
+        "ext": "webp",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/DBS%20Bank%20(Taiwan)/\u661f\u5c55\u98db\u884c\u9226\u91d1\u5361.webp",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/DBS%20Bank%20(Taiwan)/\u661f\u5c55\u98db\u884c\u9226\u91d1\u5361.webp",
+        "issuer": {
+            "native_name": "\u661f\u5c55\u9280\u884c (\u53f0\u7063)",
+            "english_name": "DBS Bank (Taiwan)",
+            "country": "TW",
+            "url": "https://www.dbs.com.tw"
+        }
+    },
+    {
+        "description": "\u661f\u5c55\u9957\u6a02\u751f\u6d3b\u767d\u91d1\u60a0\u904a\u5361",
+        "bin": [
+            463670
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/DBS%20Bank%20(Taiwan)/\u661f\u5c55\u9957\u6a02\u751f\u6d3b\u767d\u91d1\u60a0\u904a\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/DBS%20Bank%20(Taiwan)/\u661f\u5c55\u9957\u6a02\u751f\u6d3b\u767d\u91d1\u60a0\u904a\u5361.png",
+        "issuer": {
+            "native_name": "\u661f\u5c55\u9280\u884c (\u53f0\u7063)",
+            "english_name": "DBS Bank (Taiwan)",
+            "country": "TW",
+            "url": "https://www.dbs.com.tw"
+        }
+    },
+    {
+        "description": "ETC\u60a0\u904a\u806f\u540d\u5361",
+        "bin": [
+            356618
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "JCB",
+            "level": "Precious",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/ETC\u60a0\u904a\u806f\u540d\u5361.svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/ETC\u60a0\u904a\u806f\u540d\u5361.svg",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "Pi\u62cd\u9322\u5305\u4fe1\u7528\u5361 (\u5c11\u5973\u7c89\u7c89)",
+        "bin": [
+            524255
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/Pi\u62cd\u9322\u5305\u4fe1\u7528\u5361 (\u5c11\u5973\u7c89\u7c89).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/Pi\u62cd\u9322\u5305\u4fe1\u7528\u5361 (\u5c11\u5973\u7c89\u7c89).png",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "Pi\u62cd\u9322\u5305\u4fe1\u7528\u5361 (\u70cf\u6f06\u561b\u9ed1)",
+        "bin": [
+            524255
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/Pi\u62cd\u9322\u5305\u4fe1\u7528\u5361 (\u70cf\u6f06\u561b\u9ed1).png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/Pi\u62cd\u9322\u5305\u4fe1\u7528\u5361 (\u70cf\u6f06\u561b\u9ed1).png",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "\u516c\u52d9\u4eba\u54e1\u570b\u6c11\u65c5\u904a\u5361",
+        "bin": [
+            523976
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/\u516c\u52d9\u4eba\u54e1\u570b\u6c11\u65c5\u904a\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/\u516c\u52d9\u4eba\u54e1\u570b\u6c11\u65c5\u904a\u5361.png",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "\u5bb6\u6a02\u798fETC\u60a0\u904a\u806f\u540d\u5361",
+        "bin": [
+            524255
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/\u5bb6\u6a02\u798fETC\u60a0\u904a\u806f\u540d\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/\u5bb6\u6a02\u798fETC\u60a0\u904a\u806f\u540d\u5361.png",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "\u7389\u5c71JCB\u6676\u7dfb\u5361",
+        "bin": [
+            356618
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "JCB",
+            "level": "Precious",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/\u7389\u5c71JCB\u6676\u7dfb\u5361.svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/\u7389\u5c71JCB\u6676\u7dfb\u5361.svg",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "\u7389\u5c71\u661f\u5b87\u822a\u7a7a\u4e16\u754c\u5361",
+        "bin": [
+            519480
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "World"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/\u7389\u5c71\u661f\u5b87\u822a\u7a7a\u4e16\u754c\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/\u7389\u5c71\u661f\u5b87\u822a\u7a7a\u4e16\u754c\u5361.png",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "\u7389\u5c71\u718a\u672c\u718a\u5361-\u718a\u718a\u53cb\u597d",
+        "bin": [
+            356772
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "JCB",
+            "level": "Precious",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "svg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/E.SUN%20Commercial%20Bank/\u7389\u5c71\u718a\u672c\u718a\u5361-\u718a\u718a\u53cb\u597d.svg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/E.SUN%20Commercial%20Bank/\u7389\u5c71\u718a\u672c\u718a\u5361-\u718a\u718a\u53cb\u597d.svg",
+        "issuer": {
+            "native_name": "\u7389\u5c71\u9280\u884c",
+            "english_name": "E.SUN Commercial Bank",
+            "country": "TW",
+            "url": "https://www.esunbank.com.tw"
+        }
+    },
+    {
+        "description": "VISA\u91d1\u878d\u5361",
+        "bin": [
+            469521
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "level": "Classic",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/First%20Commercial%20Bank/VISA\u91d1\u878d\u5361.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/First%20Commercial%20Bank/VISA\u91d1\u878d\u5361.jpg",
+        "issuer": {
+            "native_name": "\u7b2c\u4e00\u9280\u884c",
+            "english_name": "First Commercial BankBank",
+            "country": "TW",
+            "url": "https://www.firstbank.com.tw"
+        }
+    },
+    {
+        "description": "\u7b2c\u4e00\u9280\u884c\u60a0\u904a\u806f\u540d\u767d\u91d1\u5361",
+        "bin": [
+            468828
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Platinum",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/First%20Commercial%20Bank/\u7b2c\u4e00\u9280\u884c\u60a0\u904a\u806f\u540d\u767d\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/First%20Commercial%20Bank/\u7b2c\u4e00\u9280\u884c\u60a0\u904a\u806f\u540d\u767d\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u7b2c\u4e00\u9280\u884c",
+            "english_name": "First Commercial BankBank",
+            "country": "TW",
+            "url": "https://www.firstbank.com.tw"
+        }
+    },
+    {
+        "description": "\u5b87\u5b99\u660e\u661fBT21\u4fe1\u7528\u5361",
+        "bin": [
+            412698
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Mega%20International%20Commercial%20Bank/\u5b87\u5b99\u660e\u661fBT21\u4fe1\u7528\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Mega%20International%20Commercial%20Bank/\u5b87\u5b99\u660e\u661fBT21\u4fe1\u7528\u5361.png",
+        "issuer": {
+            "native_name": "\u5146\u8c50\u9280\u884c",
+            "english_name": "Mega International Commercial Bank",
+            "country": "TW",
+            "url": "https://www.megabank.com.tw"
+        }
+    },
+    {
+        "description": "Costco\u806f\u540d\u5361",
+        "bin": [
+            524108
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taipei%20Fubon%20Commercial%20Bank/Costco\u806f\u540d\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taipei%20Fubon%20Commercial%20Bank/Costco\u806f\u540d\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u5317\u5bcc\u90a6\u9280\u884c",
+            "english_name": "Taipei Fubon Commercial Bank",
+            "country": "TW",
+            "url": "https://www.fubon.com"
+        }
+    },
+    {
+        "description": "\u5bcc\u90a6\u608d\u5c07Debit\u5361",
+        "bin": [
+            550915
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taipei%20Fubon%20Commercial%20Bank/\u5bcc\u90a6\u608d\u5c07Debit\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taipei%20Fubon%20Commercial%20Bank/\u5bcc\u90a6\u608d\u5c07Debit\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u5317\u5bcc\u90a6\u9280\u884c",
+            "english_name": "Taipei Fubon Commercial Bank",
+            "country": "TW",
+            "url": "https://www.fubon.com"
+        }
+    },
+    {
+        "description": "Gogoro Rewards\u5546\u52d9\u5fa1\u74bd\u5361",
+        "bin": [
+            416205
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "category": "Business",
+            "level": "Signature"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taishin%20International%20Bank/Gogoro Rewards\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taishin%20International%20Bank/Gogoro Rewards\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u65b0\u9280\u884c",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        }
+    },
+    {
+        "description": "\u53f0\u65b0Flygo\u5361",
+        "bin": [
+            414763
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Titanium",
+            "category": "Commercial",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0Flygo\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0Flygo\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u65b0\u9280\u884c",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        }
+    },
+    {
+        "description": "\u53f0\u65b0\u592a\u967d\u5fa1\u74bd\u5361",
+        "bin": [
+            414763
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0\u592a\u967d\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0\u592a\u967d\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u65b0\u9280\u884c",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        }
+    },
+    {
+        "description": "\u53f0\u65b0\u65b0\u5149\u4e09\u8d8a\u767d\u91d1\u5361",
+        "bin": [
+            552003
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Platinum"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0\u65b0\u5149\u4e09\u8d8a\u767d\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0\u65b0\u5149\u4e09\u8d8a\u767d\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u65b0\u9280\u884c",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        }
+    },
+    {
+        "description": "\u53f0\u65b0\u65b0\u5149\u4e09\u8d8a\u9226\u91d1\u5361",
+        "bin": [
+            552003
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "TW",
+            "level": "Titanium"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0\u65b0\u5149\u4e09\u8d8a\u9226\u91d1\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taishin%20International%20Bank/\u53f0\u65b0\u65b0\u5149\u4e09\u8d8a\u9226\u91d1\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u65b0\u9280\u884c",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        }
+    },
+    {
+        "description": "\u73ab\u7470Giving\u60a0\u904a\u5546\u52d9\u5fa1\u74bd\u5361",
+        "bin": [
+            416205
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "country": "TW",
+            "level": "Signature",
+            "category": "Business"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Taishin%20International%20Bank/\u73ab\u7470Giving\u60a0\u904a\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Taishin%20International%20Bank/\u73ab\u7470Giving\u60a0\u904a\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u53f0\u65b0\u9280\u884c",
+            "english_name": "Taishin International Bank",
+            "country": "TW",
+            "url": "https://www.taishinbank.com.tw"
+        }
+    },
+    {
+        "description": "\u806f\u90a6\u5168\u570b\u4e00\u5361\u901a\u5fa1\u74bd\u5361",
+        "bin": [
+            463781
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Union%20Bank%20Of%20Taiwan/\u806f\u90a6\u5168\u570b\u4e00\u5361\u901a\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Union%20Bank%20Of%20Taiwan/\u806f\u90a6\u5168\u570b\u4e00\u5361\u901a\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u806f\u90a6\u9280\u884c",
+            "english_name": "Union Bank Of Taiwan",
+            "country": "TW",
+            "url": "https://www.ubot.com.tw"
+        }
+    },
+    {
+        "description": "\u806f\u90a6\u5e78\u798fM\u60a0\u904a\u9226\u5546\u5361",
+        "bin": [
+            515709
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "level": "Titanium",
+            "category": "Commercial",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Union%20Bank%20Of%20Taiwan/\u806f\u90a6\u5e78\u798fM\u60a0\u904a\u9226\u5546\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Union%20Bank%20Of%20Taiwan/\u806f\u90a6\u5e78\u798fM\u60a0\u904a\u9226\u5546\u5361.png",
+        "issuer": {
+            "native_name": "\u806f\u90a6\u9280\u884c",
+            "english_name": "Union Bank Of Taiwan",
+            "country": "TW",
+            "url": "https://www.ubot.com.tw"
+        }
+    },
+    {
+        "description": "\u806f\u90a6\u8cf4\u9ede\u5546\u52d9\u5fa1\u74bd\u5361",
+        "bin": [
+            410523
+        ],
+        "card": {
+            "type": "Credit",
+            "brand": "VISA",
+            "level": "Signature",
+            "category": "Commercial",
+            "country": "TW"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Union%20Bank%20Of%20Taiwan/\u806f\u90a6\u8cf4\u9ede\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Union%20Bank%20Of%20Taiwan/\u806f\u90a6\u8cf4\u9ede\u5546\u52d9\u5fa1\u74bd\u5361.png",
+        "issuer": {
+            "native_name": "\u806f\u90a6\u9280\u884c",
+            "english_name": "Union Bank Of Taiwan",
+            "country": "TW",
+            "url": "https://www.ubot.com.tw"
+        }
+    },
+    {
+        "description": "Apple Card",
+        "manager": {
+            "native_name": "Goldman Sachs",
+            "english_name": "Goldman Sachs",
+            "country": "US",
+            "url": "https://www.goldmansachs.com"
+        },
+        "card": {
+            "type": "Credit",
+            "brand": "Mastercard",
+            "country": "US",
+            "level": "Standard"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Apple/Apple Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Apple/Apple Card.png",
+        "issuer": {
+            "native_name": "Apple",
+            "english_name": "Apple",
+            "country": "US",
+            "url": "https://card.apple.com"
+        }
+    },
+    {
+        "description": "Apple Cash",
+        "manager": {
+            "native_name": "Green Dot",
+            "english_name": "Green Dot",
+            "country": "US",
+            "url": "https://www.greendot.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "US"
+        },
+        "source": "Apple Pay",
+        "ext": "jpg",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Apple/Apple Cash.jpg",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Apple/Apple Cash.jpg",
+        "issuer": {
+            "native_name": "Apple",
+            "english_name": "Apple",
+            "country": "US",
+            "url": "https://card.apple.com"
+        }
+    },
+    {
+        "description": "Bank of America Visa Debit Card",
+        "bin": [
+            425628
+        ],
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "US",
+            "level": "Classic"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Bank%20of%20America/Bank of America Visa Debit Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Bank%20of%20America/Bank of America Visa Debit Card.png",
+        "issuer": {
+            "native_name": "Bank of America",
+            "english_name": "Bank of America",
+            "country": "US",
+            "url": "https://www.bankofamerica.com"
+        }
+    },
+    {
+        "description": "DasherDirect Prepaid Card",
+        "bin": [
+            444607
+        ],
+        "manager": {
+            "native_name": "Stride Bank",
+            "english_name": "Stride Bank",
+            "country": "US",
+            "url": "https://stridebank.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "VISA",
+            "country": "US",
+            "category": "Business",
+            "level": "Prepaid"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/DasherDirect/DasherDirect Prepaid Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/DasherDirect/DasherDirect Prepaid Card.png",
+        "issuer": {
+            "native_name": "DasherDirect",
+            "english_name": "DasherDirect",
+            "country": "US",
+            "url": "https://dasher.doordash.com/en-us/about/dasherdirect"
+        }
+    },
+    {
+        "description": "Deep Blue Debit",
+        "bin": [
+            524708
+        ],
+        "manager": {
+            "native_name": "Republic Bank",
+            "english_name": "Republic Bank",
+            "country": "US",
+            "url": "https://www.republicbank.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "US"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Deep%20Blue/Deep Blue Debit.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Deep%20Blue/Deep Blue Debit.png",
+        "issuer": {
+            "native_name": "Deep Blue",
+            "english_name": "Deep Blue",
+            "country": "US",
+            "url": "https://www.deepbluedebit.com"
+        }
+    },
+    {
+        "description": "Netspend Prepaid Card",
+        "bin": [
+            529062
+        ],
+        "manager": {
+            "native_name": "Pathward",
+            "english_name": "Pathward",
+            "country": "US",
+            "url": "https://www.pathward.com"
+        },
+        "card": {
+            "type": "Debit",
+            "brand": "Mastercard",
+            "country": "US",
+            "level": "Prepaid"
+        },
+        "source": "Apple Pay",
+        "ext": "png",
+        "image": "https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/Cards/Netspend/Netspend Prepaid Card.png",
+        "url": "https://github.com/HarukaKinen/Cardentify/blob/main/Cards/Netspend/Netspend Prepaid Card.png",
+        "issuer": {
+            "native_name": "Netspend",
+            "english_name": "Netspend",
+            "country": "US",
+            "url": "https://www.netspend.com"
+        }
+    }
+]
