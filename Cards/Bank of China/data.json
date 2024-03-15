@@ -7,6 +7,17 @@
     },
     "cards": [
         {
+            "description": "长城借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "长城洛天依联名借记卡",
             "bin": [
                 612790
@@ -30,6 +41,17 @@
                 "brand": "UnionPay",
                 "country": "CN",
                 "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中银无界数字白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
             },
             "source": "Apple Pay",
             "ext": "png"
