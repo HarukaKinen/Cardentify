@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "オリコ",
+        "english_name": "Orico",
+        "country": "JP",
+        "url": "https://www.orico.co.jp/"
+    },
+    "cards": [
+        {
+            "description": "Costco Global Card",
+            "bin": [
+                524804
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
