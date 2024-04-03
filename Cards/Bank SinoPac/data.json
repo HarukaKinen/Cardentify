@@ -62,6 +62,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Vogue聯名Mastercard卡",
+            "bin": [
+                524115
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
