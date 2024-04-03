@@ -132,6 +132,21 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "玉山Ubear信用卡（黄）",
+            "bin": [
+                558936
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "category": "Business",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
