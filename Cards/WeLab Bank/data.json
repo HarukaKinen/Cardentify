@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "匯立銀行",
+        "english_name": "WeLab Bank",
+        "country": "HK",
+        "url": "https://www.welab.bank"
+    },
+    "cards": [
+        {
+            "description": "WeLab Debit Card",
+            "bin": [
+                547974
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "HK",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
