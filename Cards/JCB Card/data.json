@@ -7,6 +7,20 @@
     },
     "cards": [
         {
+            "description": "シナジーJCBカード",
+            "bin": [
+                354078
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
             "description": "JCB GOLD (ORIGINAL SERIES)",
             "bin": [
                 354103
