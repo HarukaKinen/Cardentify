@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "千葉銀行",
+        "english_name": "Chiba Bank",
+        "country": "JP",
+        "url": "https://www.chibabank.co.jp/"
+    },
+    "cards": [
+        {
+            "description": "スーパーカード",
+            "bin": [
+                354270
+            ],
+            "manager": {
+                "native_name": "JCBクレジットカード",
+                "english_name": "JCB International Credit Card",
+                "country": "JP",
+                "url": "https://www.jcb.co.jp"
+            },
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Standard",
+                "country": "JP"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        }
+    ]
+}
