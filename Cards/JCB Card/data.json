@@ -21,6 +21,20 @@
             "ext": "svg"
         },
         {
+            "description": "JCBカード W plus L (ORIGINAL SERIES)",
+            "bin": [
+                358746
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
             "description": "JCB GOLD (ORIGINAL SERIES)",
             "bin": [
                 354103
