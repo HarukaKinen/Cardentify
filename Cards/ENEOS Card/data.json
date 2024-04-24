@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "ENEOS カード",
+        "english_name": "ENEOS Card",
+        "country": "JP",
+        "url": "https://www.eneos.co.jp/consumer/ss/card/card/"
+    },
+    "cards": [
+        {
+            "description": "ENEOSカードS",
+            "bin": [
+                358746
+            ],
+            "manager": {
+                "native_name": "トヨタファイナンス",
+                "english_name": "Toyota Finance Corporation",
+                "country": "JP",
+                "url": "https://tscubic.com"
+            },
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Standard",
+                "country": "JP"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        }
+    ]
+}
