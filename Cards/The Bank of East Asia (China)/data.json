@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "东亚银行 (中国)",
+        "english_name": "The Bank of East Asia (China)",
+        "country": "CN",
+        "url": "https://www.hkbea.com.cn"
+    },
+    "cards": [
+        {
+            "description": "东亚银行两地通借记卡",
+            "bin": [
+                622938
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Gold",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
