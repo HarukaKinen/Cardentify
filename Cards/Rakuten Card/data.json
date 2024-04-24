@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "楽天カード",
+        "english_name": "Rakuten Card",
+        "country": "JP",
+        "url": "https://www.rakuten-card.co.jp"
+    },
+    "cards": [
+        {
+            "description": "楽天ゴールドカード JCB",
+            "bin": [
+                358403
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
