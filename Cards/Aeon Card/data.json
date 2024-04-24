@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "イオンカード",
+        "english_name": "Aeon Card (Aeon Credit Service)",
+        "country": "JP",
+        "url": "https://www.aeon.co.jp"
+    },
+    "cards": [
+        {
+            "description": "TGC CARD",
+            "bin": [
+                358419
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        }
+    ]
+}
