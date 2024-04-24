@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "恒生銀行",
+        "english_name": "Hang Seng Bank",
+        "country": "HK",
+        "url": "https://www.hangseng.com"
+    },
+    "cards": [
+        {
+            "description": "Prestige Banking ATM Card",
+            "bin": [
+                623107
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
