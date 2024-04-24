@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "ARCS RARA Card",
+        "english_name": "アークスRARAカード",
+        "country": "JP",
+        "url": "https://www.arcs-g.co.jp/raracard/"
+    },
+    "cards": [
+        {
+            "description": "アークスRARA JCB カード",
+            "bin": [
+                354037
+            ],
+            "manager": {
+                "native_name": "JCBクレジットカード",
+                "english_name": "JCB International Credit Card",
+                "country": "JP",
+                "url": "https://www.jcb.co.jp"
+            },
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        }
+    ]
+}
