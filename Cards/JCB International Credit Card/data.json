@@ -1,7 +1,7 @@
 {
     "bank": {
-        "native_name": "JCBカード",
-        "english_name": "JCB Card",
+        "native_name": "JCBクレジットカード",
+        "english_name": "JCB International Credit Card",
         "country": "JP",
         "url": "https://www.jcb.co.jp"
     },
