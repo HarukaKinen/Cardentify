@@ -33,6 +33,20 @@
             },
             "source": "Apple Pay",
             "ext": "svg"
+        },
+        {
+            "description": "JCB一般カード",
+            "bin": [
+                354078
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "filename": "JCB一般カード (旧).svg"
         }
     ]
 }
