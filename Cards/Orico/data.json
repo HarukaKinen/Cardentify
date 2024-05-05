@@ -33,6 +33,20 @@
             },
             "source": "Apple Pay",
             "ext": "svg"
+        },
+        {
+            "description": "マツモトキヨシメンバースカード",
+            "bin": [
+                524805
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
         }
     ]
 }
