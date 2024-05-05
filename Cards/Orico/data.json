@@ -7,15 +7,15 @@
     },
     "cards": [
         {
-            "description": "Costco Global Card",
+            "description": "オリコカード",
             "bin": [
-                524804
+                524805
             ],
             "card": {
                 "type": "Credit",
                 "brand": "Mastercard",
                 "country": "JP",
-                "level": "Standard"
+                "level": "Gold"
             },
             "source": "Apple Pay",
             "ext": "png"
@@ -33,6 +33,34 @@
             },
             "source": "Apple Pay",
             "ext": "svg"
+        },
+        {
+            "description": "JR TOWER SQUARE CARD",
+            "bin": [
+                358305
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "Costco Global Card",
+            "bin": [
+                524804
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         },
         {
             "description": "マツモトキヨシメンバースカード",
