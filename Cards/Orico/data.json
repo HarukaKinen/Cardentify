@@ -7,20 +7,6 @@
     },
     "cards": [
         {
-            "description": "オリコカード",
-            "bin": [
-                524805
-            ],
-            "card": {
-                "type": "Credit",
-                "brand": "Mastercard",
-                "country": "JP",
-                "level": "Gold"
-            },
-            "source": "Apple Pay",
-            "ext": "png"
-        },
-        {
             "description": "エディオンカード",
             "bin": [
                 354078
@@ -49,6 +35,20 @@
             "ext": "svg"
         },
         {
+            "description": "オリコカード",
+            "bin": [
+                524805
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "Costco Global Card",
             "bin": [
                 524804
@@ -74,7 +74,7 @@
                 "level": "Gold"
             },
             "source": "Apple Pay",
-            "ext": "svg"
+            "ext": "png"
         }
     ]
 }
