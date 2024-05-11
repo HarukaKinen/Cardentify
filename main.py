@@ -27,11 +27,11 @@ for root, dirs, files in os.walk("Cards"):
                 for l in data["cards"]:
                     issuer = data["bank"]
                     if l.get("filename") is None:
-                        image = f'https://raw.githubusercontent.com\\HarukaKinen\\Cardentify\\main\\{os.path.join(root, l["description"])}.{l["ext"]}'
-                        path = f'https://github.com\\HarukaKinen\\Cardentify\\blob\\main\\{os.path.join(root, l["description"])}.{l["ext"]}'
+                        image = f'https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/{os.path.join(root, l["description"])}.{l["ext"]}'
+                        path = f'https://github.com/HarukaKinen/Cardentify/blob/main/{os.path.join(root, l["description"])}.{l["ext"]}'
                     else:
-                        image = f'https://raw.githubusercontent.com\\HarukaKinen\\Cardentify\\main\\{os.path.join(root, l["filename"])}'
-                        path = f'https://github.com\\HarukaKinen\\Cardentify\\blob\\main\\{os.path.join(root, l["filename"])}'
+                        image = f'https://raw.githubusercontent.com/HarukaKinen/Cardentify/main/{os.path.join(root, l["filename"])}'
+                        path = f'https://github.com/HarukaKinen/Cardentify/blob/main/{os.path.join(root, l["filename"])}'
                     l.update({"image": image, "url": path, "issuer": issuer})
                     cards.append(l)
                     banks.append(issuer)
