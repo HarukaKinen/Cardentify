@@ -19,12 +19,11 @@ banks = []
 
 
 for root, dirs, files in os.walk("Cards"):
-    print(f"Processing {root.split("\\")[-1]}...")
     for data in files:
         if data == "data.json":
             with open(os.path.join(root, data), "r") as f:
                 data = json.load(f)
-                print(f"Get {data['bank']['native_name']} data...")
+                print(f"Processing {data['bank']['native_name']}...")
                 for l in data["cards"]:
                     issuer = data["bank"]
                     if l.get("filename") is None:
