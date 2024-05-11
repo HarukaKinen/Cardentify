@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "PayPal",
+        "english_name": "PayPal",
+        "country": "US",
+        "url": "https://www.paypal.com"
+    },
+    "cards": [
+        {
+            "description": "PayPal Debit Mastercard",
+            "bin": [
+                514377
+            ],
+            "manager": {
+                "native_name": "The Bancorp Bank",
+                "english_name": "The Bancorp Bank",
+                "country": "US",
+                "url": "https://www.thebancorp.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

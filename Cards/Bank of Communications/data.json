@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "交通银行",
+        "english_name": "Bank of Communications",
+        "country": "CN",
+        "url": "https://www.bankcomm.com"
+    },
+    "cards": [
+        {
+            "description": "太平洋借记卡",
+            "bin": [
+                622262
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

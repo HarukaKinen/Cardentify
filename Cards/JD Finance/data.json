@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "京东金融",
+        "english_name": "JD Finance",
+        "country": "CN",
+        "url": "http://jr.jd.com"
+    },
+    "cards": [
+        {
+            "description": "京东闪付",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
