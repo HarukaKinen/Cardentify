@@ -24,6 +24,7 @@ for bank in repos:
         print(f"Processing {name}")
         r = requests.get(bank["url"])
         card_data = r.json()
+        print(card_data)
         for i in card_data:
             if i["name"] == "data.json":
                 r = requests.get(i["download_url"])
