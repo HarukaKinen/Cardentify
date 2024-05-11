@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "中国建设银行",
+        "english_name": "China Construction Bank",
+        "country": "CN",
+        "url": "http://www.ccb.com"
+    },
+    "cards": [
+        {
+            "description": "龙卡JOY信用卡",
+            "bin": [
+                622708
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "China Union Pay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "银联储蓄卡",
+            "bin": [
+                621700
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "China Union Pay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

@@ -515,6 +515,34 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "Young卡(青年版)炫酷黑",
+            "bin": [
+                622576
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "招商银行一卡通（金卡IC卡）",
+            "bin": [
+                621485
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }

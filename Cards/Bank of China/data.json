@@ -55,6 +55,31 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "长城薪享借记卡（金卡）",
+            "bin": [
+                623573
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "长城信用卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }

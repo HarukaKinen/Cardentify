@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "OCBC Bank",
+        "english_name": "OCBC Bank",
+        "country": "SG",
+        "url": "https://www.ocbc.com"
+    },
+    "cards": [
+        {
+            "description": "OCBC Debit Card",
+            "bin": [
+                421808
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Visa",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

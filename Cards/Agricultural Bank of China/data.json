@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "中国农业银行",
+        "english_name": "Agricultural Bank of China",
+        "country": "CN",
+        "url": "https://www.abchina.com"
+    },
+    "cards": [
+        {
+            "description": "悠然白金卡蓝色版",
+            "bin": [
+                625998
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "China Union Pay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "金穗借记卡普卡",
+            "bin": [
+                622848
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "China Union Pay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

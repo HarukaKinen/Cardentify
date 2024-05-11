@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "中国邮政储蓄银行",
+        "english_name": "Postal Savings Bank of China",
+        "country": "CN",
+        "url": "https://www.psbc.com"
+    },
+    "cards": [
+        {
+            "description": "U+卡",
+            "bin": [
+                623677
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "China Union Pay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
