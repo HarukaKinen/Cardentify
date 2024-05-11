@@ -10,7 +10,7 @@
             "description": "京东闪付",
             "card": {
                 "type": "Debit",
-                "brand": "China Union Pay",
+                "brand": "UnionPay",
                 "country": "CN",
                 "level": "Standard"
             },

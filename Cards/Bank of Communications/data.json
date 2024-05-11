@@ -13,7 +13,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "China Union Pay",
+                "brand": "UnionPay",
                 "country": "CN",
                 "level": "Standard"
             },
