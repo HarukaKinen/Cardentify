@@ -17,33 +17,29 @@ cards = []
 
 banks = []
 
-for bank in repos:
-    if bank["type"] == "dir":
-        path = bank["path"]
-        name = bank["name"]
-        print(f"Processing {name}")
-        r = requests.get(bank["url"])
-        card_data = r.json()
-        print(card_data)
-        for i in card_data:
-            if i["name"] == "data.json":
-                r = requests.get(i["download_url"])
-                data = r.json()
+
+for root, dirs, files in os.walk("Cards"):
+    print(f"Processing {root.split("\\")[-1]}...")
+    for data in files:
+        if data == "data.json":
+            with open(os.path.join(root, data), "r") as f:
+                data = json.load(f)
+                print(f"Get {data['bank']['native_name']} data...")
                 for l in data["cards"]:
                     issuer = data["bank"]
                     if l.get("filename") is None:
-                        image = f'{i["download_url"].replace("data.json", l["description"])}.{l["ext"]}'
-                        path = f'{i["html_url"].replace("data.json", l["description"])}.{l["ext"]}'
+                        image = f'{os.path.join(root, l["description"])}.{l["ext"]}'
+                        path = f'{os.path.join(root, l["description"])}.{l["ext"]}'
                     else:
-                        image = f'{i["download_url"].replace("data.json", l["filename"])}'
-                        path = f'{i["html_url"].replace("data.json", l["filename"])}'
+                        image = f'{os.path.join(root, l["filename"])}'
+                        path = f'{os.path.join(root, l["filename"])}'
                     l.update({"image": image, "url": path, "issuer": issuer})
                     cards.append(l)
                     banks.append(issuer)
 
-country_counts = Counter([bank['country'] for bank in banks])
-banks = sorted(banks, key=lambda x: x['english_name'])
-banks = sorted(banks, key=lambda x: (-country_counts[x['country']], x['country']))
+country_counts = Counter([bank["country"] for bank in banks])
+banks = sorted(banks, key=lambda x: x["english_name"])
+banks = sorted(banks, key=lambda x: (-country_counts[x["country"]], x["country"]))
 
 if banks:
     with open("bank.json", "w") as f:
