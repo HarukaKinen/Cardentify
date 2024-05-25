@@ -13,7 +13,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "Visa",
+                "brand": "VISA",
                 "country": "SG",
                 "level": "Platinum"
             },
