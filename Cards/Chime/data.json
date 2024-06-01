@@ -1,0 +1,29 @@
+{
+    "bank": {
+        "native_name": "Chime",
+        "english_name": "Chime",
+        "country": "US",
+        "url": "https://www.chime.com"
+    },
+    "cards": [
+        {
+            "description": "Chime",
+            "bin": [
+                498503
+            ],
+            "manager": {
+                "native_name": "Stride Bank",
+                "english_name": "Stride Bank",
+                "country": "US",
+                "url": "https://stridebank.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
