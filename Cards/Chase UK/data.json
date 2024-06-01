@@ -17,8 +17,8 @@
                 "level": "World Elite",
                 "country": "GB"
             },
-            "source": "Google Pay",
-            "ext": "png"
+            "source": "PayPal",
+            "ext": "jpeg"
         }
     ]
 }
