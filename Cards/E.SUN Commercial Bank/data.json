@@ -21,6 +21,20 @@
             "ext": "svg"
         },
         {
+            "description": "玉山悠遊聯名卡",
+            "bin": [
+                356568
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Platinum",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
             "description": "玉山JCB晶緻卡",
             "bin": [
                 356618
