@@ -47,6 +47,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "HSBC Dual Currency Diamond Credit Card",
+            "bin": [
+                621067
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Diamond"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
