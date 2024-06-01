@@ -15,8 +15,8 @@
                 "level": "World",
                 "country": "GB"
             },
-            "source": "Samsung Pay",
-            "ext": "jpg"
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
