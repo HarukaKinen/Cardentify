@@ -7,6 +7,20 @@
     },
     "cards": [
         {
+            "description": "Monzo MasterCard",
+            "bin": [
+                535522
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "World",
+                "country": "GB"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "Monzo Metal MasterCard",
             "bin": [
                 535778
