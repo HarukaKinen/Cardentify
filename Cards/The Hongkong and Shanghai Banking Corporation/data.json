@@ -49,6 +49,20 @@
             "ext": "png"
         },
         {
+            "description": "HSBC Premier MasterCard 滙豐卓越理財信用卡",
+            "bin": [
+                518542
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "HK",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "HSBC Red Credit Card 滙豐Red信用卡",
             "bin": [
                 528946
