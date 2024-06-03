@@ -7,6 +7,20 @@
     },
     "cards": [
         {
+            "description": "現金回饋晶緻卡",
+            "bin": [
+                356670
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "TW",
+                "level": "Precious"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
             "description": "夢行鈦商悠遊卡",
             "bin": [
                 519923
