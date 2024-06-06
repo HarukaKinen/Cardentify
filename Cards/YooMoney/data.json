@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "ЮMoney",
+        "english_name": "YooMoney",
+        "country": "RU",
+        "url": "https://yoomoney.ru"
+    },
+    "cards": [
+        {
+            "description": "ЮMoney Виртуальная",
+            "bin": [
+                220412
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mir",
+                "country": "RU",
+                "level": "Standard"
+            },
+            "source": "Mir Pay",
+            "ext": "png"
+        }
+    ]
+}
