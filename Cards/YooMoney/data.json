@@ -15,7 +15,7 @@
                 "type": "Debit",
                 "brand": "Mir",
                 "country": "RU",
-                "level": "Standard"
+                "level": "Proprietary"
             },
             "source": "Mir Pay",
             "ext": "png"
