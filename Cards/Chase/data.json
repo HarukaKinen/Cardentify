@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Chase",
+        "english_name": "Chase",
+        "country": "US",
+        "url": "https://www.chase.com"
+    },
+    "cards": [
+        {
+            "description": "Chase Freedom Flex"
+            "bin": [
+                521307
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "World Elite",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
