@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "Trading 212",
+        "english_name": "Trading 212",
+        "country": "GB",
+        "url": "https://www.trading212.com"
+    },
+    "cards": [
+        {
+            "description": "Trading 212 Card",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
