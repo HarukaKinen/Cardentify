@@ -1,0 +1,25 @@
+{
+    "bank": {
+        "native_name": "Payoneer",
+        "english_name": "Payoneer",
+        "country": "US",
+        "url": "https://www.payoneer.com"
+    },
+    "cards": [
+        {
+            "description": "Payoneer card",
+            "bin": [
+                522692
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "World",
+                "category": "Commercial",
+                "country": "GR"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
