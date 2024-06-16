@@ -1,0 +1,170 @@
+{
+    "bank": {
+        "native_name": "Trading 212",
+        "english_name": "Trading 212",
+        "country": "GB",
+        "url": "https://www.trading212.com"
+    },
+    "cards": [
+        {
+            "description": "Trading 212 Card",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (White)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (Black)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (Cyan)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (Green)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (Orange)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (Yellow)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        },
+        {
+            "description": "Trading 212 Virtual Card (Pink)",
+            "bin": [
+                522943
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "Standard"
+            },
+            "manager": {
+                "native_name": "Paynetics",
+                "english_name": "Paynetics",
+                "country": "GB",
+                "url": "https://www.paynetics.digital"
+            },
+            "source": "PayPal",
+            "ext": "png"
+        }
+    ]
+}
