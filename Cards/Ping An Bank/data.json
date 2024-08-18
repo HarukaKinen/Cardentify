@@ -8,6 +8,9 @@
     "cards": [
         {
             "description": "平安银行IC借记卡普卡",
+            "bin": [
+                623058
+            ],
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
