@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "平安银行",
+        "english_name": "Ping An Bank",
+        "country": "CN",
+        "url": "https://bank.pingan.com/"
+    },
+    "cards": [
+        {
+            "description": "平安银行IC借记卡普卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
