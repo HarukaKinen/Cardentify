@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Commonwealth Bank of Australia",
+        "english_name": "Commonwealth Bank of Australia",
+        "country": "AU",
+        "url": "https://www.commbank.com.au"
+    },
+    "cards": [
+        {
+            "description": "Debit Mastercard",
+            "bin": [
+                521729
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "Standard",
+                "country": "AU"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
