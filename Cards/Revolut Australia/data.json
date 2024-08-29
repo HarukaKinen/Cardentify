@@ -1,20 +1,20 @@
 {
     "bank": {
-        "native_name": "HSBC Bank (Australia)",
-        "english_name": "HSBC Bank (Australia)",
+        "native_name": "Revolut Australia",
+        "english_name": "Revolut Australia",
         "country": "AU",
-        "url": "https://www.hsbc.com.au"
+        "url": "https://www.revolut.com/en-AU/"
     },
     "cards": [
         {
-            "description": "HSBC Everyday Global Visa Debit",
+            "description": "Revolut Metal Visa (Black)",
             "bin": [
-                458594
+                421604
             ],
             "card": {
                 "type": "Debit",
                 "brand": "VISA",
-                "level": "Classic",
+                "level": "Rewards",
                 "country": "AU"
             },
             "source": "Apple Pay",
