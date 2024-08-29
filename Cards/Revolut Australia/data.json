@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "HSBC Bank (Australia)",
+        "english_name": "HSBC Bank (Australia)",
+        "country": "AU",
+        "url": "https://www.hsbc.com.au"
+    },
+    "cards": [
+        {
+            "description": "HSBC Everyday Global Visa Debit",
+            "bin": [
+                458594
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Classic",
+                "country": "AU"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
