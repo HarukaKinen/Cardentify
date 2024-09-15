@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "宇宙星座卡普卡校园版·双鱼座",
+            "bin": [
+                625249
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
