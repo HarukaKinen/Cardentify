@@ -49,6 +49,20 @@
             "ext": "png"
         },
         {
+            "description": "HSBC Premier ATM Card 滙豐滙豐卓越理財自動櫃員機卡",
+            "bin": [
+                621443
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "HSBC Premier MasterCard 滙豐卓越理財信用卡",
             "bin": [
                 518542
