@@ -1,0 +1,32 @@
+{
+    "bank": {
+        "native_name": "HSBC Bank (USA)",
+        "english_name": "HSBC Bank (USA)",
+        "country": "US",
+        "url": "https://www.us.hsbc.com"
+    },
+    "cards": [
+        {
+            "description": "HSBC Premier MasterCard Debit",
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "World",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "HSBC Premier MasterCard",
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "World",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
