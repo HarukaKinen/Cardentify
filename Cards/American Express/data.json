@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "American Express",
+        "english_name": "American Express",
+        "country": "US",
+        "url": "https://www.americanexpress.com/"
+    },
+    "cards": [
+        {
+            "description": "Platinum Credit Card",
+            "bin": [
+                341282
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "HK",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
