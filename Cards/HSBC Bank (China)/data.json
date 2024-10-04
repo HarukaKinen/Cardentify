@@ -103,6 +103,20 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "汇丰银行（中国）卓越理财借记卡",
+            "bin": [
+                622946
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
