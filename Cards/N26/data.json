@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "N26",
+        "english_name": "N26",
+        "country": "DE",
+        "url": "https://n26.com"
+    },
+    "cards": [
+        {
+            "description": "N26 Mastercard (Virtual)",
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "DE",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
