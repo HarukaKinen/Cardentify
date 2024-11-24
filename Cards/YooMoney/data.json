@@ -19,6 +19,20 @@
             },
             "source": "Mir Pay",
             "ext": "png"
+        },
+        {
+            "description": "ЮMoney Пластиковая (Green Animals)",
+            "bin": [
+                220412
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mir",
+                "country": "RU",
+                "level": "Proprietary"
+            },
+            "source": "Mir Pay",
+            "ext": "png"
         }
     ]
 }
