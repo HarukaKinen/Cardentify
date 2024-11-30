@@ -19,6 +19,20 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "万豪旅享家银联联名卡精逸白金卡",
+            "bin": [
+                622688
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
