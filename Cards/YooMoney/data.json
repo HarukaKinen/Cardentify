@@ -7,7 +7,21 @@
     },
     "cards": [
         {
-            "description": "ЮMoney Виртуальная",
+            "description": "ЮMoney Виртуальная (Violet)",
+            "bin": [
+                220412
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mir",
+                "country": "RU",
+                "level": "Proprietary"
+            },
+            "source": "Mir Pay",
+            "ext": "png"
+        },
+        {
+            "description": "ЮMoney Виртуальная (Graffity)",
             "bin": [
                 220412
             ],
