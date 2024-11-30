@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "宁波银行",
+        "english_name": "Bank of NingBo",
+        "country": "CN",
+        "url": "https://www.nbcb.com.cn"
+    },
+    "cards": [
+        {
+            "description": "汇通卡",
+            "bin": [
+                621418
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

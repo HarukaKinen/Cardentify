@@ -19,6 +19,20 @@
             },
             "source": "Samsung Pay",
             "ext": "jpg"
+        },
+        {
+            "description": "BOC Mastercard Debit Card",
+            "bin": [
+                535075
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "HK",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
