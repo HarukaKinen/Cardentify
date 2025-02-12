@@ -80,6 +80,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "长城冰雪借记卡",
+            "bin": [
+                621669
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
