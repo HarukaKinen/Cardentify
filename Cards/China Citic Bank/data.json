@@ -33,6 +33,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "万事达双币借记卡金卡",
+            "bin": [
+                522401
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
