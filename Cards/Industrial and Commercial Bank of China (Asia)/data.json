@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "工银亚洲",
+        "english_name": "Industrial and Commercial Bank of China (Asia) Limited",
+        "country": "CN",
+        "url": "https://www.icbcasia.com"
+    },
+    "cards": [
+        {
+            "description": "ICBC SUP UnionPay Dual Currency Diamond Card",
+            "bin": [
+                625801
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Diamond"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
