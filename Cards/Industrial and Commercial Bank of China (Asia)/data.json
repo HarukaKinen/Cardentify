@@ -1,8 +1,8 @@
 {
     "bank": {
-        "native_name": "工银亚洲",
-        "english_name": "Industrial and Commercial Bank of China (Asia) Limited",
-        "country": "CN",
+        "native_name": "中國工商銀行（亞洲）",
+        "english_name": "Industrial and Commercial Bank of China (Asia)",
+        "country": "HK",
         "url": "https://www.icbcasia.com"
     },
     "cards": [
