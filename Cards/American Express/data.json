@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Blue Cash Everyday",
+            "bin": [
+                341109
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Everyday"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }

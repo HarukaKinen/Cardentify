@@ -201,9 +201,9 @@
             "filename": "Wise Infinite Card (Virtual).png"
         },
         {
-            "description": "Wise Card (Old)",
+            "description": "Wise Card (Virtual)",
             "bin": [
-                459661, 491232
+                459661
             ],
             "card": {
                 "type": "Debit",
@@ -212,7 +212,21 @@
                 "country": "GB"
             },
             "source": "PayPal",
-            "filename": "Wise Card (Old).png"
+            "filename": "Wise Infinite Card (Virtual).png"
+        },
+        {
+            "description": "Wise Infinite Card (Virtual Blue)",
+            "bin": [
+                459661
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Infinite",
+                "country": "GB"
+            },
+            "source": "Apple Pay",
+            "filename": "Wise Infinite Card (Virtual Blue).png"
         },
         {
             "description": "Wise Eco Card",

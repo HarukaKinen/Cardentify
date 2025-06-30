@@ -45,6 +45,26 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Tap N Go Card (Consumption Voucher)",
+            "bin": [
+                624468
+            ],
+            "manager": {
+                "native_name": "香港電訊支付",
+                "english_name": "HKT Payment",
+                "country": "HK",
+                "url": "https://www.hkt.com"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Prepaid",
+                "country": "HK"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
