@@ -7,7 +7,7 @@
     },
     "cards": [
         {
-            "description": "中銀卡",
+            "description": "中銀卡（舊）",
             "bin": [
                 612741
             ],
@@ -19,6 +19,20 @@
             },
             "source": "Samsung Pay",
             "ext": "jpg"
+        },
+        {
+            "description": "中銀卡",
+            "bin": [
+                612741
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "HK",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         },
         {
             "description": "BOC Mastercard Debit Card",
