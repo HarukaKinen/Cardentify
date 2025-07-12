@@ -23,7 +23,7 @@
         {
             "description": "立橋銀行銀聯五行卡（火）",
             "bin": [
-                "626295"
+                626295
             ],
             "card": {
                 "type": "Credit",
@@ -37,7 +37,7 @@
         {
             "description": "立橋銀行銀聯五行卡（金）",
             "bin": [
-                "626295"
+                626295
             ],
             "card": {
                 "type": "Credit",
@@ -51,7 +51,7 @@
         {
             "description": "立橋銀行銀聯五行卡（木）",
             "bin": [
-                "626295"
+                626295
             ],
             "card": {
                 "type": "Credit",
@@ -65,7 +65,7 @@
         {
             "description": "立橋銀行銀聯五行卡（水）",
             "bin": [
-                "626295"
+                626295
             ],
             "card": {
                 "type": "Credit",
@@ -79,7 +79,7 @@
         {
             "description": "立橋銀行銀聯五行卡（土）",
             "bin": [
-                "626295"
+                626295
             ],
             "card": {
                 "type": "Credit",
