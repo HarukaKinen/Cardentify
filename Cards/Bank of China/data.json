@@ -87,12 +87,34 @@
                 621669
             ],
             "card": {
-                "type": "Credit",
+                "type": "Debit",
                 "brand": "UnionPay",
                 "country": "CN",
                 "level": "Platinum"
             },
             "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "茈凌2021",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "初音未来",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
             "ext": "png"
         }
     ]
