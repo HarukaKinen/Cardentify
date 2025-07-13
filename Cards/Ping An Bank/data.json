@@ -19,6 +19,138 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "哔哩哔哩",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "平安银行-BLG",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "厦航",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Diamond"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "厦航白金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "小财娘1",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "小财娘2",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "小财娘3",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "小财娘4",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "小财娘6",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "小财娘数字人",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "星空",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "宇宙软着陆金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
         }
     ]
 }

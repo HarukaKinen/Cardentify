@@ -19,6 +19,16 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },{
+            "description": "闪光卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
         }
     ]
 }
