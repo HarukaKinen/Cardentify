@@ -47,6 +47,291 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },{
+            "description": "华南师范大学建校90周年联名卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "北京航空航天大学联名借记卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "工银香港科技大学（广州）",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "灵通账户",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "四川熊猫借记卡b",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "故宫联名追梦借记卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "故宫600年联名星耀八方卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "新市民主题卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "新锐主题借记卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "理财金卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "旅游卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "如意卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "上海华东师范大学联名卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "龙年生肖卡（飞龙在天）",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "i小宇主题借记卡低碳版",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "i小宇主题借记卡未来版",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "工银商友卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "吉祥凤凰借记卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "虎年生肖借记卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "龙年生肖卡（玉龙戏珠）",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "兔年生肖主题借记卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "北京环球度假区联名卡1",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "北京环球度假区联名卡2",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "聚财卡尊享版",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "工银薪金卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "工银财富卡",
+            "card": {
+                    "type": "Debit",
+                    "brand": "UnionPay",
+                    "country": "CN",
+                    "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }
