@@ -328,7 +328,7 @@
                     "type": "Debit",
                     "brand": "UnionPay",
                     "country": "CN",
-                    "level": "Standard"
+                    "level": "Platinum"
             },
             "source": "云闪付",
             "ext": "png"
