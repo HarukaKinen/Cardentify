@@ -543,6 +543,292 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "hellokitty粉",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "HELLOKITTY珍珠白",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "kitty金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "kitty涂鸦",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "VISA双币金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "VISA双币普卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "八重樱",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "崩3草履虫",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "哔哩哔哩干杯",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "标准金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "标准普卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "初音未来",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "初音未来境遇",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "低碳卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "海绵宝宝联名哈哈卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "葵花绽放",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "美少女战士",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "美少女战士变身",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "萌气卡1",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "萌气卡2",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "宝可梦联名借记卡 (皮卡丘2)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "闪耀暖暖",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "闪耀暖暖2",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "星巴克",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "自由人生白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "自由人生白金卡粉色",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
         }
     ]
 }

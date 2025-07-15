@@ -33,6 +33,28 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "幸福财富白金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "四叶草金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }

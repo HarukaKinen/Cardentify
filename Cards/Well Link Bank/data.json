@@ -1,0 +1,94 @@
+{
+    "bank": {
+        "native_name": "立橋銀行",
+        "english_name": "Well Link Bank",
+        "country": "MO",
+        "url": "https://wlbank.com.mo"
+    },
+    "cards": [
+        {
+            "description": "立橋銀行幸運借記卡",
+            "bin": [
+                629221
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "MO",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "立橋銀行銀聯五行卡（火）",
+            "bin": [
+                626295
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "MO",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "立橋銀行銀聯五行卡（金）",
+            "bin": [
+                626295
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "MO",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "立橋銀行銀聯五行卡（木）",
+            "bin": [
+                626295
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "MO",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "立橋銀行銀聯五行卡（水）",
+            "bin": [
+                626295
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "MO",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "立橋銀行銀聯五行卡（土）",
+            "bin": [
+                626295
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "MO",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}

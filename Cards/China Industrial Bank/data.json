@@ -19,6 +19,39 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "寰宇人生",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "熊猫1",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "熊猫2",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
         }
     ]
 }

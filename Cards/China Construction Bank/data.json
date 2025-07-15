@@ -33,6 +33,83 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "正青春",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "2233",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "哔哩哔哩2",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "哔哩哔哩太空探索",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "花开敦煌",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "建行生活plus",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "龙年贺岁",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
         }
     ]
 }

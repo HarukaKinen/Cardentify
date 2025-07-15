@@ -7,6 +7,215 @@
     },
     "cards": [
         {
+            "description": "沃德卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "标准白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "得利卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "高达独角兽",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "焕然白金",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依藏族",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依虎虎生V",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依洛舞樱花",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依蒙古族",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依苗族",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依十周年",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依维吾尔族",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依新年",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依夜航星",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依一剑寒霜",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依依见倾心",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "洛天依知交逍遥",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "泡泡玛特atm",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "青鸟",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
             "description": "太平洋借记卡",
             "bin": [
                 622262
