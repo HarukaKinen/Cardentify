@@ -14,7 +14,7 @@
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
-                "level": "Standard",
+                "level": "Diamond",
                 "country": "HK"
             },
             "source": "Apple Pay",
