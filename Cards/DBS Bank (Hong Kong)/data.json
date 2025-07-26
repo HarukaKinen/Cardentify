@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "星展銀行(香港)",
+        "english_name": "DBS Bank (Hong Kong)",
+        "country": "HK",
+        "url": "https://www.dbs.com.hk"
+    },
+    "cards": [
+        {
+            "description": "DBS Diamond Debit Card",
+            "bin": [
+                626310
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "HK"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
