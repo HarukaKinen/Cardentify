@@ -33,6 +33,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "American Express Explorer(TM) Credit Card",
+            "bin": [
+                379390
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "HK",
+                "level": "Explorer"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
