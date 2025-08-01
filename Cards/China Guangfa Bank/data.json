@@ -19,6 +19,20 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "广发银行理财通卡",
+            "bin": [
+                622568
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }

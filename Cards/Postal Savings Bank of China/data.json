@@ -19,7 +19,8 @@
             },
             "source": "Apple Pay",
             "ext": "png"
-        },{
+        },
+        {
             "description": "闪光卡",
             "card": {
                 "type": "Debit",
@@ -28,6 +29,20 @@
                 "level": "Standard"
             },
             "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "标准普卡绿卡通",
+            "bin": [
+                621797
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
             "ext": "png"
         }
     ]
