@@ -765,9 +765,9 @@
             "ext": "png"
         },
         {
-            "description": "宝可梦联名借记卡 (皮卡丘2)",
+            "description": "宝可梦粉丝卡皮卡丘版",
             "card": {
-                "type": "Debit",
+                "type": "Credit",
                 "brand": "UnionPay",
                 "country": "CN",
                 "level": "Standard"
