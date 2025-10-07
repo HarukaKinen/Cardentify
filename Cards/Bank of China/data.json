@@ -107,6 +107,28 @@
             "ext": "png"
         },
         {
+            "description": "乡村振兴卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "财富管理卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "初音未来",
             "card": {
                 "type": "Credit",
