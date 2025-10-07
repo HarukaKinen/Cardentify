@@ -42,6 +42,17 @@
             "source": "Mi Pay",
             "ext": "png"
         },
+         {
+            "description": "龙年生肖卡-龙仔贺岁",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
         {
             "description": "无界卡",
             "card": {
