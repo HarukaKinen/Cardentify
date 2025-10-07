@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "唐山银行",
+        "english_name": "Bank of Tangshan",
+        "country": "CN",
+        "url": "https://www.ts-bank.cn/"
+    },
+    "cards": [
+        {
+            "description": "盛唐卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
