@@ -32,6 +32,17 @@
             "ext": "png"
         },
         {
+            "description": "广发故宫文创白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "广发银行理财通卡",
             "bin": [
                 622568
