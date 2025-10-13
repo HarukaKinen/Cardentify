@@ -57,6 +57,20 @@
             "ext": "png"
         },
         {
+            "description": "长城工薪借记卡",
+            "bin": [
+                621785
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "长城薪享借记卡（金卡）",
             "bin": [
                 623573
