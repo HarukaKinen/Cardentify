@@ -21,6 +21,17 @@
             "ext": "png"
         },
         {
+            "description": "广发多利金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
             "description": "广发银行理财通卡",
             "bin": [
                 622568
