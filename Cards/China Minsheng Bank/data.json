@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "中国民生银行",
+        "english_name": "China Minsheng Bank",
+        "country": "CN",
+        "url": "https://www.cmbc.com.cn"
+    },
+    "cards": [
+        {
+            "description": "普通IC卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
