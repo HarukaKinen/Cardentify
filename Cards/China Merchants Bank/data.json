@@ -472,6 +472,61 @@
             "source": "云闪付",
             "ext": "png"
         },
+         {
+            "description": "宝可梦联名借记卡(妙蛙种子)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+         {
+            "description": "宝可梦联名借记卡(杰尼龟)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+         {
+            "description": "宝可梦联名借记卡(喷火龙)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+         {
+            "description": "宝可梦联名借记卡(可达鸭)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+         {
+            "description": "宝可梦联名借记卡(鲤鱼王)",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "QQ钱包联名卡",
             "card": {
