@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "Ready",
+        "english_name": "Ready",
+        "country": "GB",
+        "url": "https://www.ready.co/"
+    },
+    "cards": [
+        {
+            "description": "Ready Metal Platinum",
+            "bin": [
+                52401346
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB",
+                "level": "World Elite"
+            },
+            "manager": {
+                "native_name": "Monavate",
+                "english_name": "Monavate",
+                "country": "GB",
+                "url": "https://www.monavate.com/"
+            },
+            "source": "PayPal",
+            "ext": "jpg"
+        }
+    ]
+}
