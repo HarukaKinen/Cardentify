@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "华夏银行",
+        "english_name": "Huaxia Bank",
+        "country": "CN",
+        "url": "https://www.hxb.com.cn"
+    },
+    "cards": [
+        {
+            "description": "华夏卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
