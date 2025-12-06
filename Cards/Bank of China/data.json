@@ -152,6 +152,31 @@
             },
             "source": "Mi Pay",
             "ext": "png"
+        },
+        {
+            "description": "长城无界青春卡校园版",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "中国银行",
+            "ext": "jpg"
+        },
+        {
+            "description": "长城商贸通借记卡",
+            "bin": [
+                621786
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }

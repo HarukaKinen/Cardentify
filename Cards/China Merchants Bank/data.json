@@ -884,6 +884,56 @@
             },
             "source": "Mi Pay",
             "ext": "png"
+        },
+        {
+            "description": "YOUNG卡青年版-校园版",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "招商银行",
+            "ext": "jpg"
+        },
+        {
+            "description": "一网通账户",
+            "bin": [
+                612476
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "愤怒的小鸟联名储蓄卡（高能baby）",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "万事达人民币IC借记卡（普卡）",
+            "bin": [
+                534293
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "American Express",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "招商银行",
+            "ext": "webp"
         }
     ]
 }

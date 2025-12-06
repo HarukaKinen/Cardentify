@@ -52,6 +52,17 @@
             },
             "source": "Mi Pay",
             "ext": "png"
+        },
+        {
+            "description": "无界借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }

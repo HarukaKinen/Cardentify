@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "微众银行",
+        "english_name": "WeBank",
+        "country": "CN",
+        "url": "https://www.webank.com"
+    },
+    "cards": [
+        {
+            "description": "微众卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "level": "Standard",
+                "country": "CN"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
