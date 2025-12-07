@@ -928,7 +928,7 @@
             ],
             "card": {
                 "type": "Debit",
-                "brand": "American Express",
+                "brand": "MasterCard",
                 "country": "CN",
                 "level": "Standard"
             },
