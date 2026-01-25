@@ -63,6 +63,17 @@
             },
             "source": "Mi Pay",
             "ext": "png"
+        },
+        {
+            "description": "外滩12号主题卡-卡面一",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
