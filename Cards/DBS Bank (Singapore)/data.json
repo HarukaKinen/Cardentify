@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "DBS Bank",
+        "english_name": "DBS Bank",
+        "country": "SG",
+        "url": "https://www.dbs.com.sg"
+    },
+    "cards": [
+        {
+            "description": "DBS Visa Debit Card",
+            "bin": [
+                462845
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "PAssion POSB Debit Card",
+            "bin": [
+                526471
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

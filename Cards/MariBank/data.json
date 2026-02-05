@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "MariBank",
+        "english_name": "MariBank",
+        "country": "SG",
+        "url": "https://www.maribank.sg"
+    },
+    "cards": [
+        {
+            "description": "MariBank Card",
+            "bin": [
+                548021
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

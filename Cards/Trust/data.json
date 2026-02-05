@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Trust",
+        "english_name": "Trust",
+        "country": "SG",
+        "url": "https://trustbank.sg"
+    },
+    "cards": [
+        {
+            "description": "Trust Link Card",
+            "bin": [
+                417971
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "SG",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

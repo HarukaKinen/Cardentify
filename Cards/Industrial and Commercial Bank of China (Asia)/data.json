@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "ICBC Horoscope Visa Signature Card",
+            "bin": [
+                454327
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "HK",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }

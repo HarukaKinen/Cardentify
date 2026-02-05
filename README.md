@@ -48,7 +48,7 @@
                 "type": "Credit", // 卡类型
                 "brand": "VISA", // 发行品牌
                 "country": "US", // 发行国家
-                "level": "Platnium" // 卡等
+                "level": "Platinum" // 卡等
             },
             "source": "Apple Pay", // 图片来源
             "ext": "png", // 图片格式，如果需要的图片文件名与 description 字段相同，在此处填写其图片后缀即可，否则忽略该字段，填写下方的 filename 字段

@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "United Overseas Bank",
+        "english_name": "United Overseas Bank",
+        "country": "SG",
+        "url": "https://www.uob.com.sg"
+    },
+    "cards": [
+        {
+            "description": "UOB FX+ Debit Card",
+            "bin": [
+                521655
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "SG",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "UOB One Debit VISA Card",
+            "bin": [
+                418238
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "SG",
+                "level": "Platnium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

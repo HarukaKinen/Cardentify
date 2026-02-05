@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Maybank SG",
+        "english_name": "Maybank SG",
+        "country": "SG",
+        "url": "https://www.maybank2u.com.sg"
+    },
+    "cards": [
+        {
+            "description": "Maybank Platinum Debit Card",
+            "bin": [
+                552630
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

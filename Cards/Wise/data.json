@@ -361,6 +361,48 @@
             },
             "source": "PayPal",
             "filename": "Wise Eco Card.png"
+        },
+        {
+            "description": "Wise Card Singapore (Visa)",
+            "bin": [
+                459695
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "SG"
+            },
+            "source": "Apple Pay",
+            "filename": "Wise Platinum Card (New).png"
+        },
+        {
+            "description": "Wise Card Singapore (Virtual Visa)",
+            "bin": [
+                459695
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "level": "Platinum",
+                "country": "SG"
+            },
+            "source": "Apple Pay",
+            "filename": "Wise Platinum Card (Virtual).png"
+        },
+        {
+            "description": "Wise Card Singapore (Virtual Mastercard)",
+            "bin": [
+                530068
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "Platinum",
+                "country": "SG"
+            },
+            "source": "Apple Pay",
+            "filename": "Wise Platinum Card (Virtual Mastercard).png"
         }
     ]
 }

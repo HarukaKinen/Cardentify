@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "Revolut",
+        "english_name": "Revolut",
+        "country": "SG",
+        "url": "https://www.revolut.com"
+    },
+    "cards": [
+        {
+            "description": "Revolut Visa Original Card",
+            "bin": [
+                448196
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Revolut Visa Grey Card",
+            "bin": [
+                448196
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

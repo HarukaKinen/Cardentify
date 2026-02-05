@@ -117,6 +117,34 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "HSBC EveryMile Credit Card 滙豐EveryMile信用卡",
+            "bin": [
+                436605
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "HK",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "HSBC Visa Signature Card 滙豐 Visa Signature 卡",
+            "bin": [
+                496604
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "HK",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
