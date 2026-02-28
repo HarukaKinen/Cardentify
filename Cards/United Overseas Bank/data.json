@@ -29,10 +29,11 @@
                 "type": "Debit",
                 "brand": "VISA",
                 "country": "SG",
-                "level": "Platnium"
+                "level": "Platinum"
             },
             "source": "Apple Pay",
             "ext": "png"
         }
     ]
 }
+

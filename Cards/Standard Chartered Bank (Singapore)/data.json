@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Standard Chartered (Singapore)",
+        "english_name": "Standard Chartered (Singapore)",
+        "country": "SG",
+        "url": "https://www.sc.com/sg"
+    },
+    "cards": [
+        {
+            "description": "Standard Chartered Cashback Debit Card",
+            "bin": [
+                524355
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "SG",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

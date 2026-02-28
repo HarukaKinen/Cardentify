@@ -7,7 +7,7 @@
     },
     "cards": [
         {
-            "description": "HSBC Mastercard Debit 滙豐萬事達卡扣脹卡",
+            "description": "HSBC Mastercard Debit 滙豐萬事達卡扣賬卡",
             "bin": [
                 541375
             ],
@@ -21,7 +21,21 @@
             "ext": "png"
         },
         {
-            "description": "HSBC Mastercard Debit 滙豐萬事達卡扣脹卡附屬卡",
+            "description": "HSBC Mastercard Debit 滙豐萬事達卡扣賬卡 (新)",
+            "bin": [
+                541375
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "HK",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "HSBC Mastercard Debit 滙豐萬事達卡扣賬卡附屬卡",
             "bin": [
                 541375
             ],
