@@ -934,6 +934,20 @@
             },
             "source": "招商银行",
             "ext": "webp"
+        },
+        {
+            "description": "福建理工大学·一卡通",
+            "bin": [
+                621483
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "招商银行",
+            "ext": "png"
         }
     ]
 }
