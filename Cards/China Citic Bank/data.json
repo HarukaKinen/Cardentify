@@ -77,6 +77,20 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "幸福年华卡",
+            "bin": [
+                621773
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }
