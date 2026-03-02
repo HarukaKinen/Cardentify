@@ -47,6 +47,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Hilton Honors American Express Aspire Card",
+            "bin": [
+                379799
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
         }
     ]
 }
