@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Morgan Stanley",
+        "english_name": "Morgan Stanley",
+        "country": "US",
+        "url": "https://www.morganstanley.com"
+    },
+    "cards": [
+        {
+            "description": "Morgan Stanley CashPlus Debit Card",
+            "bin": [
+                552492
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
