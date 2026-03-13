@@ -56,10 +56,24 @@
             "source": "Apple Pay",
             "ext": "png"
         },
+               {
+            "description": "招商银行一闪通账户",
+                    "bin": [
+                621483
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "HelloKitty联名金葵花卡",
             "bin": [
-                612483
+                621483
             ],
             "card": {
                 "type": "Debit",
