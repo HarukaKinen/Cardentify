@@ -131,6 +131,17 @@
             "source": "云闪付",
             "ext": "png"
         },
+                {
+            "description": "牛年生肖卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "财富管理卡",
             "card": {

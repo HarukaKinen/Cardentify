@@ -53,6 +53,28 @@
             "source": "云闪付",
             "ext": "png"
         },
+                     {
+                    "description": "胖虎卡（生龙活虎）",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                     {
+                    "description": 绿卡通（磁条卡）",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
              {
                     "description": "乡村振兴卡",
             "card": {

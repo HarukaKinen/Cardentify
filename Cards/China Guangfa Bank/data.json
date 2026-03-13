@@ -42,6 +42,17 @@
             "source": "云闪付",
             "ext": "png"
         },
+                {
+            "description": "京东联名卡金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "广发银行理财通卡",
             "bin": [
