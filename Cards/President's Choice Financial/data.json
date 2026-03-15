@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "President's Choice Financial",
+        "english_name": "President's Choice Financial",
+        "country": "CA",
+        "url": "https://www.pcfinancial.ca/"
+    },
+    "cards": [
+        {
+            "description": "President's Choice World Mastercard",
+            "bin": [
+                522879
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "CA",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
