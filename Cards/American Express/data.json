@@ -75,6 +75,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "AMEX SimplyCash",
+            "bin": [
+                340176
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
