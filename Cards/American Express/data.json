@@ -89,6 +89,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Rewards Checking Card",
+            "bin": [
+                370914
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
