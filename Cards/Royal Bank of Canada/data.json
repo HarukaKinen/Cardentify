@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Royal Bank of Canada",
+        "english_name": "Royal Bank of Canada",
+        "country": "CA",
+        "url": "https://www.rbcroyalbank.com/"
+    },
+    "cards": [
+        {
+            "description": "RBC Cash Back Mastercard",
+            "bin": [
+                541590
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
