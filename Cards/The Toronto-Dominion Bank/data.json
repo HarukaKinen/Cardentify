@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "The Toronto-Dominion Bank",
+        "english_name": "The Toronto-Dominion Bank",
+        "country": "CA",
+        "url": "https://www.td.com"
+    },
+    "cards": [
+        {
+            "description": "TD Cash Back Visa Card",
+            "bin": [
+                452034
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "level": "Standard",
+                "country": "CA"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
