@@ -1,18 +1,18 @@
 {
     "bank": {
-        "native_name": "Royal Bank of Canada",
-        "english_name": "Royal Bank of Canada",
+        "native_name": "KOHO",
+        "english_name": "KOHO",
         "country": "CA",
-        "url": "https://www.rbcroyalbank.com/"
+        "url": "https://www.koho.ca/"
     },
     "cards": [
         {
-            "description": "RBC Cash Back Mastercard",
+            "description": "KOHO Prepaid MasterCard",
             "bin": [
-                541590
+                559994
             ],
             "card": {
-                "type": "Credit",
+                "type": "Prepaid",
                 "brand": "Mastercard",
                 "country": "CA",
                 "level": "Standard"
