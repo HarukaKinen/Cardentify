@@ -19,6 +19,20 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "President's Choice Money Account",
+            "bin": [
+                533866
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
