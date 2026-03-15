@@ -61,6 +61,20 @@
             },
             "source": "Apple Pay",
             "ext": "jpg"
+        },
+        {
+            "description": "Marriott Bonvoy® American Express® Card",
+            "bin": [
+                340176
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
