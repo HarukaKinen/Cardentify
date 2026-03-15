@@ -65,7 +65,7 @@
             "ext": "png"
         },
                      {
-                    "description": 绿卡通（磁条卡）",
+                    "description": "绿卡通（磁条卡）",
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
