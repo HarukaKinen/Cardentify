@@ -63,6 +63,20 @@
             "ext": "jpg"
         },
         {
+            "description": "Hilton Honors American Express Card",
+            "bin": [
+                379799
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
+        },
+        {
             "description": "Marriott Bonvoy® American Express® Card",
             "bin": [
                 340176
