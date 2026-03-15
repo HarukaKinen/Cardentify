@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "吉林银行",
+        "english_name": "Bank of Jilin",
+        "country": "CN",
+        "url": "https://www.jlbank.com.cn"
+    },
+    "cards": [
+        {
+            "description": "长白山卡",
+            "bin": [
+                623131
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}
