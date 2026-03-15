@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "Scotiabank",
+        "english_name": "Scotiabank",
+        "country": "CA",
+        "url": "https://www.scotiabank.com/"
+    },
+    "cards": [
+        {
+            "description": "Scene+ Visa Card",
+            "bin": [
+                535666
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Visa",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
