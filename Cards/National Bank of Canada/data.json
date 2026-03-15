@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "National Bank of Canada",
+        "english_name": "National Bank of Canada",
+        "country": "CA",
+        "url": "https://www.nbc.ca/"
+    },
+    "cards": [
+        {
+            "description": "National Bank of Canada Debit Card",
+            "bin": [
+                500235
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
