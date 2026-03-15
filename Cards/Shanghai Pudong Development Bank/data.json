@@ -42,7 +42,7 @@
             "source": "Mi Pay",
             "ext": "png"
         },
-         {
+        {
             "description": "龙年生肖卡-龙仔贺岁",
             "card": {
                 "type": "Debit",
@@ -62,6 +62,20 @@
                 "level": "Standard"
             },
             "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "蛇年贺岁 生肖系列借记卡",
+            "bin": [
+                621792
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
             "ext": "png"
         }
     ]
