@@ -142,14 +142,14 @@
             "ext": "png"
         },
         {
-            "description": "宇宙软着陆金卡",
+            "description": "悦享白金卡",
             "card": {
-                "type": "Debit",
+                "type": "Credit",
                 "brand": "UnionPay",
                 "country": "CN",
-                "level": "Gold"
+                "level": "Platinum"
             },
-            "source": "Mi Pay",
+            "source": "云闪付",
             "ext": "png"
         }
     ]
