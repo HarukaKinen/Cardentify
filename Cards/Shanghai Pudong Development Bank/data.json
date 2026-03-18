@@ -31,6 +31,17 @@
             "source": "Mi Pay",
             "ext": "png"
         },
+                {
+            "description": "浦浦发发星空版",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "世界高度",
             "card": {
