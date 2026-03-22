@@ -20,6 +20,20 @@
             "source": "云闪付",
             "ext": "png"
         },
+                {
+            "description": "浦发运通白金梦卡",
+            "bin": [
+               378331
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Member"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "长三角星耀",
             "card": {
