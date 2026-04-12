@@ -20,6 +20,86 @@
             "source": "云闪付",
             "ext": "png"
         },
+                {
+            "description": "浦发运通白金梦卡",
+            "bin": [
+               378331
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Member"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                        {
+            "description": "浦发运通白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Max"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                           {
+            "description": "浦发运通萌主卡",
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "MAX"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                           {
+            "description": "浦发运通耀红卡",
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Scarlet"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                           {
+            "description": "浦发运通车主卡",
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Select"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                           {
+            "description": "浦发运通经典白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Select"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                        {
+            "description": "浦发运通新贵卡",
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
         {
             "description": "长三角星耀",
             "card": {
@@ -29,6 +109,17 @@
                 "level": "Standard"
             },
             "source": "Mi Pay",
+            "ext": "png"
+        },
+                {
+            "description": "浦浦发发星空版",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
             "ext": "png"
         },
         {

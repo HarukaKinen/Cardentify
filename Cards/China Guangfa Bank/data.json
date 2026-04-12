@@ -66,6 +66,17 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+                {
+            "description": "广发BEBE联名借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
         }
     ]
 }
