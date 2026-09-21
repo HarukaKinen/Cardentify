@@ -24,7 +24,7 @@
                 "level": "Prepaid"
             },
             "source": "Apple Pay",
-            "ext": "pdf"
+            "ext": "png"
         }
     ]
 }

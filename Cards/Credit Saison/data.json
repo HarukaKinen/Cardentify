@@ -15,10 +15,10 @@
                 "type": "Credit",
                 "brand": "AMEX",
                 "country": "JP",
-                "level": "Standard"
+                "level": "Gold"
             },
             "source": "Apple Pay",
-            "ext": "pdf"
+            "ext": "png"
         }
     ]
 }

@@ -18,7 +18,7 @@
                 "level": "Standard"
             },
             "source": "Apple Pay",
-            "ext": "pdf"
+            "ext": "png"
         }
     ]
 }

@@ -24,7 +24,7 @@
                 "level": "Prepaid"
             },
             "source": "Apple Pay",
-            "ext": "pdf"
+            "ext": "png"
         },
         {
             "description": "d払い",
@@ -44,7 +44,7 @@
                 "level": "Prepaid"
             },
             "source": "Apple Pay",
-            "ext": "pdf"
+            "ext": "png"
         }
     ]
 }
