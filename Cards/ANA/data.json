@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "ANA",
+        "english_name": "ANA",
+        "country": "JP",
+        "url": "https://www.ana.co.jp/"
+    },
+    "cards": [
+        {
+            "description": "ANA Payプリペイドカード",
+            "bin": [
+                498494
+            ],
+            "manager": {
+                "native_name": "三井住友銀行",
+                "english_name": "Sumitomo Mitsui Banking Corporation",
+                "country": "JP",
+                "url": "https://www.smbc.co.jp/"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "JP",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        }
+    ]
+}

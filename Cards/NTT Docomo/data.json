@@ -1,0 +1,50 @@
+{
+    "bank": {
+        "native_name": "NTT Docomo",
+        "english_name": "NTT Docomo",
+        "country": "JP",
+        "url": "https://dcard.docomo.ne.jp/"
+    },
+    "cards": [
+        {
+            "description": "dカードプリペイド",
+            "bin": [
+                530237
+            ],
+            "manager": {
+                "native_name": "三井住友銀行",
+                "english_name": "Sumitomo Mitsui Banking Corporation",
+                "country": "JP",
+                "url": "https://www.smbc.co.jp/"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        },
+        {
+            "description": "d払い",
+            "bin": [
+                445891
+            ],
+            "manager": {
+                "native_name": "三井住友銀行",
+                "english_name": "Sumitomo Mitsui Banking Corporation",
+                "country": "JP",
+                "url": "https://www.smbc.co.jp/"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "JP",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        }
+    ]
+}

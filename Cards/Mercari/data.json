@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "メルカリ",
+        "english_name": "Mercari",
+        "country": "JP",
+        "url": "https://www.mercari.com/jp/"
+    },
+    "cards": [
+        {
+            "description": "メルペイ電子マネー",
+            "bin": [
+                530234
+            ],
+            "manager": {
+                "native_name": "三井住友銀行",
+                "english_name": "Sumitomo Mitsui Banking Corporation",
+                "country": "JP",
+                "url": "https://www.smbc.co.jp/"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        }
+    ]
+}

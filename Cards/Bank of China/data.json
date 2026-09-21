@@ -3,7 +3,7 @@
         "native_name": "中国银行",
         "english_name": "Bank of China",
         "country": "CN",
-        "url": "http://www.boc.cn"
+        "url": "https://www.boc.cn/"
     },
     "cards": [
         {
@@ -198,6 +198,21 @@
                 "level": "Platinum"
             },
             "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "罗纳河星空卡",
+            "bin": [
+                518473
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "CN",
+                "category": "Business",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
             "ext": "png"
         }
     ]

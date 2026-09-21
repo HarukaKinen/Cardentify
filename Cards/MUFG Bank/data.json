@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "三菱UFJ銀行",
+        "english_name": "MUFG Bank",
+        "country": "JP",
+        "url": "https://www.bk.mufg.jp/"
+    },
+    "cards": [
+        {
+            "description": "三菱UFJ-JCBデビット",
+            "bin": [
+                357374
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        }
+    ]
+}

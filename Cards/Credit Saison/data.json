@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "クレディセゾン",
+        "english_name": "Credit Saison",
+        "country": "JP",
+        "url": "https://www.saisoncard.co.jp/"
+    },
+    "cards": [
+        {
+            "description": "SAISON American Express® Card",
+            "bin": [
+                377784
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        }
+    ]
+}

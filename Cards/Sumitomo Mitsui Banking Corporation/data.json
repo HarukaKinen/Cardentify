@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "三井住友銀行",
+        "english_name": "Sumitomo Mitsui Banking Corporation",
+        "country": "JP",
+        "url": "https://www.smbc.co.jp/"
+    },
+    "cards": [
+        {
+            "description": "Ｏｌｉｖｅフレキシブルペイ",
+            "bin": [
+                470881
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "VポイントPay",
+            "bin": [
+                47088346
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "JP",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "pdf"
+        }
+    ]
+}

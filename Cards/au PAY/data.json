@@ -1,0 +1,30 @@
+{
+    "bank": {
+        "native_name": "au PAY",
+        "english_name": "au PAY",
+        "country": "JP",
+        "url": "https://www.au.com/payment/aupay/"
+    },
+    "cards": [
+        {
+            "description": "au PAY プリペイドカード",
+            "bin": [
+                516645
+            ],
+            "manager": {
+                "native_name": "クレディセゾン",
+                "english_name": "Credit Saison",
+                "country": "JP",
+                "url": "https://www.saisoncard.co.jp/"
+            },
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Prepaid"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
