@@ -91,6 +91,28 @@
             },
             "source": "云闪付",
             "ext": "png"
+        },
+        {
+            "description": "麦当劳联名银联信用卡金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "万事达人民币美元双币借记卡世界卡",
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "CN",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
         }
     ]
 }
