@@ -1,0 +1,20 @@
+name: 提交资料纠错
+description: 纠正已收录卡片的错误资料
+title: "[资料纠错] "
+body:
+  - type: input
+    id: card
+    attributes:
+      label: 卡片名称
+      placeholder: 请输入需要纠错的卡片名称
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 错误信息
+      description: 请自由填写需要纠正的内容，也可以附上相关链接或截图。
+      placeholder: 请说明哪里有误，以及正确的信息是什么……
+    validations:
+      required: true

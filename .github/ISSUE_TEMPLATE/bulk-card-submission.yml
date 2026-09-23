@@ -1,0 +1,66 @@
+name: 批量提交卡面
+description: 一次提交多个卡面文件或包含原始文件的压缩包
+title: "[批量提交] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        此表单适合一次提交多个卡面。你可以直接上传多个文件，也可以将原始文件打包为 ZIP 后上传。
+
+        请勿裁剪、缩放、压缩、转码、移除背景、添加水印或对卡面进行其他二次处理。压缩包仅用于归档和上传，不应改变其中的原始文件。
+
+        > [!WARNING]
+        > 提交前请检查每个文件及压缩包内容。请勿上传 `pass.json`、完整卡号、持卡人姓名、有效期、CVV、Token 或其他敏感信息。
+
+  - type: dropdown
+    id: source
+    attributes:
+      label: 卡面来源
+      description: 请选择这批卡面的来源。如果包含多个来源，请选择“多个来源”，并在其他信息中逐一说明。
+      options:
+        - Apple Pay
+        - Google Pay
+        - PayPal
+        - Samsung Pay
+        - Mi Pay
+        - 云闪付
+        - 多个来源
+    validations:
+      required: true
+
+  - type: textarea
+    id: artwork
+    attributes:
+      label: 卡面文件上传
+      description: 请将多个原始卡面文件或包含原始文件的 ZIP 压缩包直接拖放到此处。
+      placeholder: 将多个原始卡面文件或 ZIP 压缩包拖放到此处……
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 卡面其他信息
+      description: 可选。建议列出文件名、对应卡片、卡面来源及已知资料，尤其是在提交多个来源或文件名无法辨识时。无法确认的内容请留空，不要猜测，也不要提交完整卡号。
+      placeholder: |
+        1. 文件名：card-1.png
+           卡面来源：Apple Pay
+           银行或发卡机构：
+           卡片名称：
+           其他资料：
+
+        2. 文件名：card-2.png
+           卡面来源：Google Pay
+           银行或发卡机构：
+           卡片名称：
+           其他资料：
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我确认已上传从所选服务取得的原始卡面文件，未对卡面进行二次处理。
+          required: true
+        - label: 我已检查所有文件及压缩包内容，确认其中不包含 `pass.json`、完整卡号、CVV、Token 或其他敏感信息。
+          required: true
